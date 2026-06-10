@@ -1,0 +1,80 @@
+site_name: Die Ameisen von morgen
+site_description: Alles, was du für wirklich hältst, ist eine Geschichte — und jetzt betritt ein neuer Geschichtenerzähler die Bühne. Ein Buch in Arbeit.
+site_author: Thorsten Panneck-Conradi
+site_url: https://tpanneck.github.io/ameisen-von-morgen/
+repo_url: https://github.com/tpanneck/ameisen-von-morgen
+repo_name: tpanneck/ameisen-von-morgen
+copyright: "© Thorsten Panneck-Conradi & Claude — Manuskript in Arbeit, alle Rechte vorbehalten"
+
+theme:
+  name: material
+  language: de
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Dunkles Design
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Helles Design
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.sections
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: de
+
+nav:
+  - Start: index.md
+  - Leseprobe: leseprobe.md
+  - Buchkonzept: konzept.md
+  - "Teil I — Geschichten":
+      - "1 · Das Lagerfeuer": kapitel/kap01-lagerfeuer.md
+      - "2 · Die Erfindung der Wirklichkeit": kapitel/kap02-erfindung-der-wirklichkeit.md
+      - "3 · Ameisen und Kathedralen": kapitel/kap03-ameisen-und-kathedralen.md
+      - "4 · Die Krone aus Pappe": kapitel/kap04-krone-aus-pappe.md
+      - "5 · Warum Lügen wahr werden": kapitel/kap05-warum-luegen-wahr.md
+  - "Teil II — Maschinen":
+      - "6 · Im Anfang war das Wort": kapitel/kap06-im-anfang-war-das-wort.md
+      - "7 · Empathie": kapitel/kap07-empathie.md
+      - "8 · Kommunikation kommuniziert": kapitel/kap08-kommunikation-kommuniziert.md
+      - "9 · Die Kinder, die ihre Eltern vergessen": kapitel/kap09-kinder-die-eltern-vergessen.md
+      - "10 · Sinn, das Betriebssystem": kapitel/kap10-sinn-das-betriebssystem.md
+  - "Teil III — Der neue Gast":
+      - "11 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe.md
+      - "11 · Rohentwurf in voller Länge": kapitel/kap11-dritter-affe-entwurf.md
+      - "12 · Die falsche Frage": kapitel/kap12-falsche-frage.md
+      - "13 · Singularität der Kommunikation": kapitel/kap13-singularitaet.md
+      - "14 · Evolution ohne Plan": kapitel/kap14-evolution-ohne-plan.md
+  - "Schluss":
+      - "15 · Die Ameisen von morgen": kapitel/kap15-ameisen-von-morgen.md
+      - "16 · Die Krone aufheben": kapitel/kap16-krone-aufheben.md
+  - Werkstatt:
+      - Anregungen aus Masterarbeiten: kapitel/anregungen-masterarbeiten.md
+      - Literatur: literatur.md
