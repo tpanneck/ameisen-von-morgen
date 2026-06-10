@@ -70,8 +70,8 @@ nav:
   - "Teil III — Der neue Gast":
       - "11 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe-entwurf.md
       - "12 · Die falsche Frage": kapitel/kap12-falsche-frage-entwurf.md
-      - "13 · Singularität der Kommunikation (Exposé)": kapitel/kap13-singularitaet.md
-      - "14 · Evolution ohne Plan (Exposé)": kapitel/kap14-evolution-ohne-plan.md
+      - "13 · Das Feuer und der Spiegel": kapitel/kap13-singularitaet-entwurf.md
+      - "14 · Evolution hat keinen Plan": kapitel/kap14-evolution-ohne-plan-entwurf.md
   - "Schluss":
       - "15 · Die Ameisen von morgen (Exposé)": kapitel/kap15-ameisen-von-morgen.md
       - "16 · Die Krone aufheben (Exposé)": kapitel/kap16-krone-aufheben.md
@@ -91,4 +91,6 @@ nav:
           - "10 · Sinn, das Betriebssystem": kapitel/kap10-sinn-das-betriebssystem.md
           - "11 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe.md
           - "12 · Die falsche Frage": kapitel/kap12-falsche-frage.md
+          - "13 · Singularität der Kommunikation": kapitel/kap13-singularitaet.md
+          - "14 · Evolution ohne Plan": kapitel/kap14-evolution-ohne-plan.md
       - "11 · Der dritte Affe — Rohentwurf März (Tonlagen-Vergleich)": kapitel/kap11-dritter-affe-rohentwurf-maerz.md
