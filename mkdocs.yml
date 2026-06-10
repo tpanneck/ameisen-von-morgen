@@ -69,7 +69,7 @@ nav:
       - "10 · Sinn, das Betriebssystem": kapitel/kap10-sinn-das-betriebssystem-entwurf.md
   - "Teil III — Der neue Gast":
       - "11 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe-entwurf.md
-      - "12 · Die falsche Frage (Exposé)": kapitel/kap12-falsche-frage.md
+      - "12 · Die falsche Frage": kapitel/kap12-falsche-frage-entwurf.md
       - "13 · Singularität der Kommunikation (Exposé)": kapitel/kap13-singularitaet.md
       - "14 · Evolution ohne Plan (Exposé)": kapitel/kap14-evolution-ohne-plan.md
   - "Schluss":
@@ -90,4 +90,5 @@ nav:
           - "9 · Die Kinder, die ihre Eltern vergessen": kapitel/kap09-kinder-die-eltern-vergessen.md
           - "10 · Sinn, das Betriebssystem": kapitel/kap10-sinn-das-betriebssystem.md
           - "11 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe.md
+          - "12 · Die falsche Frage": kapitel/kap12-falsche-frage.md
       - "11 · Der dritte Affe — Rohentwurf März (Tonlagen-Vergleich)": kapitel/kap11-dritter-affe-rohentwurf-maerz.md
