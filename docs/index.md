@@ -48,7 +48,7 @@ dass es nicht weh tut, auch.
 : Was passiert, wenn ein Dritter ans Feuer tritt: der dritte Affe, die falsche Frage, die
   Singularität der Kommunikation, Evolution ohne Plan.
 
-**[Schluss](kapitel/kap15-ameisen-von-morgen.md)** *(Kapitel 15–16)*
+**[Schluss](kapitel/kap15-ameisen-von-morgen-entwurf.md)** *(Kapitel 15–16)*
 : Die Gegenwart, aus der Zukunft betrachtet — und eine Krone, die am Boden liegt und
   vielleicht dort gut liegt.
 
@@ -56,13 +56,13 @@ Am schnellsten bekommt man den Ton über die **[Leseprobe](leseprobe.md)** — K
 *Der dritte Affe am Lagerfeuer*.
 
 !!! note "Stand der Arbeit"
-    **Teil I und Teil II sind durchgeschrieben** (Kapitel 1–10 als erste Entwürfe), Kapitel
-    11 liegt im zweiten Entwurf vor; die Kapitel 12–16 sind als ausgearbeitete Exposés
-    vorhanden (jeweils mit Lektion, Dramaturgie und Anschluss an das Folgekapitel). Die
-    ursprünglichen März-Exposés sind in der **Werkstatt** archiviert. Dieses Repositorium
-    ist die Werkstatt, in der aus den Exposés ein Manuskript wird — Kapitel für Kapitel,
-    öffentlich einsehbar. Rückmeldungen sind willkommen, über GitHub. **Manuskript in
-    Arbeit; alle Rechte vorbehalten.**
+    **Das ganze Buch liegt jetzt im ersten Entwurf vor** — alle sechzehn Kapitel sind
+    durchgeschrieben (Kapitel 11 im zweiten Entwurf). Was bleibt, ist Überarbeitung:
+    Schärfen, Kürzen, das Ganze als Ganzes lesen. Die ursprünglichen März-Exposés sind in
+    der **Werkstatt** archiviert, dort findet sich auch der erste Rohentwurf von Kapitel 11
+    als Tonlagen-Vergleich. Dieses Repositorium ist die Werkstatt, in der aus den Exposés
+    ein Manuskript wurde — Kapitel für Kapitel, öffentlich einsehbar. Rückmeldungen sind
+    willkommen, über GitHub. **Manuskript in Arbeit; alle Rechte vorbehalten.**
 
 ---
 

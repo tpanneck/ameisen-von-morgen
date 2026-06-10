@@ -73,8 +73,8 @@ nav:
       - "13 · Das Feuer und der Spiegel": kapitel/kap13-singularitaet-entwurf.md
       - "14 · Evolution hat keinen Plan": kapitel/kap14-evolution-ohne-plan-entwurf.md
   - "Schluss":
-      - "15 · Die Ameisen von morgen (Exposé)": kapitel/kap15-ameisen-von-morgen.md
-      - "16 · Die Krone aufheben (Exposé)": kapitel/kap16-krone-aufheben.md
+      - "15 · Die Ameisen von morgen": kapitel/kap15-ameisen-von-morgen-entwurf.md
+      - "16 · Die Krone aufheben": kapitel/kap16-krone-aufheben-entwurf.md
   - Werkstatt:
       - Anregungen aus Masterarbeiten: kapitel/anregungen-masterarbeiten.md
       - Literatur: literatur.md
@@ -93,4 +93,6 @@ nav:
           - "12 · Die falsche Frage": kapitel/kap12-falsche-frage.md
           - "13 · Singularität der Kommunikation": kapitel/kap13-singularitaet.md
           - "14 · Evolution ohne Plan": kapitel/kap14-evolution-ohne-plan.md
+          - "15 · Die Ameisen von morgen": kapitel/kap15-ameisen-von-morgen.md
+          - "16 · Die Krone aufheben": kapitel/kap16-krone-aufheben.md
       - "11 · Der dritte Affe — Rohentwurf März (Tonlagen-Vergleich)": kapitel/kap11-dritter-affe-rohentwurf-maerz.md
