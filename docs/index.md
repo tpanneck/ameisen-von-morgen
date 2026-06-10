@@ -34,17 +34,17 @@ dass es nicht weh tut, auch.
 
 ## Der Bogen
 
-**[Teil I — Geschichten](kapitel/kap01-lagerfeuer.md)** *(Kapitel 1–5)*
+**[Teil I — Geschichten](kapitel/kap01-lagerfeuer-entwurf.md)** *(Kapitel 1–5)*
 : Wie wir wurden, was wir glauben zu sein: Fiktion am Lagerfeuer, die Erfindung der
   Wirklichkeit, Emergenz ohne Plan, Kontingenz — und der Mechanismus, durch den Erfundenes
   zur Tatsache wird.
 
-**[Teil II — Maschinen](kapitel/kap06-im-anfang-war-das-wort.md)** *(Kapitel 6–10)*
+**[Teil II — Maschinen](kapitel/kap06-im-anfang-war-das-wort-entwurf.md)** *(Kapitel 6–10)*
 : Was Kommunikation wirklich ist: Sprache als eigenständige Kraft, der Trick mit der
   Empathie, Luhmanns radikale Idee, die verselbständigten Funktionssysteme — und Sinn als
   Betriebssystem, das nicht Wahrheit verlangt, sondern Anschluss.
 
-**[Teil III — Der neue Gast](kapitel/kap11-dritter-affe.md)** *(Kapitel 11–14)*
+**[Teil III — Der neue Gast](kapitel/kap11-dritter-affe-entwurf.md)** *(Kapitel 11–14)*
 : Was passiert, wenn ein Dritter ans Feuer tritt: der dritte Affe, die falsche Frage, die
   Singularität der Kommunikation, Evolution ohne Plan.
 
@@ -53,14 +53,16 @@ dass es nicht weh tut, auch.
   vielleicht dort gut liegt.
 
 Am schnellsten bekommt man den Ton über die **[Leseprobe](leseprobe.md)** — Kapitel 11,
-*Der dritte Affe am Lagerfeuer*, im ersten Rohentwurf.
+*Der dritte Affe am Lagerfeuer*.
 
 !!! note "Stand der Arbeit"
-    Alle 16 Kapitel liegen als ausgearbeitete Exposés vor (jeweils mit Lektion, Dramaturgie
-    und Anschluss an das Folgekapitel); Kapitel 11 zusätzlich als Rohentwurf von rund
-    4'500 Wörtern. Dieses Repositorium ist die Werkstatt, in der aus den Exposés ein
-    Manuskript wird — Kapitel für Kapitel, öffentlich einsehbar. Rückmeldungen sind
-    willkommen, über GitHub. **Manuskript in Arbeit; alle Rechte vorbehalten.**
+    **Teil I und Teil II sind durchgeschrieben** (Kapitel 1–10 als erste Entwürfe), Kapitel
+    11 liegt im zweiten Entwurf vor; die Kapitel 12–16 sind als ausgearbeitete Exposés
+    vorhanden (jeweils mit Lektion, Dramaturgie und Anschluss an das Folgekapitel). Die
+    ursprünglichen März-Exposés sind in der **Werkstatt** archiviert. Dieses Repositorium
+    ist die Werkstatt, in der aus den Exposés ein Manuskript wird — Kapitel für Kapitel,
+    öffentlich einsehbar. Rückmeldungen sind willkommen, über GitHub. **Manuskript in
+    Arbeit; alle Rechte vorbehalten.**
 
 ---
 
