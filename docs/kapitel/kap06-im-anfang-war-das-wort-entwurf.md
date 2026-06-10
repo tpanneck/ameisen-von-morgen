@@ -12,9 +12,10 @@ hinweggegangen ist, und nun ist es Zeit, hineinzusehen. Wir haben gesagt: Die We
 gemacht. Das Geld, der Montag, die Grenze, die Moral — gebaut, nicht gefunden. Aber womit
 gebaut? Aus welchem Stoff sind die Mauern dieses Hauses, in dem wir wohnen, ohne je
 draussen gestanden zu haben? Die Antwort ist so naheliegend, dass man sie übersieht wie
-die Luft: Aus Sprache. Der Löwe am Felsen kam durch ein Wort in die Welt. Das Geld hält
-durch ein Versprechen, und ein Versprechen ist ein Satz. Die Dame und die Frau sind zwei
-Welten, weil sie zwei Wörter sind. Alles, was Menschen je gemeinsam für wirklich gehalten
+die Luft: Aus Sprache. Was den ersten Teil trug, war in jedem Fall ein Stück Sprache: Der
+Löwe wurde durch ein einziges Wort wirklich, das Geld ruht auf einem gegebenen Wort, und
+zwischen *Dame* und *Frau* liegt nicht ein anderer Mensch, sondern eine andere Welt. Alles,
+was Menschen je gemeinsam für wirklich gehalten
 haben, mussten sie zuvor einander sagen können.
 
 Eine alte Schrift bringt das auf eine Formel, die schöner ist als alles, was die

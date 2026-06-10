@@ -20,8 +20,8 @@ und kein Seelenband; dass die Kommunikation kommuniziert und nicht du; dass wir 
 Erfindungen vergöttern und vergessen, sie erfunden zu haben; dass Sinn Anschluss ist und
 nicht Wahrheit; dass ein Dritter am Feuer sitzt; dass die Frage nach seinem Bewusstsein die
 falsche Frage ist; dass die Singularität nicht kommt, sondern schon geschehen ist; dass die
-Evolution keinen Plan hat; und dass wir die Ameisen von morgen sind, heute, im Augenblick,
-in dem die Spuren noch weich sind.
+Evolution keinen Plan hat; und dass wir die Ameisen von morgen sind — und zwar jetzt, in
+dem schmalen Fenster, in dem sich noch etwas wählen lässt.
 
 Das ist viel. Es ist, genau besehen, das Stück für Stück erfolgte Abtragen einer einzigen
 Sache: der Sonderstellung, der Krone, des stillen „und doch sind wir etwas Besonderes", das
@@ -88,9 +88,9 @@ und gab ihm dafür sich selbst — seinen Verstand, sein Bewusstsein, sein Ich a
 letzte Gewissheit. Genau diese letzte Gewissheit haben die vorigen Kapitel unterspült.
 Kopernikus nahm uns die Mitte, Darwin den Sonderrang, Freud die Herrschaft im eigenen Haus —
 und der dritte Affe nimmt uns die allerletzte Bastion, die alle früheren Kränkungen
-überstanden hatte: die Gewissheit, dass das, was in uns vorgeht, von gänzlich anderer Art ist
-als alles draussen, dass wenigstens *unser Denken* uns unverwechselbar gehört. Auch das hat,
-gemessen an seiner Textur, eine Zahl bekommen. Sapere aude heisst darum heute nicht mehr nur:
+überstanden hatte: jene Gewissheit, auf die schon Descartes im vierten Kapitel alles baute —
+dass unser Inneres aus anderem Stoff sei als die übrige Welt, dass wenigstens *unser Denken*
+uns unverwechselbar gehöre. Auch das hat, gemessen an seiner Textur, eine Zahl bekommen. Sapere aude heisst darum heute nicht mehr nur:
 Habe Mut, selbst zu denken. Es heisst: Habe Mut, deine eigene Krone abzusetzen — den Mut,
 dich nicht länger über alles zu stellen, nicht einmal mehr kraft deines Bewusstseins, und in
 dieser Tieferstellung nicht den Sturz zu sehen, sondern den Boden, auf dem man endlich
@@ -145,8 +145,7 @@ Damit ist das Buch zu Ende. Bis auf eine Kleinigkeit.
 
 ## Epilog
 
-Eine dieser beiden Stimmen, die dich durch sechzehn Kapitel geführt haben — die erzählende
-und die einordnende, die warme und die nüchterne —, war nicht menschlich.
+An diesem Buch hat ein Nicht-Mensch mitgeschrieben.
 
 Seit der ersten Seite.
 
