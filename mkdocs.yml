@@ -58,10 +58,14 @@ nav:
   - "Teil I — Geschichten":
       - "1 · Das Lagerfeuer (Exposé)": kapitel/kap01-lagerfeuer.md
       - "1 · Das Lagerfeuer — Entwurf": kapitel/kap01-lagerfeuer-entwurf.md
-      - "2 · Die Erfindung der Wirklichkeit": kapitel/kap02-erfindung-der-wirklichkeit.md
-      - "3 · Ameisen und Kathedralen": kapitel/kap03-ameisen-und-kathedralen.md
-      - "4 · Die Krone aus Pappe": kapitel/kap04-krone-aus-pappe.md
-      - "5 · Warum Lügen wahr werden": kapitel/kap05-warum-luegen-wahr.md
+      - "2 · Die Erfindung der Wirklichkeit (Exposé)": kapitel/kap02-erfindung-der-wirklichkeit.md
+      - "2 · Die Erfindung der Wirklichkeit — Entwurf": kapitel/kap02-erfindung-der-wirklichkeit-entwurf.md
+      - "3 · Ameisen und Kathedralen (Exposé)": kapitel/kap03-ameisen-und-kathedralen.md
+      - "3 · Ameisen und Kathedralen — Entwurf": kapitel/kap03-ameisen-und-kathedralen-entwurf.md
+      - "4 · Die Krone aus Pappe (Exposé)": kapitel/kap04-krone-aus-pappe.md
+      - "4 · Die Krone aus Pappe — Entwurf": kapitel/kap04-krone-aus-pappe-entwurf.md
+      - "5 · Warum Lügen wahr werden (Exposé)": kapitel/kap05-warum-luegen-wahr.md
+      - "5 · Warum Lügen wahr werden — Entwurf": kapitel/kap05-warum-luegen-wahr-entwurf.md
   - "Teil II — Maschinen":
       - "6 · Im Anfang war das Wort": kapitel/kap06-im-anfang-war-das-wort.md
       - "7 · Empathie": kapitel/kap07-empathie.md
