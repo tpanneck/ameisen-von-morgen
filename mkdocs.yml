@@ -56,7 +56,8 @@ nav:
   - Buchkonzept: konzept.md
   - Konzept-Delta (Juni): konzept-delta.md
   - "Teil I — Geschichten":
-      - "1 · Das Lagerfeuer": kapitel/kap01-lagerfeuer.md
+      - "1 · Das Lagerfeuer (Exposé)": kapitel/kap01-lagerfeuer.md
+      - "1 · Das Lagerfeuer — Entwurf": kapitel/kap01-lagerfeuer-entwurf.md
       - "2 · Die Erfindung der Wirklichkeit": kapitel/kap02-erfindung-der-wirklichkeit.md
       - "3 · Ameisen und Kathedralen": kapitel/kap03-ameisen-und-kathedralen.md
       - "4 · Die Krone aus Pappe": kapitel/kap04-krone-aus-pappe.md
