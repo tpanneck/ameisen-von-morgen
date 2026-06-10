@@ -46,6 +46,40 @@ was die Maschine daran erschüttert).
 - **Offene Naht:** Ist dieses Verhalten ein gradueller Abstand zum Tier oder etwas der Art
   nach Neues? → Schritt 2 stellt die erste, populärste Hypothese dazu.
 
+## Schritt 1·B — Die Antwort auf die Szene (Autoren-Wende): was hier geschieht, und warum dieser Text
+
+*Die Wende, in der der Autor nach der Szene hervortritt und sagt, was er vorhat — die
+sichtbare Antwort auf „niemand kann erklären, was der Autor will". Sie liefert in einem Satz
+die These des ganzen Buches. (Endgültige Nummerierung hängt am offenen Reihenfolge-Entscheid
+unten.)*
+
+- **Universalisieren, dann beiseitelegen:** Solche Erzählungen gibt es in vielen Kulturen, gut
+  dokumentiert — Mythos als „soziale Urkunde" [Malinowski], als weltstiftende heilige Geschichte
+  [Eliade], später strukturell differenziert [Lévi-Strauss]. [Namen zu bestätigen] Das Buch
+  interessiert sich aber **nicht** für Gründungsmythen als Gattung.
+- **Die These des Buches, hier zum ersten Mal:** *Es werden Dinge erschaffen und durch
+  Kommunikation lebendig gehalten — und um nichts anderes geht es im ganzen Buch.* Damit ist
+  die eigentliche Linie gelegt: nicht Mythologie, sondern die gesellschaftliche Konstruktion
+  und Aufrechterhaltung von Wirklichkeit [Berger & Luckmann; Luhmann] — die Linie, die Kapitel
+  2 aufnimmt. [verankert in der Buch-Tradition, nicht in Genre-/Frame-Studien]
+- **Methode offenlegen (warum dieser Text):** Bewusst ein *alter*, *dokumentierter* Text — aus
+  Australien, aufgeschrieben von [George Taplin, 1870er; ausführlich Berndt & Berndt, Feldarbeit
+  1940er — zu bestätigen]. Eigener, für sich spannender Befund: Die Erzählung könnte eine reale
+  Erinnerung über ~10.000 Jahre tragen (Kangaroo Island war Festland; „trockenen Fußes") [Nunn
+  & Reid — umstritten]. Das ist selbst schon ein Fall von „durch Kommunikation lebendig
+  gehalten" und ein Vorgriff auf das Überlieferungs-Argument (Schritt 4 / Gestaltwerdung).
+- **Die zwei treibenden Fragen, ausgesprochen:** (1) *Wie ist es dazu gekommen, dass wir
+  Menschen so etwas tun?* (Genese) — (2) *Unterscheiden wir uns darin evolutionär wirklich von
+  anderen Spezies?* (Vergleich)
+- **Motivierte Naht:** Darum zuerst ein Ausflug ins Tierreich — eine Reihe von
+  Forschungsansätzen, die genau diesen Fragen nachgehen und die als **Ausgangspunkt** und (sei
+  schon verraten) als **Abgrenzung** dienen sollen.
+- **Stand des Wissens:** Der Leser weiß nun, *worum es im Buch geht* (Wirklichkeit durch
+  Kommunikation), *warum dieser Text* (alt, dokumentiert, selbst ein Überlieferungs-Befund) und
+  *welche zwei Fragen* die Untersuchung treiben.
+- **Offene Naht:** → siehe Reihenfolge-Entscheid: Tierreich zuerst (Abgrenzung) oder Genese
+  (Harari) zuerst?
+
 ## Schritt 2 — Die Hypothese stellen: die Revolutions-These (Harari)
 
 - **Hypothese, benannt und in voller Kraft:** Vor ~70.000 Jahren habe eine *kognitive
@@ -195,3 +229,11 @@ Vertrag und dürfen seine Reihenfolge und seine Befunde nicht verbiegen.
    tonaler.)
 3. **Bibliografische Feinangaben** (Band/Seiten) sind vor Druck gegen die Primärquellen zu
    prüfen.
+4. **Reihenfolge (durch die Autoren-Wende aufgeworfen):** Die Wende motiviert „zuerst ins
+   Tierreich". Soll der Vergleichs-Ausflug (jetzt Schritt 5) *vor* die Genese-Strecke
+   (Harari/Archäologie/Gestalt, Schritte 2–4) rücken? Möglicher Ablauf: Szene → Autoren-Wende →
+   Tierreich (Abgrenzung) → Genese → Keil → Warum → Tragweite → Gegenwart. Vor der endgültigen
+   Nummerierung zu entscheiden.
+5. **Quellen-Identifikationen bestätigen:** Myth-Anthropologie (Malinowski / Eliade /
+   Lévi-Strauss); Aufzeichner des Ngurunderi-Texts (Taplin / Berndt & Berndt); Tiefenzeit-Befund
+   (Nunn & Reid).
