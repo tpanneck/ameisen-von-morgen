@@ -53,7 +53,8 @@ plugins:
 nav:
   - Start: index.md
   - Leseprobe: leseprobe.md
-  - Buchkonzept: konzept.md
+  - "Roter Faden — das ganze Buch": buch-roter-faden.md
+  - "Buchkonzept (März, überholt)": konzept.md
   - Konzept-Delta (Juni): konzept-delta.md
   - "Teil I — Geschichten":
       - "1 · Das Lagerfeuer": kapitel/kap01-lagerfeuer-entwurf.md
