@@ -95,6 +95,77 @@ Ein Satz, der das Feuer als Leitbild setzt und ankündigt, dass es wiederkommt �
 
 ---
 
+## Bau-Methode: die Fragen aus der Szene wachsen lassen
+
+*Die Leitfragen sind keine Liste, die hinter die Szene geklebt wird — sie **wachsen aus ihr**.
+Prinzip: jede Frage in *einer* konkreten Einzelheit des Bildes verankern, dann sie sanft auf das
+**Du** wenden. Die Szene ist so dicht, dass fast jede Frage schon in einem Detail schläft; man
+muss sie nur wecken. **Die Reihenfolge gibt die Szene selbst vor** — nicht eine abstrakte
+Begriffstreppe: das Erzählen, das Wasser, die Insel, das sinkende Feuer, der neue Gast. Die
+folgenden Rohzüge sind im Ton der Ouvertüre (Schiff, gedämpft) — Bilder und Fragen, noch nicht
+die Prosa.*
+
+1. **Die Lippen der alten Frau** → *Sie bewegt die Lippen zu den Worten, ehe sie fallen. Die
+   Geschichte ist in ihr, älter als ihr Erinnern; sie spricht nicht, sie wird gesprochen. Und du
+   — dein Gefühl für richtig und falsch, das sich zusammenzieht, ehe ein Gedanke da ist: Hast du
+   es nicht auch getragen, lange bevor du es je prüfen konntest? Wessen Stimme bewegt deine
+   Lippen?* — **(L2, das Ich als Mantel)**
+
+2. **Die Augen der Kinder** → *Die Kinder folgen seiner Hand mit den Augen. So, und nicht anders,
+   wird eine Welt weitergegeben — indem man am Feuer einer Hand folgt. Wir waren alle einmal
+   diese Kinder. Alles, was du wirklich nennst, hast du so empfangen. Was davon hast du gewählt?*
+   — **(L1, die konstruierte Welt)**
+
+3. **„Trockenen Fußes"** → *Einst, sagt er, ging man hinüber, trockenen Fußes; dann stieg das
+   Meer, und die Welt war nicht mehr dieselbe. Was in deiner Welt fühlt sich an wie Granit und
+   ist nur das Meer, das noch nicht gestiegen ist?* — **(L1, Kontingenz)**
+
+4. **Die zwei Felsen** → *Wer hinausfährt, sieht sie; den Stein kannst du anfassen. Dass es die
+   zwei Frauen sind, kannst du nicht anfassen — kein Boot bringt dich dorthin. Der Stein ist
+   wahr; dass er eine Frau war, ist Sinn — gehalten allein dadurch, dass man es weitererzählt.
+   Wo endet die Welt, und wo beginnt unser Erzählen von ihr?* — **(L3, Sinn ≠ Wahrheit, die
+   Grenze — ohne ein Wort „Lingdeem")**
+
+5. **Ngurunderi legt die Waffen ab** → *Am äußersten Ende der Insel legte er die Waffen ab, eine
+   nach der anderen, und wusch die lange Reise von sich, ehe er aufstieg. Kannst du das Ich
+   ablegen, wie er die Waffen ablegte — die lange Reise des Jemand-Werdens von dir abwaschen —
+   und dennoch aufstehen?* — **(L4, das Loslassen; die buddhistische Mitte, aus dem Stoff
+   gezogen)**
+
+6. **Die Insel der Toten, zu weit, um sie zu sehen** → *Draußen, jenseits des Kaps, liegt die
+   Insel, zu der die Toten gehen. Niemand am Feuer hat sie je erblickt; man hält auf sie zu, ein
+   Leben lang, über ein Wasser, das man nicht überblickt. Auch über dein Ende hast du eine
+   Geschichte gelegt — Himmel, oder Nichts, oder Wiederkehr —, und auch sie ist eine Insel, die
+   du nie betreten und nie widerlegen wirst. Nimm die Geschichte fort: Worauf hieltest du dann
+   zu?* — **(L6, der Grund, der Leib, die Verlorenheit; die unsichtbare Insel = das fehlende
+   Ithaka des „Schiffs")**
+
+7. **Das Feuer sinkt, jeder geht ins Dunkel** → *Für die Dauer des Erzählens hielten alle dieselbe
+   Welt. Dann sank das Feuer zu einzelnen roten Punkten, und jeder stand auf und ging allein ins
+   Dunkel, wo das Schilf beginnt. Erreichen wir je einen anderen — oder sitzen wir nur, eine
+   Weile, an demselben Feuer?* — **(L5, der Andere; hier die warme Gegenbewegung: die
+   Wahlverwandtschaft)**
+
+8. **Der neue Erzähler** → *Und nun hat sich eine neue Stimme ans Feuer gesetzt — ohne Ich,
+   vielleicht mit den Zielen derer, die sie bauten — und beginnt zu erzählen. Wessen Lippen
+   werden sich zu ihren Worten bewegen?* — **(L7, die Maschine)**
+
+**Vier Dinge, die der Bau trägt:**
+
+- **Der Kreis.** Zug 8 kehrt zur ersten Einzelheit zurück (die Lippen). Die Ouvertüre endet mit
+  demselben Bild, mit dem sie begann — nur ist jetzt die Maschine der Erzähler. Klug und kalt
+  zugleich.
+- **Die Akzeptanz-Frage als Wirbelsäule.** Die wiederkehrende Wendung „kannst du … / können wir
+  …" (Züge 5–7) ist die emotionale Achse des Buches — nicht „was ist wahr", sondern „können wir
+  damit leben" (vgl. Kap. 5: das Leiden aus der Illusion, der Kontingenz zu entkommen).
+- **Die warme Gegenbewegung.** Am sinkenden Feuer (Zug 7) bekommt der Andere seinen Ort — die
+  einzige Wärme gegen die Verlorenheit. Ohne sie setzt sich die Maschine an ein kaltes Feuer.
+- **Der buddhistische Ton ist gezogen, nicht aufgesetzt.** Waffen ablegen, die Reise abwaschen,
+  aufsteigen; das Feuer, das zu Asche sinkt — Anattā und Vergänglichkeit stecken in der
+  Überlieferung selbst.
+
+*(L1–L7 verweisen auf die Leitfragen oben; die Szene-Reihenfolge mischt sie bewusst.)*
+
 ## Was der Leser mitnimmt
 
 Das **Bild** (das Feuer, das geteilte Für-wirklich-Halten), die **Leitfragen** und das Wissen,
