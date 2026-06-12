@@ -81,6 +81,8 @@ nav:
           - "Anregungen aus Masterarbeiten": kapitel/anregungen-masterarbeiten.md
           - "Literatur": literatur.md
       - "Kapitel":
+          - "Ouvertüre — Am Feuer (Vor-Kapitel)":
+              - "Inhaltlicher Vertrag": kapitel/kap00-ouvertuere-vertrag.md
           - "Kapitel 1 — Das Lagerfeuer":
               - "Inhaltlicher Vertrag (Rückgrat)": kapitel/kap01-vertrag.md
               - "Argumentatives Skelett (älter)": kapitel/kap01-skelett.md

@@ -10,6 +10,13 @@ Leitdokument ab und übernimmt die Stoffsammlung aus dem [Tier-Grenze-Rohtext](k
 
 ---
 
+> **Stand 12.06.2026 — Umbau:** Die Eröffnungsszene und die Autoren-Wende (vormals Schritt 1
+> und 1·B) sind in die [Ouvertüre](kap00-ouvertuere-vertrag.md) ausgelagert. **Kapitel 1 beginnt
+> jetzt bei den Grundlagen** (geteilte Aufmerksamkeit / der Tierfächer). Die alten Schritte 1 und
+> 1·B unten bleiben nur als Referenz stehen (durchgestrichen markiert); die Neu-Sequenzierung des
+> Kapitels (Tierreich vor die Genese-Strecke, vgl. offener Entscheid 4) ist der nächste
+> Arbeitsschritt. Titel künftig nicht mehr „Das Lagerfeuer" — Kandidat „Der geteilte Blick".
+
 ## Methode (gilt für jeden Schritt)
 
 Ein wissenschaftliches Buch behauptet keine Urteile, es **führt eine Untersuchung**. Daher
@@ -35,7 +42,7 @@ was die Maschine daran erschüttert).
 
 ---
 
-## Schritt 1 — Das Phänomen: die Szene am Feuer
+## ~~Schritt 1 — Das Phänomen: die Szene am Feuer~~ → ausgelagert in die Ouvertüre
 
 - **Beobachtung:** Eine Gruppe an den unteren Seen hält ein Gemeintes gemeinsam lebendig —
   die alte Frau spricht die Worte mit, ehe sie fallen; die Geschichte gehört keinem Einzelnen,
@@ -46,7 +53,7 @@ was die Maschine daran erschüttert).
 - **Offene Naht:** Ist dieses Verhalten ein gradueller Abstand zum Tier oder etwas der Art
   nach Neues? → Schritt 2 stellt die erste, populärste Hypothese dazu.
 
-## Schritt 1·B — Die Antwort auf die Szene (Autoren-Wende): was hier geschieht, und warum dieser Text
+## ~~Schritt 1·B — Die Antwort auf die Szene (Autoren-Wende)~~ → ausgelagert in die Ouvertüre
 
 *Die Wende, in der der Autor nach der Szene hervortritt und sagt, was er vorhat — die
 sichtbare Antwort auf „niemand kann erklären, was der Autor will". Sie liefert in einem Satz

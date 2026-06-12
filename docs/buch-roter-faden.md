@@ -29,6 +29,9 @@ menschliche Aussage über unsere Wirklichkeit.
 
 ## Der Bogen in drei Bewegungen (plus Schluss)
 
+- **Ouvertüre — Am Feuer (Vor-Kapitel):** Das Leitbild des Buches; aus der Szene am Fluss
+  gehen die fünf Leitfragen hervor. Stellt die Fragen, beantwortet keine. (Eigener
+  [Ouvertüre-Vertrag](kapitel/kap00-ouvertuere-vertrag.md).)
 - **Teil I — Geschichten (Kap. 1–5):** Unsere Welt ist erzählt; und auch unsere Sonderstellung
   ist erzählt. Von der Gründungsszene (gemeinsames Für-wirklich-Halten) bis zur Erschütterung,
   dass selbst die eigene Moral konstruiert und kontingent ist.
@@ -45,12 +48,19 @@ menschliche Aussage über unsere Wirklichkeit.
 
 *Jeder Eintrag: was das Kapitel leistet — und woran es anschließt / was es weiterreicht.*
 
+### Ouvertüre
+
+**Am Feuer (Vor-Kapitel).** Pflanzt das Leitbild (die Ngarrindjeri-Szene, das geteilte
+Für-wirklich-Halten) und die Autoren-Wende (Buchthese: Wirklichkeit durch Kommunikation);
+entwickelt daraus die fünf Leitfragen, die das ganze Buch tragen. → Entlässt in Kapitel 1, das
+bei den Grundlagen beginnt.
+
 ### Teil I — Geschichten
 
-**1 · Das Lagerfeuer.** Stellt das Phänomen: Eine Gruppe hält ein Gemeintes gemeinsam lebendig
-(Aktualisierung von Sinn); das Distinktive des Menschen ist die geteilte Intentionalität, das
-gemeinsame Für-wirklich-Halten des Abwesenden. → Reicht weiter: *So entsteht überhaupt erst
-„Wirklichkeit", die nicht in der Natur steht.*
+**1 · Der geteilte Blick** *(vormals „Das Lagerfeuer")*. Die Grundlagen: Was trennt uns vom
+Tier? Der Tierfächer (jeder Baustein verstreut, keiner hält das Bündel) und die geteilte
+Intentionalität — das Teilen-Motiv — als das Distinktive, samt der Frage, wie es entstand. →
+Reicht weiter: *So entsteht überhaupt „Wirklichkeit", die nicht in der Natur steht.*
 
 **2 · Die Erfindung der Wirklichkeit.** Verallgemeinert die Operation: Geld, Dienstag, Staat —
 die gesellschaftliche Konstruktion der Wirklichkeit (Berger & Luckmann, Dreischritt);
