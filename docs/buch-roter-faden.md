@@ -27,6 +27,20 @@ unausweichlich zum bloß weiteren Teilnehmer — nicht weil sie aufgewertet, son
 Mensch nüchtern betrachtet wird. *Lingdeem* ist am Ende kein Werkzeug-Argument, sondern eine
 menschliche Aussage über unsere Wirklichkeit.
 
+## Zwei Register — und ihre Grenze
+
+Das Buch spricht in zwei Stimmen, die einander brauchen und **nicht ineinanderbluten** dürfen:
+
+- **Betrachtung** (Ouvertüre, betrachtende Übergänge): philosophisch, intim, buddhistisch; Bild
+  als Gefäß; sichtbares Ringen; stellt die existenziellen Leitfragen, verspricht keine Antwort.
+  Ton-Anker: „Das Schiff" (gedämpft).
+- **Untersuchung** (die Kapitel): wissenschaftlich streng — jede Behauptung begründet und
+  referenziert; stärkste Gegenargumente fair (Searle); annotierter Apparat (~300 S. Text + ~300 S.
+  Anmerkungen).
+
+Die Strenge schützt die Betrachtung vor Kitsch; die Betrachtung gibt der Strenge ihren Einsatz.
+Anti-Harari: faktisch wasserdicht *und* existenziell.
+
 ## Der Bogen in drei Bewegungen (plus Schluss)
 
 - **Ouvertüre — Am Feuer (Vor-Kapitel):** Das Leitbild des Buches; aus der Szene am Fluss

@@ -103,6 +103,25 @@ sich das Buch auf.
 
 ---
 
+## Ton & Register (nur für die Ouvertüre)
+
+Anker: [„Das Schiff"](https://tpanneck.github.io/probanz-werkstatt/werkstatt/schiff/) aus der
+Probanz-Werkstatt — Bild als Gefäß des Denkens, sichtbares Kentern (kein Ithaka), intime
+Ich/Wir-Stimme, der Ozean aus Sinn.
+
+- **Übernehmen:** das Bild-als-Gefäß; das sichtbare Ringen / die offene Suche (verspricht keine
+  Antwort); die intime, persönliche Stimme; die Betrachtung als Form.
+- **Dämpfen:** die hohe Lyrik / den Idealismus des „Schiffs". Das Buch will feiner, kühler,
+  hypotaktisch (von Matt / Sebald, schweizerisch), keine Stakkato-Trikola. Die Glut, die zu
+  Asche sinkt, braucht keine Verstärker.
+
+**Die Grenze — und sie ist hart:** Dieses Register gilt **nur** für die Ouvertüre (und etwaige
+betrachtende Übergänge). Die **Kapitel bleiben wissenschaftlich streng**: jede Behauptung
+begründet, jede Quelle referenziert, die stärksten Gegenargumente fair geführt (Searle: Chinese
+Room ernst nehmen, nicht strohmannen), annotierter Apparat. Die beiden Register dürfen nicht
+ineinanderbluten — die Ouvertüre argumentiert nie, die Kapitel predigen nie. Die Strenge der
+Kapitel ist es, die diese Betrachtung vor Kitsch schützt.
+
 ## Folgen / Entscheide
 
 1. **Kapitel 1 heißt nicht mehr „Das Lagerfeuer"** — das Feuer gehört der Ouvertüre. Kapitel 1
