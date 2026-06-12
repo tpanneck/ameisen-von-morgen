@@ -30,7 +30,7 @@ menschliche Aussage über unsere Wirklichkeit.
 ## Der Bogen in drei Bewegungen (plus Schluss)
 
 - **Ouvertüre — Am Feuer (Vor-Kapitel):** Das Leitbild des Buches; aus der Szene am Fluss
-  gehen die fünf Leitfragen hervor. Stellt die Fragen, beantwortet keine. (Eigener
+  gehen die Leitfragen hervor. Stellt die Fragen, beantwortet keine. (Eigener
   [Ouvertüre-Vertrag](kapitel/kap00-ouvertuere-vertrag.md).)
 - **Teil I — Geschichten (Kap. 1–5):** Unsere Welt ist erzählt; und auch unsere Sonderstellung
   ist erzählt. Von der Gründungsszene (gemeinsames Für-wirklich-Halten) bis zur Erschütterung,
@@ -52,7 +52,7 @@ menschliche Aussage über unsere Wirklichkeit.
 
 **Am Feuer (Vor-Kapitel).** Pflanzt das Leitbild (die Ngarrindjeri-Szene, das geteilte
 Für-wirklich-Halten) und die Autoren-Wende (Buchthese: Wirklichkeit durch Kommunikation);
-entwickelt daraus die fünf Leitfragen, die das ganze Buch tragen. → Entlässt in Kapitel 1, das
+entwickelt daraus die Leitfragen, die das ganze Buch tragen. → Entlässt in Kapitel 1, das
 bei den Grundlagen beginnt.
 
 ### Teil I — Geschichten

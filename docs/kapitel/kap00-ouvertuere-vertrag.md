@@ -57,23 +57,36 @@ Der Autor tritt nach der Szene hervor und sagt, was er vorhat:
   (Kangaroo Island war Festland; „trockenen Fußes") [Nunn & Reid — umstritten] — selbst schon
   ein Fall von „durch Kommunikation lebendig gehalten".
 
-### 3. Die fünf Leitfragen (der rote Faden, in Fragen gegossen)
+### 3. Die Leitfragen (radikal-konstruktivistisch, in der Stimme des Autors)
 
-*Erster Schnitt — vor dem Ausformulieren zu prüfen, ob es genau diese fünf sind.*
+*Korrektur 12.06.: Die frühere, „wissenschaftlich" gestellte Liste (Genese, Speziesunterschied …)
+war das **äußere, analytische** Register — das gehört in die Kapitel, in die Untersuchung. Die
+Ouvertüre braucht das **innere, existenzielle** Register: die Fragen, die einen Leser persönlich
+treffen. Rohrichtung des Autors, noch zu schärfen — und ausdrücklich **nicht** in glatte
+Akademiker-Fragen zu domestizieren; sie sollen beunruhigen (Zumutung).*
 
-1. *Was geschieht hier eigentlich — Menschen halten durch bloßes Erzählen eine ganze Welt
-   gemeinsam für wirklich?* — die Sache an sich.
-2. *Wie kommt es, dass wir das können — und sind wir darin wirklich allein unter den Arten?*
-   → Grundlagen, **Kapitel 1 ff.**
-3. *Wie wird aus Erzähltem feste Wirklichkeit, die uns dann beherrscht?* → Teil I/II
-   (Konstruktion, Reifikation).
-4. *Was ist dieses Erzählen, dieser Sinn, im Innersten — und braucht er überhaupt einen
-   Menschen?* → Teil II, das Scharnier (Kap. 10).
-5. *Und was geschieht an dem Tag, an dem ein Nicht-Mensch sich ans Feuer setzt?* → Teil III,
-   der neue Gast.
+1. **Wenn wir die Idee der sozial konstruierten Wirklichkeit wirklich zu Ende denken — was bleibt
+   dann? Was wird aus Wahrheit, aus Wirklichkeit, aus Ethik und Moral?**
+2. **Und was bleibt dann von uns als bewusstem Wesen? Ist das Ich mehr als ein Mantel — die
+   geronnenen Erzählungen der Kulturen, in die wir hineinwuchsen?**
+3. **Was ist Sinn, was ist Wahrheit — und wo verlaufen die Grenzen unserer Welt?** (Lingdeem,
+   Probanz: der Versuch, diese Grenzen zu vermessen.)
+4. **Die ganze Komplexität der modernen sozialen Welt — ein einziger großer Basar, und wir die
+   Termiten darin. Können wir das aushalten — und als Ich wirklich loslassen?**
+5. **Kommunikation als Verhandlung und Anschlussfähigkeit — die einzige, ganz persönliche Brücke
+   zum Gegenüber, zu Sinnangeboten, zum Zugang zur Welt. Können wir akzeptieren, dass es keine
+   direktere gibt?**
+6. **Wir Menschen, allein und ein wenig verloren, immer auf der Suche nach Erklärung, Sicherheit,
+   Aktualisierung — dort, wo Körper, Bewusstsein und Kognition zusammenfallen.**
+7. **Und nun die Maschine: ohne Ich, aber vielleicht mit den Zielen ihrer Erbauer, setzt sie sich
+   ans Feuer und beginnt, eigene Geschichten zu erzählen. Was wird aus dem Gespräch, an dem sie
+   teilnimmt?**
 
-Die Fragen 1–5 sind zugleich der Bogen des Buches: Sache → Grundlagen → Konstruktion → Scharnier
-→ neuer Gast.
+*Lineage:* der radikale Konstruktivismus zu Ende gedacht (von Foerster, von Glasersfeld, Luhmann),
+gelebt als existenzielle Zumutung. Die Fragen threaden denselben Bogen wie die Kapitel, aber von
+*innen*: Wahrheit/Ethik (Teil I) → das Ich als Sediment / Reifikation (Kap. 9) → Sinn & Grenzen
+(Kap. 10) → Basar & Loslassen (Emergenz, Kap. 3) → Kommunikation als einzige Brücke (Kap. 7/8) →
+die Verlorenheit, wo Leib & Bewusstsein zusammenfallen → die Maschine am Feuer (Teil III).
 
 ### 4. Der Rahmen, der wiederkehrt
 
@@ -84,7 +97,7 @@ Ein Satz, der das Feuer als Leitbild setzt und ankündigt, dass es wiederkommt �
 
 ## Was der Leser mitnimmt
 
-Das **Bild** (das Feuer, das geteilte Für-wirklich-Halten), die **fünf Fragen** und das Wissen,
+Das **Bild** (das Feuer, das geteilte Für-wirklich-Halten), die **Leitfragen** und das Wissen,
 *worum es im Buch geht* (Wirklichkeit durch Kommunikation) — aber **keine** Antwort. Die hebt
 sich das Buch auf.
 
