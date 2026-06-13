@@ -1,10 +1,10 @@
 # Leseprobe
 
 Am schnellsten bekommt man den Ton dieses Buches über ein ganzes Kapitel. Wir empfehlen
-**Kapitel 11, „Der dritte Affe am Lagerfeuer"** — den Wendepunkt des Buches, an dem der
+**Kapitel 12, „Der dritte Affe am Lagerfeuer"** — den Wendepunkt des Buches, an dem der
 neue Gast ans Feuer tritt.
 
-[➔ Kapitel 11 lesen](kapitel/kap12-dritter-affe-entwurf.md){ .md-button .md-button--primary }
+[➔ Kapitel 12 lesen](kapitel/kap12-dritter-affe-entwurf.md){ .md-button .md-button--primary }
 
 ---
 

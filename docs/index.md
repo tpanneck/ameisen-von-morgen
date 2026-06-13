@@ -34,32 +34,32 @@ dass es nicht weh tut, auch.
 
 ## Der Bogen
 
-**[Teil I — Geschichten](kapitel/kap02-lagerfeuer-entwurf.md)** *(Kapitel 1–5)*
+**[Teil I — Geschichten](kapitel/kap02-lagerfeuer-entwurf.md)** *(Kapitel 2–5)*
 : Wie wir wurden, was wir glauben zu sein: Fiktion am Lagerfeuer, die Erfindung der
   Wirklichkeit, Emergenz ohne Plan, Kontingenz — und der Mechanismus, durch den Erfundenes
   zur Tatsache wird.
 
-**[Teil II — Maschinen](kapitel/kap07-im-anfang-war-das-wort-entwurf.md)** *(Kapitel 6–10)*
+**[Teil II — Maschinen](kapitel/kap07-im-anfang-war-das-wort-entwurf.md)** *(Kapitel 7–10)*
 : Was Kommunikation wirklich ist: Sprache als eigenständige Kraft, der Trick mit der
   Empathie, Luhmanns radikale Idee, die verselbständigten Funktionssysteme — und Sinn als
   Betriebssystem, das nicht Wahrheit verlangt, sondern Anschluss.
 
-**[Teil III — Der neue Gast](kapitel/kap12-dritter-affe-entwurf.md)** *(Kapitel 11–14)*
+**[Teil III — Der neue Gast](kapitel/kap12-dritter-affe-entwurf.md)** *(Kapitel 12–14)*
 : Was passiert, wenn ein Dritter ans Feuer tritt: der dritte Affe, die falsche Frage, die
   Singularität der Kommunikation, Evolution ohne Plan.
 
-**[Schluss](kapitel/kap16-ameisen-von-morgen-entwurf.md)** *(Kapitel 15–16)*
+**[Schluss](kapitel/kap16-ameisen-von-morgen-entwurf.md)** *(Kapitel 16–16)*
 : Die Gegenwart, aus der Zukunft betrachtet — und eine Krone, die am Boden liegt und
   vielleicht dort gut liegt.
 
-Am schnellsten bekommt man den Ton über die **[Leseprobe](leseprobe.md)** — Kapitel 11,
+Am schnellsten bekommt man den Ton über die **[Leseprobe](leseprobe.md)** — Kapitel 12,
 *Der dritte Affe am Lagerfeuer*.
 
 !!! note "Stand der Arbeit"
     **Das ganze Buch liegt jetzt im ersten Entwurf vor** — alle sechzehn Kapitel sind
-    durchgeschrieben (Kapitel 11 im zweiten Entwurf). Was bleibt, ist Überarbeitung:
+    durchgeschrieben (Kapitel 12 im zweiten Entwurf). Was bleibt, ist Überarbeitung:
     Schärfen, Kürzen, das Ganze als Ganzes lesen. Die ursprünglichen März-Exposés sind in
-    der **Werkstatt** archiviert, dort findet sich auch der erste Rohentwurf von Kapitel 11
+    der **Werkstatt** archiviert, dort findet sich auch der erste Rohentwurf von Kapitel 12
     als Tonlagen-Vergleich. Dieses Repositorium ist die Werkstatt, in der aus den Exposés
     ein Manuskript wurde — Kapitel für Kapitel, öffentlich einsehbar. Rückmeldungen sind
     willkommen, über GitHub. **Manuskript in Arbeit; alle Rechte vorbehalten.**

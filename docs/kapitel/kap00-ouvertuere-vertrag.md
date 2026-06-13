@@ -3,8 +3,8 @@
 *Werkstatt-Datei, 12. Juni 2026. Das **Rahmenstück** des ganzen Buches — die große Einführung,
 aus der die Leitfragen hervorgehen. Sie ist kein Kapitel der Untersuchung, sondern ihre
 Eröffnung: ein Bild pflanzen, Fragen stellen, in den Bogen entlassen. Übernimmt die
-Eröffnungsszene und die Autoren-Wende, die bisher Kapitel 1 belasteten (vormals Schritt 1 und
-1·B des [Kapitel-1-Vertrags](kap02-vertrag.md)). Arbeitstitel „Ouvertüre" — endgültig offen
+Eröffnungsszene und die Autoren-Wende, die bisher das erste Kapitel belasteten (vormals Schritt 1 und
+1·B des [Kapitel-2-Vertrags](kap02-vertrag.md)). Arbeitstitel „Ouvertüre" — endgültig offen
 (auch „Einleitung: Am Feuer", „Vor-Kapitel").*
 
 ---
@@ -18,7 +18,7 @@ Eröffnungsszene und die Autoren-Wende, die bisher Kapitel 1 belasteten (vormals
 Die Szene am Feuer hat „immer gegen den Rest geschlagen", weil wir ein **Rahmenstück** in die
 Rolle eines **Kapitelanfangs** gezwungen haben. Die Szene argumentiert nicht — sie eröffnet eine
 Welt. Das ist die Arbeit einer Einleitung. Hinzu kommt: **Das Feuer ist das Leitbild des ganzen
-Buches**, nicht ein Detail von Kapitel 1 — es kehrt wieder (Kap. 11 „… am Lagerfeuer", Kap. 13
+Buches**, nicht ein Detail eines einzelnen Kapitels — es kehrt wieder (Kap. 12 „… am Lagerfeuer", Kap. 14
 „Das Feuer und der Spiegel", Schluss). Ein Bild, das den ganzen Bogen trägt, gehört an den
 Anfang als Rahmen, aus dem alles hervorgeht.
 
@@ -54,7 +54,7 @@ Der Autor tritt nach der Szene hervor und sagt, was er vorhat:
 - **Die These des Buches:** *Es werden Dinge erschaffen und durch Kommunikation lebendig
   gehalten — und um nichts anderes geht es im ganzen Buch.* Linie: nicht Mythologie, sondern die
   gesellschaftliche Konstruktion und Aufrechterhaltung von Wirklichkeit [Berger & Luckmann;
-  Luhmann] — die Linie, die Kapitel 2 aufnimmt.
+  Luhmann] — die Linie, die Kapitel 3 aufnimmt.
 - **Warum dieser Text:** bewusst ein *alter*, *dokumentierter* Text — aus Australien
   (Taplin 1870er; Berndt & Berndt, Feldarbeit 1940er) [zu bestätigen]. Eigener, für sich
   spannender Befund: Die Erzählung könnte eine reale Erinnerung über ~10.000 Jahre tragen
@@ -89,8 +89,8 @@ Akademiker-Fragen zu domestizieren; sie sollen beunruhigen (Zumutung).*
 
 *Lineage:* der radikale Konstruktivismus zu Ende gedacht (von Foerster, von Glasersfeld, Luhmann),
 gelebt als existenzielle Zumutung. Die Fragen threaden denselben Bogen wie die Kapitel, aber von
-*innen*: Wahrheit/Ethik (Teil I) → das Ich als Sediment / Reifikation (Kap. 9) → Sinn & Grenzen
-(Kap. 10) → Basar & Loslassen (Emergenz, Kap. 3) → Kommunikation als einzige Brücke (Kap. 7/8) →
+*innen*: Wahrheit/Ethik (Teil I) → das Ich als Sediment / Reifikation (Kap. 10) → Sinn & Grenzen
+(Kap. 11) → Basar & Loslassen (Emergenz, Kap. 4) → Kommunikation als einzige Brücke (Kap. 8/9) →
 die Verlorenheit, wo Leib & Bewusstsein zusammenfallen → die Maschine am Feuer (Teil III).
 
 ### 4. Der Rahmen, der wiederkehrt
@@ -166,7 +166,7 @@ die Prosa.*
   zugleich.
 - **Die Akzeptanz-Frage als Wirbelsäule.** Die wiederkehrende Wendung „kannst du … / können wir
   …" (Züge 5–7) ist die emotionale Achse des Buches — nicht „was ist wahr", sondern „können wir
-  damit leben" (vgl. Kap. 5: das Leiden aus der Illusion, der Kontingenz zu entkommen).
+  damit leben" (vgl. Kap. 6: das Leiden aus der Illusion, der Kontingenz zu entkommen).
 - **Die warme Gegenbewegung.** Am sinkenden Feuer (Zug 7) bekommt der Andere seinen Ort — die
   einzige Wärme gegen die Verlorenheit. Ohne sie setzt sich die Maschine an ein kaltes Feuer.
 - **Der buddhistische Ton ist gezogen, nicht aufgesetzt.** Waffen ablegen, die Reise abwaschen,
@@ -204,7 +204,7 @@ Kapitel ist es, die diese Betrachtung vor Kitsch schützt.
 
 ## Folgen / Entscheide
 
-1. **Kapitel 1 heißt nicht mehr „Das Lagerfeuer"** — das Feuer gehört der Ouvertüre. Kapitel 1
+1. **Kapitel 2 heißt nicht mehr „Das Lagerfeuer"** — das Feuer gehört der Ouvertüre. Kapitel 2
    bekommt einen Titel über die Sache selbst; Kandidat: „Der geteilte Blick".
 2. **Der Kapitel-1-Vertrag beginnt jetzt bei den Grundlagen** (geteilte Aufmerksamkeit); seine
    bisherigen Schritte 1 (Szene) und 1·B (Autoren-Wende) sind hierher ausgelagert.

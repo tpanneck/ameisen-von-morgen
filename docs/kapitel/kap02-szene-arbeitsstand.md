@@ -1,7 +1,7 @@
-# Kapitel 1 — Eröffnungsszene, Arbeitsstand (nicht in Navigation)
+# Ouvertüre — Eröffnungsszene, Arbeitsstand (nicht in Navigation)
 
 *Werkstatt-Datei, 10.06.2026. Diese Szene ist redaktionell abgenommen („jetzt fühle ich
-es") und ersetzt künftig §I des Kapitels. Aesop-Disziplin: nur Situation, kein Innenleben.
+es") und ersetzt künftig §I der Ouvertüre. Aesop-Disziplin: nur Situation, kein Innenleben.
 Ethnografische Grundlage: Yaraldi/Ngarrindjeri, untere Seen des Murray (Berndt & Berndt,
 „A World That Was"; SA-Museum-Fassung Hemming/Jones/Clarke 1989). Die zwei Felsen sind The Pages in der Backstairs Passage (zwischen
 Cape Jervis und Kangaroo Island; von Flinders 1802 benannt). Vermieden: Didgeridoo

@@ -7,6 +7,9 @@ Lingdeem, Achsen, Cluster) bleibt bewusst draußen; es lebt in der
 [Probanz-Werkstatt](https://tpanneck.github.io/probanz-werkstatt/) („Befunde ja, Vokabular nein",
 Konzept-Delta).*
 
+> **Status aller Begriffe hier:** Unterscheidungen, die sich *bewähren* — nützliche Werkzeuge,
+> keine absoluten Wahrheiten (das gilt auch für dieses Glossar selbst).
+
 ---
 
 ## Die Grundunterscheidung: Welt · Wirklichkeit · Realität
@@ -52,40 +55,49 @@ Drei Wörter, drei verschiedene Ämter — nie synonym zu verwenden.
 ## Begriffe im Buchtext
 
 - **Geteilte Intentionalität / gemeinsames Meinen** (Tomasello) — zwei errichten einen Bezug, der
-  „für beide als dasselbe" gilt; das Distinktive des Menschen. (Kap. 1)
+  „für beide als dasselbe" gilt; das Distinktive des Menschen. (Kap. 2)
 - **Für-wirklich-Halten** — das gemeinsame Lebendig-Halten des Abwesenden, wodurch Wirklichkeit
-  entsteht, die nicht in der Welt steht. (Ouvertüre / Kap. 1)
+  entsteht, die nicht in der Welt steht. (Ouvertüre / Kap. 2)
 - **Aktualisierung (von Sinn)** — ein geteiltes Gemeintes im Vollzug *erneuern*, nicht stiften
   (die Lippen, die den Worten vorausgehen). (Ouvertüre)
 - **Soziale Konstruktion der Wirklichkeit** (Berger/Luckmann) — Dreischritt: Externalisierung →
-  Objektivation → Internalisierung. (Kap. 2)
-- **Konstruiert ≠ unwirklich** — das Gemachte ist oft härter als das Natürliche. (Kap. 2)
+  Objektivation → Internalisierung. (Kap. 3)
+- **Konstruiert ≠ unwirklich** — das Gemachte ist oft härter als das Natürliche. (Kap. 3)
 - **Emergenz** — Ordnung ohne Ordner; das Ganze taucht aus blinden lokalen Anschlüssen auf
-  (Termiten, Boids). (Kap. 3)
+  (Termiten, Boids). (Kap. 4)
 - **Anschluss / Anschlussfähigkeit** — eine Operation knüpft an die vorige, ohne das Ganze zu
-  überblicken; das heimliche Hauptwort des Buches. (Kap. 3; wieder in Kap. 10)
+  überblicken; das heimliche Hauptwort des Buches. (Kap. 4; wieder in Kap. 11)
 - **Kontingenz** — es ist so — *und* es könnte auch anders sein; beides zugleich, ohne dass das
-  zweite dem ersten die Wucht nimmt. (Kap. 4/5)
+  zweite dem ersten die Wucht nimmt. (Kap. 5/6)
 - **Reifikation (Verdinglichung)** — das Vergessen, dass wir es gemacht haben; erzähl-gekoppelte
   Wirklichkeit, die so durchgesetzt wird, dass sie sich welt-hart *anfühlt* (bleibt aber
-  menschenabhängig). (Kap. 9)
+  menschenabhängig). (Kap. 10)
 - **Sinn** — nicht Wahrheit, sondern *Anschlussfähigkeit*: nicht „stimmt es?", sondern „kann ich
-  daran anschließen?"; das gemeinsame Medium von Bewusstsein und Kommunikation. (Kap. 10)
+  daran anschließen?"; das gemeinsame Medium von Bewusstsein und Kommunikation. (Kap. 11)
 - **Kommunikation (kommuniziert)** — der herrenlose Strom; Verstehen als doppelt einseitige
-  Entscheidung; verarbeitet Sinn ohne Bewusstsein (das Scharnier des Buches). (Kap. 8/10)
+  Entscheidung; verarbeitet Sinn ohne Bewusstsein (das Scharnier des Buches). (Kap. 9/11)
 - **Signatur vs. Textur** — die Maschine übererfüllt das Genre-Markenzeichen (Signatur) und
-  verliert die belebte Welt (Textur). (Kap. 12)
-- **Äußerung ≠ Erleben** — dokumentiert/erzeugt ist eine Äußerung, kein Erleben. (Kap. 12)
+  verliert die belebte Welt (Textur). (Kap. 13)
+- **Äußerung ≠ Erleben** — dokumentiert/erzeugt ist eine Äußerung, kein Erleben. (Kap. 13)
 - **Spiegel statt Lagerfeuer** — der neue Erzähler erzählt jedem *seine eigene* Geschichte:
-  Verfestiger, nicht Aufklärer. (Kap. 13)
+  Verfestiger, nicht Aufklärer. (Kap. 14)
 
 ---
 
 ## Werkstatt-Frame (Denkwerkzeug, nicht zwingend im Buchtext)
 
-- **welt-gekoppelt / erzähl-gekoppelt** — Quelle der Wirkung einer Wirklichkeit; Kriterium:
-  überlebt sie den Wegfall der Übereinkunft? (philosophischer Rahmen, in den Gesprächen Juni 2026
-  entwickelt; noch zu entscheiden, ob und wo im Buchtext)
+- **welt-gekoppelt / erzähl-gekoppelt / form-gekoppelt** — drei Modi, *woher* eine Wirklichkeit
+  ihre Wirkung bezieht. *Welt-gekoppelt*: überlebt den Wegfall jeder Übereinkunft (materieller
+  Widerstand; der Apfel nährt). *Erzähl-gekoppelt*: wirkt nur kraft Übereinkunft/Durchsetzung
+  (Geld, Grenze). *Form-gekoppelt*: gebunden an die Konsistenz-/Viabilitäts-Bedingung — die Logik
+  (s. u.). Alle drei *innerhalb* der Wirklichkeit, keine eigene Sphäre. (Philosophischer Rahmen,
+  Juni 2026 entwickelt; noch zu entscheiden, ob/wo im Buchtext.)
+- **Logik** — keine dritte Sphäre neben Welt und Wirklichkeit, sondern die *Form* der Wirklichkeit:
+  die abstrakteste Region, durch den Umgang mit der Welt *veranlasst*, aber durch Verallgemeinerung
+  abgelöst (welt-*veranlasst*, nicht welt-*verortet*). *Welche* Logik gilt, ist erzähl-gekoppelt
+  (mehrere, wählbar); *dass* eine Wirklichkeit konsistent sein muss, ist form-gekoppelt. Freges
+  „drittes Reich" wäre der Realitäts-Fehler (die gefühlte Notwendigkeit für ein Reich von Dingen
+  halten). Als nützliche Unterscheidung gehalten, nicht als absolute Wahrheit.
 - **Die vier Ontologien** (Descola) — Animismus · Totemismus · Analogismus · Naturalismus; unser
   Default ist der **Naturalismus** (eine Natur, viele Kulturen). Mögliches Subtext-Werkzeug.
 - **Everywhen** (Stanner) — die nicht-lineare, dauernd gegenwärtige Zeit des Dreaming

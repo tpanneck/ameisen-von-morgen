@@ -1,4 +1,4 @@
-# Kapitel 1 — Tier-Grenze, ROHTEXT (Werkstatt, nicht in Navigation)
+# Kapitel 2 — Tier-Grenze, ROHTEXT (Werkstatt, nicht in Navigation)
 
 *Werkstatt-Datei, 10.06.2026. Inhaltlicher Rohtext für den erweiterten Mittelteil (bisher
 §II–§III, jetzt aufgefächert), plus Brücke aus §I und Hinführung zu §IV. KEIN Stil —
@@ -88,7 +88,7 @@ Teile im Regal; eine Art hat sie zusammengebaut.
 Die Rudeljagd sieht aus wie ein Plan mit verteilten Rollen. Aber eine Computersimulation
 reproduziert das gesamte Jagdmuster aus zwei einfachen Einzelregeln (nähere dich der Beute;
 halte Abstand zu den anderen, sobald nah genug). Kein gemeinsames mentales Ziel nötig.
-[Muro] → Dieselbe Emergenz wie Boids/Termitenbau in Kap. 3: koordiniert ist nicht
+[Muro] → Dieselbe Emergenz wie Boids/Termitenbau in Kap. 4: koordiniert ist nicht
 gemeinsam-gemeint; was wie Absprache aussieht, ist oft Parallelhandeln.
 
 Faire Gegenseite: Wölfe sind ihren Artgenossen gegenüber toleranter und partnerorientierter

@@ -5,6 +5,10 @@ Doyle-Vermessung, vor den Juni-Befunden. Dieses Dokument prüft: Was hat sich se
 verschoben, und was davon gehört ins Buch? Es ist Diskussionsgrundlage für ein Konzept v5,
 keine Neufassung.*
 
+> **Stand 10. Juni, vor dem Zeichen-Umbau (13.06.).** Die Kapitelnummern hier beziehen sich auf
+> die damalige **16-Kapitel-Struktur** (ohne „Das Zeichen"). Aktuelle Nummerierung:
+> siehe [Roter Faden](buch-roter-faden.md).
+
 ---
 
 ## Die Leitplanke zuerst

@@ -1,4 +1,4 @@
-# Kapitel 1 — Inhaltlicher Vertrag (didaktisches Rückgrat)
+# Kapitel 2 — Inhaltlicher Vertrag (didaktisches Rückgrat)
 
 *Werkstatt-Datei, 10. Juni 2026. Dies ist der **inhaltliche** Vertrag des Kapitels — die
 wissenschaftliche Bewegung, nicht ihre Erzählung. Reihenfolge der Arbeit: erst dieser
@@ -205,7 +205,7 @@ unten.)*
   Kooperation* — **eingelöst**, der Teil, der die Prüfung überlebt hat. Ergebnis sauber: (a)
   verworfen, (b) bestätigt. Das ist redlicher als Naserümpfen und für den Leser brauchbar.
 - **Stand des Wissens:** Diese Schwelle hat die Welt umgebaut; was lange genug geteilt wird,
-  härtet zu Wirklichkeit. Vorausverweis Kap. 9 (Vergessen der Gemachtheit).
+  härtet zu Wirklichkeit. Vorausverweis Kap. 10 (Vergessen der Gemachtheit).
 - **OFFENER ENTSCHEID (inhaltlich/ethisch):** Ngurunderi nicht beiläufig zweimal abschöpfen
   (Atmosphäre in Schritt 1, Beleg-Exemplar hier). Entweder einmal verwenden — oder die
   Doppelung offen als Spannung benennen. Vor der Auskleidung zu entscheiden.
@@ -236,7 +236,7 @@ Vertrag und dürfen seine Reihenfolge und seine Befunde nicht verbiegen.
 
 1. **Ngurunderi-Doppelung** (Schritt 8): einmal verwenden oder Spannung offenlegen?
 2. **Kapitel-Länge/Altitude:** Schritt 5 und 7 sind die dicksten; sollen sie hier voll
-   ausgetragen oder teils nach Kap. 11 verlagert werden? (Inhaltlicher Entscheid, nicht
+   ausgetragen oder teils nach Kap. 12 verlagert werden? (Inhaltlicher Entscheid, nicht
    tonaler.)
 3. **Bibliografische Feinangaben** (Band/Seiten) sind vor Druck gegen die Primärquellen zu
    prüfen.

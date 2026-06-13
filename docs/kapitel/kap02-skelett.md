@@ -1,3 +1,5 @@
+> ⚠️ **Historisch** — älteres, dramaturgisch gedachtes Skelett, vom [Inhaltlichen Vertrag](kap02-vertrag.md) abgelöst. Betrifft die Abgrenzung (jetzt **Kapitel 2**); interne Nummern noch alt.
+
 # Kapitel 1 — Argumentatives Skelett (Vertrag, nicht in Navigation)
 
 *Werkstatt-Datei, 10.06.2026. Dies ist das tragende Gerüst des Kapitels: pro Abschnitt
