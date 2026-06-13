@@ -14,11 +14,11 @@ als Befund in Kap. 3 (Erfindung) oder Kap. 10 (Reifikation) — „Befunde ja, V
 | 1 | Natürlich-biologisch | rabbit, beech, blood, fox | **welt** | Naturarten (Kripke/Putnam); *brute facts* (Anscombe) |
 | 2 | Leib-basiert | hand, eye, glance, pain | **welt** (Leib) | embodied cognition (Lakoff/Johnson); Leib (Merleau-Ponty) |
 | 3 | Funktional-materielle Artefakte | photograph, pipe, brougham, lens | **welt** + funktionale Auflage | Funktion auf Physis aufgesetzt (Searle) |
-| 4 | Funktional-räumliche Kategorien | office, cellar, mews, station | Übergang welt→erzähl | Ort + Funktion |
+| 4 | Funktional-räumliche Kategorien | office, cellar, mews, station | Übergang welt→erzähl | soziale Produktion des Raums (Lefebvre); Ort vs. Raum (Tuan); Affordanz (Gibson); CONTAINER-Schema (Lakoff/Johnson) |
 | 5 | Sozial definierte Rollen | gentleman, lady, client, maid | **erzähl** | Status-Funktionen / soziale Rollen (Searle) |
 | 6 | Institution / Praxis | business, bank, marriage, salary | **erzähl** | *institutional facts* (Searle); Berger & Luckmann |
 | 7 | Reifizierte soziale Abstrakta | virtue, honour, treachery, fate | **erzähl** (Reifikations-Pol) | Reifikation (Lukács; Berger & Luckmann); Hacking |
-| 8 | Affekte / innere Zustände | impatience, despair, anxious | leiblich-innere Achse (quer) | Affektlexikon; verkörperte Affekte (James/Damasio) |
+| 8 | Affekte / innere Zustände | impatience, despair, anxious | leiblich-innere Achse (quer) | verkörperte Affekte (James 1884; Damasio) ↔ konstruierte Emotion (Barrett 2017); kulturspezifisches Emotionslexikon (Wierzbicka) |
 | 9 | Skalare / Positionen | seldom, enormous, left, velocity | **form** (relational) | Kategorien Quantität/Relation (Aristoteles) |
 
 **Der Bogen, den die Leiter aufspannt:** von konkret-Natur (1–3, welt-gekoppelt) über die
