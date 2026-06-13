@@ -131,7 +131,11 @@ Verfestiger statt Aufklärer — „kein Lagerfeuer mehr, ein Spiegel, der spric
 und kehrt es um.
 
 **15 · Evolution hat keinen Plan.** Sedimentierte Erwartung; Trainingsdaten wie die Redaktoren des
-Alten Testaments. → Brücke zum Schluss.
+Alten Testaments. → Brücke zum Schluss. *Kandidaten-Bild (Thorsten, 13.06.): Die Maschine
+**interpoliert die Sinn-Wolldecke** — schließt offene Flächen zwischen schon vermessenen Geländen,
+**noch keine Emergenz** (vgl. „emergent abilities: a mirage", Schaeffer 2023). Spiegel-Wendung
+(→ Kap. 14): auch wir Menschen weben meist das schon Erzählte, ohne Bewusstsein — die Maschine
+zeigt es nur schneller und unsichtbarer. (Entzauberung.)*
 
 ### Schluss
 
