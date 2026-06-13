@@ -67,3 +67,37 @@ Bestimmung folgt. Keine trockene Semiotik-Vorlesung.
    9-Stufen-Referenten-Leiter, *Vermessung der Welt* Bd. 1: vom Hasen über den Keller bis zu
    *goodness*/*salary*). In Kap. 1 nur als *Wink*, NICHT als Neuner-Leiter — die ist Apparat
    („Befunde ja, Vokabular nein"). Befund für Kap. 3 (Erfindung) oder Kap. 10 (Reifikation).
+   Die ganze Leiter in einem Blick: [Referenten-Leiter](../referenten-leiter.md).
+
+## Quellen & Verweise
+
+*Vorläufer — aus dem Gedächtnis zusammengetragen; Editionen/Seiten vor dem Druck prüfen. (Je ein
+Satz, warum die Quelle.)*
+
+**Das Zeichen selbst (Semiotik):**
+
+- **Saussure**, *Cours de linguistique générale* (1916) — das arbiträre Zeichen, signifiant/signifié.
+- **Peirce**, Ikon/Index/Symbol — das **Scharnier** zu Kap. 2 (Index = an die Gegenwart gebunden;
+  Symbol = konventionell, abgelöst).
+- **Eco**, *A Theory of Semiotics* (1976) — Zeichen = „alles, womit man lügen kann" (aufs
+  Nicht-Anwesende zeigen → Brücke zur Fiktion).
+- **Cassirer**, *animal symbolicum* (1944); **Morris** (Syntax/Semantik/Pragmatik, 1938);
+  **Barthes** (Mythos als Zeichen zweiter Ordnung → Brücke zur Ouvertüre).
+
+**Der Riss Wort/Ding & die Referenz:**
+
+- **Wittgenstein**, *PU* §1 (1953) — das augustinische Bild „Wort = Name eines Dings" als Gegner;
+  „Bedeutung ist Gebrauch".
+- **Frege**, *Über Sinn und Bedeutung* (1892) — Sinn vs. Bedeutung.
+- **Kripke**, *Name und Notwendigkeit* (1980) — Referenz als kausal-historische Kette (das Zeichen
+  lebt in der Weitergabe).
+- **Putnam**, „The Meaning of 'Meaning'" (1975) — „meanings ain't in the head"; **Austin**
+  (Performative — Worte, die tun).
+
+**Der Bogen konkret-Natur → Institution (Bogen-Spanner für Kap. 1):**
+
+- **Anscombe**, „On Brute Facts" (1958) → **Searle**, *The Construction of Social Reality* (1995)
+  — *brute* vs. *institutional facts*. **Damit den Bogen in Kap. 1 spannen** (vom Hasen zur Regel),
+  kanonisch belegt, ohne die Neuner-Leiter.
+- **Hacking**, *The Social Construction of What?* (1999) — interaktive vs. indifferente Arten;
+  **Aristoteles**, *Kategorien*; **Durkheim & Mauss**, *Primitive Classification* (1903).
