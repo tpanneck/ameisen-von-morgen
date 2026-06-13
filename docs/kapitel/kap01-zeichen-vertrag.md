@@ -63,3 +63,7 @@ Bestimmung folgt. Keine trockene Semiotik-Vorlesung.
    dann dort als *Anwendung* (der Leser hat den Begriff schon).
 3. **Wie viel Peirce/Saussure** sichtbar — Werkzeug, nicht Apparat; Namen sparsam, Befund zuerst.
 4. Prosa folgt; dies ist nur das Rückgrat.
+5. **Der Referent ist nicht einförmig** — er staffelt sich nach *Fundierungsart* (gemessene
+   9-Stufen-Referenten-Leiter, *Vermessung der Welt* Bd. 1: vom Hasen über den Keller bis zu
+   *goodness*/*salary*). In Kap. 1 nur als *Wink*, NICHT als Neuner-Leiter — die ist Apparat
+   („Befunde ja, Vokabular nein"). Befund für Kap. 3 (Erfindung) oder Kap. 10 (Reifikation).

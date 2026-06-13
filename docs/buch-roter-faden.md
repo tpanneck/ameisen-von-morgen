@@ -86,7 +86,8 @@ entsteht „Wirklichkeit", die nicht in der Natur steht. (Baut auf dem Zeichen a
 
 **3 · Die Erfindung der Wirklichkeit.** Berger & Luckmann (Dreischritt); *konstruiert ≠ unwirklich*;
 Dame/Frau — landet jetzt härter, weil der Leser den Zeichen-Begriff *hat*. → Erbt das
-Für-wirklich-Halten aus Kap. 2 und macht es zum Gesetz.
+Für-wirklich-Halten aus Kap. 2 und macht es zum Gesetz. *(Möglicher Ort für den gemessenen
+Befund: die 9-Stufen-Referenten-Leiter, Bd. 1 — als Fund, nicht als Apparat; alternativ Kap. 10.)*
 
 **4 · Ameisen und Kathedralen.** Emergenz und *Anschluss*: Ordnung ohne Ordner. → Liefert
 „Anschluss" und entkräftet den Planer-Stolz für Kap. 5.

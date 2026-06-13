@@ -91,13 +91,20 @@ Drei Wörter, drei verschiedene Ämter — nie synonym zu verwenden.
   Widerstand; der Apfel nährt). *Erzähl-gekoppelt*: wirkt nur kraft Übereinkunft/Durchsetzung
   (Geld, Grenze). *Form-gekoppelt*: gebunden an die Konsistenz-/Viabilitäts-Bedingung — die Logik
   (s. u.). Alle drei *innerhalb* der Wirklichkeit, keine eigene Sphäre. (Philosophischer Rahmen,
-  Juni 2026 entwickelt; noch zu entscheiden, ob/wo im Buchtext.)
+  Juni 2026 entwickelt; noch zu entscheiden, ob/wo im Buchtext.) *Empirisch unterfüttert:* die
+  **9-Stufen-Referenten-Leiter** (Vermessung der Welt, Bd. 1) staffelt Referenten nach
+  *Fundierungsart* — Stufen 1–3 ≈ welt-, 5–7 ≈ erzähl-, 9 ≈ form-gekoppelt, 8 = die leiblich-innere
+  Achse. *Befund, nicht Apparat fürs Buch* (Leiter heißt dort „Arbeitsleiter, kein Schema").
 - **Logik** — keine dritte Sphäre neben Welt und Wirklichkeit, sondern die *Form* der Wirklichkeit:
   die abstrakteste Region, durch den Umgang mit der Welt *veranlasst*, aber durch Verallgemeinerung
   abgelöst (welt-*veranlasst*, nicht welt-*verortet*). *Welche* Logik gilt, ist erzähl-gekoppelt
   (mehrere, wählbar); *dass* eine Wirklichkeit konsistent sein muss, ist form-gekoppelt. Freges
   „drittes Reich" wäre der Realitäts-Fehler (die gefühlte Notwendigkeit für ein Reich von Dingen
   halten). Als nützliche Unterscheidung gehalten, nicht als absolute Wahrheit.
+- **Struktur** — neben der Logik die zweite Familie abstrakter (form-gekoppelter) Operationen: die,
+  mit denen man in Sprache *Ontologien baut* — gruppieren, Ober-/Unterbegriff, größer/kleiner,
+  verallgemeinern/spezialisieren. Auch Form der Wirklichkeit, keine eigene Sphäre: *welche*
+  Gruppierung gilt, ist erzähl-gekoppelt (wählbar); *dass* geordnet wird, ist form-gekoppelt.
 - **Die vier Ontologien** (Descola) — Animismus · Totemismus · Analogismus · Naturalismus; unser
   Default ist der **Naturalismus** (eine Natur, viele Kulturen). Mögliches Subtext-Werkzeug.
 - **Everywhen** (Stanner) — die nicht-lineare, dauernd gegenwärtige Zeit des Dreaming
