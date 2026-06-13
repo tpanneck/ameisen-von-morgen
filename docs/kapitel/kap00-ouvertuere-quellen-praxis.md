@@ -62,7 +62,36 @@ Reise lockere Lagerfeuer-Kost. Und genau diese Schichtung **schärft die „Aktu
 Die *Form* (nächtlich-offen vs. zeremoniell) **ist** der soziale Modus, in dem die geteilte
 Wirklichkeit erneuert wurde — nicht ein Behälter für sie.
 
-## 4. Was der Leser erwartet — und was wir abweisen (Campbell-Folie)
+## 4. Dramaturgie des Einstiegs — Fremdheit als Reiz, *hinter dem Schleier*
+
+**Fremdheit ist Reiz, nicht Last.** Der Ngurunderi-Text *illustriert* die These (Sprache spannt
+Wirklichkeit auf) nicht — er **vollzieht** sie: Wer „der Fluss entstand aus dem fliehenden Cod" und
+„das Oker *ist* das geronnene Blut" liest, steht bereits *in* einer anderen Kopplung, ehe ein Begriff
+fällt. Die Befremdung selbst ist das Argument, als Erfahrung vor dem Konzept. Der Fehler war *nie*,
+einen ungewöhnlichen Text zu wählen — er wäre gewesen, ihn als *gewöhnlich* zu behandeln. Also: die
+Fremdheit **bewusst und kühn** nutzen (Kap. 1 ist ohnehin als *Zumutung* gedacht). Die
+Appropriations-Sorgfalt regiert das **Wie** (zitieren, Protokoll, „zwei wirkliche Welten"), nie das
+**Ob** und nie die Kühnheit.
+
+**Aber: der Schleier.** Am Buchanfang kann der Leser die *Tragweite* der Fremdheit noch nicht fassen,
+weil das Verhältnis **Welt ↔ Wirklichkeit** noch hinter einem Schleier liegt (die Begriffe sind nicht
+gebaut). Die Ouvertüre arbeitet darum auf der Ebene der **gefühlten** Befremdung (Stimmung, Unruhe,
+Faszination), nicht des Begriffs — und sie darf **nicht erklären**: das wäre Bauchladen *und* ohne
+den Apparat gar nicht möglich. Sie **pflanzt**; das Buch hebt den Schleier (Kap. 1 *Das Zeichen*,
+Kap. 3 *Erfindung*, das Trio Welt/Wirklichkeit/Realität); das Bild **zündet rückwirkend**
+(verzögerte Entzifferung — die Technik, die ein erstes Bild erst im Licht des späteren Begriffs
+detonieren lässt). Das schärft den Vertrag „*Stellt die Fragen, beantwortet keine*": die Ouvertüre
+*kann* nicht antworten, weil der Leser noch kein Werkzeug hat — die Fremdheit ist eine Frage, in den
+Leib gepflanzt, nicht in den Kopf.
+
+**Konsequenz für den Bau:** Der *tiefste* Reiz — der Spiegel, in dem der Leser *seinen eigenen* Fluss
+plötzlich als erzählt erkennt — kann erst landen, *wenn* der Schleier halb gehoben ist. Darum gehört
+der volle **Zwei-Welten-Kontrast** (derselbe Referent, welt- vs. erzähl-gekoppelt) nach **Kap. 1/3**,
+nicht in die Ouvertüre. Die Ouvertüre hält das *eine* fremde Bild (verschleiert, gefühlt); die Kapitel
+liefern die Tragweite. So wird die Fremdheit zur Doppelbewegung: man kommt, übers fremde Andere zu
+staunen — und geht mit dem Verdacht, die eigene Wirklichkeit sei ebenso gemacht (Entzauberung).
+
+## 5. Was der Leser erwartet — und was wir abweisen (Campbell-Folie)
 
 Eröffnet ein australischer Schöpfungsgang das Buch, **supplet der gebildete Leser automatisch
 Campbell** (die Heldenreise) — eben *weil der Monomythos lange der Standard war*. Darum müssen wir
@@ -78,7 +107,7 @@ die bessere Bewegung zeigen). Kurz, am besten als Fußnote oder als ein „was-m
   wir messen eine *situierte Lesart* (B) und beobachten die Naht. (Verweis: [Referenten-Leiter](../referenten-leiter.md),
   „Arbeitsleiter, nicht reifizieren".)
 
-## 5. Ethik / Protokoll (für eine Publikation zu klären)
+## 6. Ethik / Protokoll (für eine Publikation zu klären)
 
 Öffentliche Schicht only; das Geschlossene bleibt draußen. Taplin ist gemeinfrei *und* doppelt
 vermittelt — als solchen markieren, nie als „die Ngarrindjeri-Stimme". Für eine Veröffentlichung
