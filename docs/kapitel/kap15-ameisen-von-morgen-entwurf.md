@@ -1,4 +1,4 @@
-# Kapitel 15: Die Ameisen von morgen
+# Kapitel 16: Die Ameisen von morgen
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap15-ameisen-von-morgen.md) vom März ist daneben
 aufgehoben.*
@@ -7,7 +7,7 @@ aufgehoben.*
 
 ## I.
 
-Kehren wir, ein vorletztes Mal, zu den Ameisen aus dem dritten Kapitel zurück, denn jetzt
+Kehren wir, ein vorletztes Mal, zu den Ameisen aus dem vierten Kapitel zurück, denn jetzt
 erst lässt sich sehen, warum sie dem Buch den Namen geben. Damals dienten sie als Beispiel
 für eine schwer zu glaubende Tatsache: dass aus lauter dummen, blinden Einzelschritten,
 von denen keiner das Ganze kennt, ein hochkomplexes Ganzes wächst — ein Bau, eine Kolonie,
@@ -28,7 +28,7 @@ Es hat keinen Namen, weil es zu neu ist. Dieses Buch nennt es: die Ameisen von m
 ## II.
 
 Man muss sich klarmachen, dass dieses System niemand baut. Das ist die zentrale, die
-schwer erträgliche Einsicht, und sie ist genau die aus dem dritten Kapitel, nur dass es
+schwer erträgliche Einsicht, und sie ist genau die aus dem vierten Kapitel, nur dass es
 diesmal nicht um Insekten geht, sondern um uns. Es gibt keine Schaltzentrale der
 Mensch-Maschine-Kommunikation, keinen Rat, der ihren Lauf bestimmt, keinen Ingenieur, der
 das Ganze überblickt. Es gibt die Firmen, die die Maschinen bauen — aber auch sie steuern
@@ -36,7 +36,7 @@ nur ihren kleinen Handgriff, nicht das emergierende Ganze; sie sind selbst Ameis
 grösseren Bau. Es gibt die Milliarden Nutzer — aber jeder von ihnen tut nur das Seine,
 fragt seine Frage, liest seine Antwort, ahnungslos über das Muster, in das sein winziger
 Anschluss eingeht. Das Ganze sieht keiner, weil es, wie beim Termitenbau, keine Stelle gibt,
-von der aus man es überblickte — es ist, mit dem Bild aus dem dritten Kapitel, nirgends
+von der aus man es überblickte — es ist, mit dem Bild aus dem vierten Kapitel, nirgends
 versammelt; was wie ein Plan aussieht, ist nur die Gestalt, die Millionen blinder Anschlüsse
 von weitem annehmen.
 
@@ -118,7 +118,7 @@ Augen, und wissen, dass das Hinsehen selbst schon ein Anschluss ist, der mitzäh
 ## VI.
 
 Es lohnt, an dieser Stelle einen alten Bekannten dieses Buches noch einmal aufzurufen: die
-Reifikation aus dem neunten Kapitel, das Vergessen, dass wir es waren, die bauten. Denn sie
+Reifikation aus dem zehnten Kapitel, das Vergessen, dass wir es waren, die bauten. Denn sie
 wird hier ihren grössten Auftritt haben, und zwar nicht bei uns, sondern bei denen, die nach
 uns kommen.
 
@@ -128,7 +128,7 @@ nicht gab, das werden unsere Enkel vorfinden wie wir die Berge und das Wetter vo
 sie wird es keine Neuerung sein, sondern Natur. Sie werden in eine Welt hineinwachsen, in
 der man mit Maschinen spricht, wie wir in eine Welt hineinwuchsen, in der man mit Geld
 zahlt — selbstverständlich, fraglos, ohne die leiseste Ahnung, dass irgendwer das je
-erfunden, eingerichtet, hätte anders machen können. Der Dreischritt aus dem neunten Kapitel
+erfunden, eingerichtet, hätte anders machen können. Der Dreischritt aus dem zehnten Kapitel
 wird sich an diesem grössten aller Gegenstände vollziehen: Wir externalisieren gerade, im
 Blindflug, ein neues Verhältnis von Mensch und Maschine; es wird sich objektivieren, zur
 Tatsache verhärten; und die Übernächsten werden es internalisieren als das, was eben ist.

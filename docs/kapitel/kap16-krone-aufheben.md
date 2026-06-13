@@ -1,3 +1,5 @@
+> ⚠️ **Historisch — März-Exposé.** Überholter Planungsstand (März 2026). Der aktuelle Stand steht im Entwurf bzw. im Vertrag; hier nur als Archiv. Nummerierung noch alt (vor dem Zeichen-Umbau).
+
 
 # Kapitel 16: Die Krone aufheben — oder liegenlassen
 

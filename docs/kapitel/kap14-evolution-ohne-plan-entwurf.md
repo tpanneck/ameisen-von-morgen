@@ -1,4 +1,4 @@
-# Kapitel 14: Evolution hat keinen Plan
+# Kapitel 15: Evolution hat keinen Plan
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap14-evolution-ohne-plan.md) vom März ist daneben
 aufgehoben.*
@@ -12,7 +12,7 @@ Bild ist eine Treppe oder ein Marsch: links, gebückt, der Affe, und dann, Schri
 Schritt aufrechter, über allerlei haarige Zwischenstufen, schliesslich rechts der Mensch,
 der Speer in der Hand, der Blick nach vorn. Aufstieg, Fortschritt, Ziel. Die Evolution als
 eine Reise, die bei uns ankommen wollte und ankam. Dieses Bild schmeichelt, wie die Krone
-aus dem vierten Kapitel schmeichelt, und es ist aus demselben Stoff: aus dem Bedürfnis,
+aus dem fünften Kapitel schmeichelt, und es ist aus demselben Stoff: aus dem Bedürfnis,
 sich an die Spitze einer Geschichte zu stellen, die in Wahrheit keine Spitze hat.
 
 Denn die Evolution geht nirgendwohin. Sie hat kein Ziel, keine Richtung, keine Absicht und
@@ -22,7 +22,7 @@ Eltern. Es gibt Selektion — manche kommen unter den Bedingungen, die gerade he
 besser durch als andere. Und es gibt Vererbung — was durchkam, gibt das Seine weiter. Mehr
 ist es nicht. Variation, Auslese, Weitergabe, in unendlicher Wiederholung, drei Milliarden
 acht hundert Millionen Jahre lang. Kein Plan steckt darin, so wenig wie im Termitenbau aus
-dem dritten Kapitel ein Architekt steckt. Was aussieht wie Entwurf — das Auge, der Flügel,
+dem vierten Kapitel ein Architekt steckt. Was aussieht wie Entwurf — das Auge, der Flügel,
 das Gehirn, das diesen Satz liest —, ist die Form, die das blinde Muster von weitem annimmt,
 wenn es nur lange genug läuft. Es ist Emergenz auf der Zeitachse, und es ist die mächtigste
 Kraft, die wir kennen.
@@ -32,7 +32,7 @@ Kraft, die wir kennen.
 Den Gedanken hat Charles Darwin 1859 in die Welt gesetzt, und er hat dreiundzwanzig Jahre
 gezögert, ehe er ihn veröffentlichte — aus Furcht vor dem, was er anrichten würde. Er hatte
 recht mit der Furcht. Was er anrichtete, war die zweite der grossen Kränkungen aus dem
-vierten Kapitel: dass der Mensch kein Sonderakt der Schöpfung ist, sondern ein Zweig am
+fünften Kapitel: dass der Mensch kein Sonderakt der Schöpfung ist, sondern ein Zweig am
 selben blinden Baum wie alles Lebendige, hervorgebracht von einem Verfahren ohne Verstand.
 
 Aber die eigentliche Schärfe des Gedankens kam erst ein Jahrhundert später, und sie kam von
@@ -65,7 +65,7 @@ sondern weil sie sich *gut kopieren lassen*. Ein eingängiger Schlager schlägt 
 aber sperriges Lied; ein einfacher Aberglaube verbreitet sich weiter als eine komplizierte
 Wahrheit; eine Religion, die ihren Gläubigen aufträgt, sie zu verbreiten und an ihr nicht
 zu zweifeln, hat einen Kopiervorteil eingebaut, der mit ihrem Wahrheitsgehalt nichts zu tun
-hat. Erinnerst du dich an den Löwen am Felsen aus dem ersten Kapitel? Er war ein Mem avant
+hat. Erinnerst du dich an den Löwen am Felsen aus dem zweiten Kapitel? Er war ein Mem avant
 la lettre — eine Geschichte, die überlebte, nicht weil es den Löwen gab, sondern weil das
 Nicken nicht abriss. Das ganze erste Drittel dieses Buches, von der Fiktion über die
 Konstruktion bis zur Reifikation, war, ohne das Wort zu nennen, eine Naturgeschichte der
@@ -99,7 +99,7 @@ es angespült wurde.
 Halten wir einen Augenblick inne, denn man kann an dieser Stelle in eine Kälte kippen, die
 nicht das letzte Wort sein darf. Es klingt entwürdigend: ein Vehikel, eine Maschine, ein
 Strand. Aber es ist nur entwürdigend, solange man an der Krone hängt. Lässt man sie für
-einen Moment liegen — das fünfte Kapitel hat geübt, wie das geht —, dann liegt in der
+einen Moment liegen — das sechste Kapitel hat geübt, wie das geht —, dann liegt in der
 Einsicht keine Erniedrigung, sondern eine seltsame Erleichterung. Du musst nicht der Urheber
 all dessen sein, was du denkst; vieles davon hast du geerbt, geatmet, aufgelesen, und das zu
 wissen macht dich freier, nicht kleiner, denn was angespült wurde, kann man auch wieder
@@ -117,7 +117,7 @@ milliardenfach parallel?
 ## VI.
 
 Denn das ist, von der Evolution her gesehen, was der dritte Affe ist. Wir haben ihn im
-elften Kapitel als Kommunikationsteilnehmer kennengelernt, im dreizehnten als Spiegel. Jetzt
+zwölften Kapitel als Kommunikationsteilnehmer kennengelernt, im dreizehnten als Spiegel. Jetzt
 zeigt er sein drittes Gesicht, und es ist das grösste: Er ist ein neuer Replikator-Apparat,
 das erste nicht-menschliche Vehikel der kulturellen Evolution. Bisher mussten alle Meme
 durch menschliche Köpfe — geboren, gehört, behalten, weitergesagt, ein langsamer, leiblicher
@@ -152,7 +152,7 @@ abgetragen — er ist nicht die Mitte des Kosmos, nicht der Herr seines Leibes, 
 Autor seiner Gespräche, nicht der Dichter seiner Überzeugungen, nicht einmal der einzige,
 der am Feuer erzählen kann. Was bleibt, wenn so viel abgetragen ist? Die Versuchung ist
 gross, hier in Schwermut zu enden: Dann ist der Mensch ja nichts. Aber das wäre der
-Kurzschluss aus dem fünften Kapitel, der vom „nicht absolut" auf „gar nicht" springt.
+Kurzschluss aus dem sechsten Kapitel, der vom „nicht absolut" auf „gar nicht" springt.
 
 Es bleibt etwas, und es ist nicht wenig, aber es ist anderes, als wir dachten. Was bleibt,
 ist nicht die Sonderstellung, sondern die Lage: dass wir die Wesen sind, die *bemerken*

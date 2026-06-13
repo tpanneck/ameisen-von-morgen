@@ -6,10 +6,11 @@ Kapitel **leistet**, und wie eins aufs andere **aufbaut**. Begriffe genau gesetz
 [Konzept-Delta](konzept-delta.md) bleibt als Protokoll der Verschiebungen.*
 
 > **Nummerierung nach dem Zeichen-Umbau (13.06.):** „Das Zeichen" ist neues **Kapitel 1**, die
-> Abgrenzung zum Tier rückt auf **2**, alles Weitere +1 — jetzt 17 Kapitel. Diese Seite trägt die
-> *neue* Nummerierung (der Plan). Die Entwurfs-Dateien und die Navigation tragen noch die *alte* —
-> sie wird beim Überarbeiten jedes Kapitels nachgezogen, damit Navigation und Prosa nie
-> widersprechen. „Das Zeichen" existiert bisher nur als Vertrag, noch nicht als Prosa.
+> Abgrenzung zum Tier rückt auf **2**, alles Weitere +1 — jetzt 17 Kapitel. Die neue Nummerierung
+> ist **durchgezogen**: Kapitel-Überschriften, Quer-Verweise im Text *und* die Navigation stimmen
+> überein. Nur die *Dateinamen* (`kap01…kap16`) bleiben als stabile Kennungen/URLs auf der alten
+> Zahl — leserseitig unsichtbar. „Das Zeichen" existiert bisher nur als Vertrag, noch nicht als
+> Prosa; die März-Exposés tragen einen Historisch-Hinweis und behalten ihre alte Nummerierung.
 
 ---
 
@@ -154,5 +155,5 @@ dem Trio Welt/Wirklichkeit/Realität und dem Vertrag des Buches.
 - **Ersetzt** `konzept.md` (März) als lebende Leitlinie.
 - **Ergänzt** `konzept-delta.md` (Juni).
 - **Offen:** „Das Zeichen" (Kap. 1) ist nur als Vertrag vorhanden, noch nicht als Prosa. Dünne
-  Kapitel (v. a. 8 Empathie, 9 Kommunikation, 16) vor der Auskleidung schärfen. Die Entwurfs-Dateien
-  und die Navigation tragen noch die alte Nummerierung (siehe Kasten oben).
+  Kapitel (v. a. 8 Empathie, 9 Kommunikation, 16) vor der Auskleidung schärfen. Nur die
+  *Dateinamen* bleiben als stabile Kennungen auf der alten Zahl (siehe Kasten oben).

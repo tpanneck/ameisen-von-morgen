@@ -1,4 +1,4 @@
-# Kapitel 7: Empathie — oder: Warum du weinst, wenn jemand im Film stirbt
+# Kapitel 8: Empathie — oder: Warum du weinst, wenn jemand im Film stirbt
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap07-empathie.md) vom März ist daneben
 aufgehoben.*

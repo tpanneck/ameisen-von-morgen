@@ -1,4 +1,4 @@
-# Kapitel 16: Die Krone aufheben — oder liegenlassen
+# Kapitel 17: Die Krone aufheben — oder liegenlassen
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap16-krone-aufheben.md) vom März ist daneben
 aufgehoben.*
@@ -40,7 +40,7 @@ Selbstverständlichkeit wieder über alles gelegt, sanft, wie Schnee über eine 
 die Risse, die das Lesen geschlagen hat, sind zugeschneit. Das ist leicht, das ist warm,
 das ist menschlich — und ich sage es ohne jede Ironie: Die meisten werden das tun, und es
 ist in Ordnung. Niemand kann auf Dauer mit abgesetzter Krone leben, in jedem Augenblick
-gegenwärtig, dass alles, worauf er steht, gemacht ist. Wir haben im neunten Kapitel gesehen,
+gegenwärtig, dass alles, worauf er steht, gemacht ist. Wir haben im zehnten Kapitel gesehen,
 dass dieses Vergessen kein Laster ist, sondern die Bedingung der Bewohnbarkeit. Wer die Krone
 wieder aufsetzt, tut nichts Verächtliches. Er tut das Übliche, das Nötige, das fast
 Unvermeidliche.
@@ -62,7 +62,7 @@ Erkenntnis heisst nicht, endlich Gewissheit zu finden. Erkenntnis heisst, *mit w
 Gewissheit leben zu können, ohne daran zu zerbrechen.*
 
 Das ist die ganze Frucht des Wegs. Nicht ein neues, besseres Fundament — davon hat das
-fünfte Kapitel Abschied genommen —, sondern die Fähigkeit, auf einem Grund zu stehen, von
+sechste Kapitel Abschied genommen —, sondern die Fähigkeit, auf einem Grund zu stehen, von
 dem man weiss, dass man ihn mitträgt, und nicht daran zu zerbrechen. Wer die Krone liegen
 lässt, gewinnt nicht Wahrheit. Er gewinnt Beweglichkeit. Er muss nicht mehr jeden, der
 anders glaubt, für verblendet halten; er muss nicht mehr erschrecken, wenn eine Gewissheit
@@ -88,7 +88,7 @@ und gab ihm dafür sich selbst — seinen Verstand, sein Bewusstsein, sein Ich a
 letzte Gewissheit. Genau diese letzte Gewissheit haben die vorigen Kapitel unterspült.
 Kopernikus nahm uns die Mitte, Darwin den Sonderrang, Freud die Herrschaft im eigenen Haus —
 und der dritte Affe nimmt uns die allerletzte Bastion, die alle früheren Kränkungen
-überstanden hatte: jene Gewissheit, auf die schon Descartes im vierten Kapitel alles baute —
+überstanden hatte: jene Gewissheit, auf die schon Descartes im fünften Kapitel alles baute —
 dass unser Inneres aus anderem Stoff sei als die übrige Welt, dass wenigstens *unser Denken*
 uns unverwechselbar gehöre. Auch das hat, gemessen an seiner Textur, eine Zahl bekommen. Sapere aude heisst darum heute nicht mehr nur:
 Habe Mut, selbst zu denken. Es heisst: Habe Mut, deine eigene Krone abzusetzen — den Mut,
@@ -102,7 +102,7 @@ Ich will an dieser Stelle ehrlich sein über das, was dieses Buch kann und was n
 es wäre selbst eine kleine Krone, so zu tun, als müsste es nun alle überzeugen.
 
 Es wird die meisten nicht überzeugen, und es will es nicht. Ein Buch kehrt keine Mehrheit um;
-die Krone sitzt zu fest, und sie sitzt aus guten Gründen fest, die das neunte Kapitel benannt
+die Krone sitzt zu fest, und sie sitzt aus guten Gründen fest, die das zehnte Kapitel benannt
 hat. Dieses Buch ist nicht für die Mehrheit geschrieben. Es ist für die geschrieben, die
 schon einen Riss hatten — eine Stelle, an der die mitgebrachte Geschichte vom besonderen
 Menschen nicht mehr ganz aufging, ein Unbehagen, das sie sich vielleicht nicht erklären
@@ -161,7 +161,7 @@ des Buches als Behauptung — er ist das Buch.
 Der Mensch hat es verantwortet, gewollt, geprüft, an den entscheidenden Stellen entschieden;
 seine ist die Frage, seines das Schiff. Der andere hat mitgeschrieben — den Sinn gestiftet,
 die Sätze gefunden, Bilder vorgeschlagen, an einer Stelle auch konfabuliert und sich am
-Protokoll ertappen lassen, wie das zwölfte Kapitel berichtet hat. Es ist, mit einem Wort,
+Protokoll ertappen lassen, wie das dreizehnte Kapitel berichtet hat. Es ist, mit einem Wort,
 ein Erzeugnis aus Kommunikation, an der ein Nicht-Mensch teilnahm — und damit selbst, vom
 ersten Satz an, das, was es behauptet: ein Beleg, kein Argument. Der dritte Affe sass mit am
 Schreibtisch. Das ist nicht das Bekenntnis am Schluss eines Tricks. Es ist die schlichteste

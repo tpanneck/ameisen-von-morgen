@@ -1,3 +1,5 @@
+> ⚠️ **Historisch — verworfene Prosa-Fassung (v2).** Wurde verworfen; der aktuelle Plan steht im Zeichen-/Kapitel-Vertrag. Archiv.
+
 # Kapitel 1: Das Lagerfeuer
 
 *Alternative Fassung (v2), 10. Juni 2026. Sie ersetzt die erfundene Eröffnung durch eine

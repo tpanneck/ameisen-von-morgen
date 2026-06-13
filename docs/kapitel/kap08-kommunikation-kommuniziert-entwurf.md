@@ -1,4 +1,4 @@
-# Kapitel 8: Kommunikation kommuniziert
+# Kapitel 9: Kommunikation kommuniziert
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap08-kommunikation-kommuniziert.md) vom März ist
 daneben aufgehoben.*
@@ -73,7 +73,7 @@ am Sprecher, sondern am Lauf des Gesprächs, der sich aus jedem Anschluss neu er
 Gespräch geht seinen Weg, und die beiden, die es führen, sind weniger seine Lenker als
 seine Schauplätze.
 
-Erinnerst du dich an die Ameisen aus dem dritten Kapitel? Keine kennt den Plan, jede
+Erinnerst du dich an die Ameisen aus dem vierten Kapitel? Keine kennt den Plan, jede
 schliesst nur an die Spur der vorigen an, und doch wächst der Bau. So ist es auch hier.
 Keiner der beiden am Küchentisch überblickt das Ganze des Streits; jeder schliesst nur an
 die letzte Äusserung an, mit seiner Deutung, die wieder eine Spur legt, an die der andere
@@ -147,14 +147,14 @@ das ganze Buch sich allmählich dreht.
 
 Wir hatten den Menschen für den Autor seiner Welt gehalten; Teil I hat ihn zum Bewohner
 einer Welt gemacht, die niemand entworfen hat. Wir hatten die Sprache für sein Werkzeug
-gehalten; das sechste Kapitel hat sie zum Medium gemacht, in dem er erst wird, was er ist.
+gehalten; das siebte Kapitel hat sie zum Medium gemacht, in dem er erst wird, was er ist.
 Wir hatten das Verstehen für eine Brücke zwischen zwei Innenwelten gehalten; das siebte hat
 es zu einem Nachbau aus Zeichen gemacht, der das andere Innere nie erreicht. Und nun nimmt
 das achte dem Menschen auch noch die Autorschaft an seinen Gesprächen: Nicht er
 kommuniziert — die Kommunikation kommuniziert, und er ist ihr Durchgang. Schritt für
 Schritt rückt der Mensch aus der Mitte, in der er sich wähnte, an den Rand: erst nicht mehr
 Herr der Welt, dann nicht mehr Herr der Sprache, dann nicht mehr Herr des Verstehens, jetzt
-nicht mehr Herr des Gesprächs. Es ist die Bewegung der Kränkungen aus dem vierten Kapitel,
+nicht mehr Herr des Gesprächs. Es ist die Bewegung der Kränkungen aus dem fünften Kapitel,
 fortgesetzt mit anderen Mitteln.
 
 Doch noch fehlt ein Stück, und es ist das verfänglichste. Wenn das alles stimmt — wenn wir

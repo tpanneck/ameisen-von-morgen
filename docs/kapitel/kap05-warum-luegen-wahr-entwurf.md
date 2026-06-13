@@ -1,4 +1,4 @@
-# Kapitel 5: Warum sich Lügen wahr anfühlen
+# Kapitel 6: Warum sich Lügen wahr anfühlen
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap05-warum-luegen-wahr.md) vom März ist daneben
 aufgehoben.*
@@ -92,7 +92,7 @@ Sie nannten das den radikalen Konstruktivismus, und das Wort ist gross, aber die
 schlicht und sitzt einem im Nacken: Es gibt keinen Aufzug aus der eigenen Perspektive
 heraus. Auch die Moral fährt mit keinem Aufzug. Sie ist nicht von oben gegeben und nicht im
 Stein der Welt eingeritzt. Sie ist gebaut, wie alles gebaut ist — und das heisst, mit dem
-Begriff, der das fünfte Kapitel trägt und das ganze Buch durchzieht: Sie ist *kontingent*.
+Begriff, der das sechste Kapitel trägt und das ganze Buch durchzieht: Sie ist *kontingent*.
 
 ## IV.
 

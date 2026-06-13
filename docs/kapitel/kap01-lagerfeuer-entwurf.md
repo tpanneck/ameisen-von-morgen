@@ -1,4 +1,4 @@
-# Kapitel 1: Das Lagerfeuer
+# Kapitel 2: Das Lagerfeuer
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap01-lagerfeuer.md) vom März ist daneben
 aufgehoben.*
@@ -171,7 +171,7 @@ nicht irgendwann irgendwer erfunden habe, dem widerführe, was Ketzern widerfäh
 Geschichte ist zur Tatsache geworden — nicht weil sie wahr geworden wäre, sondern weil
 niemand mehr da ist, der sie als Geschichte erlebt hat. Wie diese Verwandlung funktioniert,
 dieses Vergessen-dass-wir-es-waren, ist eines der genauesten Kapitel der Soziologie und hier
-das Kapitel 9. An dieser Stelle genügt der Befund: Erfundenes wird wirklich, wenn genug
+das Kapitel 10. An dieser Stelle genügt der Befund: Erfundenes wird wirklich, wenn genug
 Köpfe lange genug nicken.
 
 ## VI.

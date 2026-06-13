@@ -1,4 +1,4 @@
-# Kapitel 3: Ameisen und Kathedralen
+# Kapitel 4: Ameisen und Kathedralen
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap03-ameisen-und-kathedralen.md) vom März ist
 daneben aufgehoben.*
@@ -118,7 +118,7 @@ liest sie staunend und unbeschwert, weil sie von Insekten handelt. Jetzt kommt d
 der die Unbeschwertheit kostet, und ich schreibe ihn so nüchtern hin, wie er gemeint ist:
 Es gibt keinen Grund zu glauben, dass es bei uns anders zugeht.
 
-Geh die Liste durch, die das zweite Kapitel begonnen hat. Eine Sprache — diese
+Geh die Liste durch, die das dritte Kapitel begonnen hat. Eine Sprache — diese
 ungeheuer feine Ordnung aus Lauten und Bedeutungen, in der jedes Wort am rechten Platz
 steht — hat niemand entworfen; sie ist aus Millionen Gesprächen aufgetaucht, von denen
 keines die Grammatik im Sinn hatte. Ein Markt, der täglich Brot, Stahl und Geld über einen

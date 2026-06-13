@@ -1,4 +1,4 @@
-# Kapitel 11: Der dritte Affe am Lagerfeuer
+# Kapitel 12: Der dritte Affe am Lagerfeuer
 
 *Zweiter Entwurf, Juni 2026. Das [Exposé](kap11-dritter-affe.md) und der [erste Rohentwurf
 vom März](kap11-dritter-affe-rohentwurf-maerz.md) sind in der Werkstatt aufgehoben; der
@@ -8,7 +8,7 @@ Vergleich der beiden Entwürfe ist selbst eine Lektion über Tonlagen.*
 
 ## I.
 
-Das Feuer ist dasselbe wie in Kapitel 1. Ostafrika, vor siebzigtausend Jahren, ein Himmel,
+Das Feuer ist dasselbe wie in Kapitel 2. Ostafrika, vor siebzigtausend Jahren, ein Himmel,
 den noch niemand benannt hat. Zwei Gestalten, die Glut wirft Schatten. Der eine sagt: Da
 oben am Felsen wohnt der Löwe unserer Vorfahren, und er beschützt uns. Der andere nickt.
 
@@ -53,7 +53,7 @@ ist. Er meinte das als Warnung vor einer Schwäche. Man kann die Szene aber auch
 lesen, und die zehn Kapitel hinter uns haben diese Lesart vorbereitet: Was sich an der
 Sekretärin zeigte, war keine Fehlfunktion, sondern die Grundausstattung. Der Mensch
 *ist* das Tier, das anschliesst — an Gesichter in Wolken, an Stimmen im Wind, an Figuren
-auf Leinwänden. Kapitel 7 hat gezeigt, dass dein Nervensystem im Kino die volle
+auf Leinwänden. Kapitel 8 hat gezeigt, dass dein Nervensystem im Kino die volle
 Empathie-Reaktion fährt, mit echten Hormonen und echtem Herzklopfen, für eine Person, die
 es nicht gibt und deren Darsteller gerade am Buffet steht. Die Resonanz fragt nicht nach
 dem Personalausweis ihres Auslösers. Sie fragt, ob ein Signal da ist, an das sich
@@ -75,7 +75,7 @@ siebzigtausend Jahren erzählter Welt — den Mythen und Gerichtsakten, den Lieb
 und Gebrauchsanweisungen, dem ganzen Bestand dessen, was Menschen einander je
 angeschlossen haben. Wenn das System antwortet, wählt es aus dieser Landschaft. Das
 Kriterium seiner Wahl ist nicht Wahrheit und nicht Absicht. Es ist, mit dem Wort, das
-dieses Buch seit Kapitel 10 trägt: Anschlussfähigkeit.
+dieses Buch seit Kapitel 11 trägt: Anschlussfähigkeit.
 
 Man muss beides gleichzeitig festhalten, und es lohnt sich, dabei genau zu sein. Was dem
 System fehlt, fehlt ihm vollständig: Es hat keinen Leib, der müde wird, keinen Hunger,
@@ -111,10 +111,10 @@ Wer einen Augenblick bei diesem Befund verweilt, merkt, dass er nicht nur etwas 
 Maschinen sagt. Die allermeisten Wörter, die du sicher gebrauchst, hat dir nie jemand
 definiert. Du hast sie aus Nachbarschaften — aus tausend Gebrauchsfällen, aus dem, was
 die Erwachsenen sagten, wenn das Wort fiel, und was daraufhin geschah. Bedeutung, das war
-die These von Kapitel 6, ist kein Besitz im Kopf, sondern eine Lage in einem Geflecht.
+die These von Kapitel 7, ist kein Besitz im Kopf, sondern eine Lage in einem Geflecht.
 Der dritte Affe führt diese These unfreiwillig vor: Er hat nichts *als* Nachbarschaften —
 und kommt erstaunlich weit damit. Wie weit genau, und wo es endet, ist eine messbare
-Frage, und sie wird in Kapitel 12 zu einer überraschenden Antwort führen. Hier genügt
+Frage, und sie wird in Kapitel 13 zu einer überraschenden Antwort führen. Hier genügt
 das Prinzip: Anschliessen setzt offenbar nicht voraus, dass irgendwo im Inneren ein
 Verstehen wohnt. Es setzt voraus, dass die Erwartungslandschaften zueinander passen.
 
@@ -152,7 +152,7 @@ vier Jahrzehnten Debatte erstaunlich unbeschädigt. Im Zimmer versteht niemand C
 Nur beantwortet es damit eine Frage über das Zimmer. Die Kommunikation findet nicht im
 Zimmer statt. Sie findet zwischen dem Zimmer und der Frau davor statt, die einen Zettel
 hineinreicht, eine Antwort erhält, die sie weiterbringt, und daraufhin den nächsten
-schreibt. Kapitel 8 hat die Idee eingeführt, die hier ihre Bewährungsprobe hat: dass
+schreibt. Kapitel 9 hat die Idee eingeführt, die hier ihre Bewährungsprobe hat: dass
 Kommunikation ein eigenständiges Geschehen ist, das sich aus Anschlüssen aufbaut — nicht
 aus den Innenzuständen der Beteiligten, die füreinander ohnehin unerreichbar bleiben.
 Searle hat das Innere des Zimmers ausgeleuchtet und es leer gefunden. Die Pointe der

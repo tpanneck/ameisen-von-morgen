@@ -54,73 +54,74 @@ nav:
   - Start: index.md
   - "Das Buch (aktueller Stand)":
       - "Teil I — Geschichten":
-          - "1 · Das Lagerfeuer": kapitel/kap01-lagerfeuer-entwurf.md
-          - "2 · Die Erfindung der Wirklichkeit": kapitel/kap02-erfindung-der-wirklichkeit-entwurf.md
-          - "3 · Ameisen und Kathedralen": kapitel/kap03-ameisen-und-kathedralen-entwurf.md
-          - "4 · Die Krone aus Pappe": kapitel/kap04-krone-aus-pappe-entwurf.md
-          - "5 · Warum Lügen wahr werden": kapitel/kap05-warum-luegen-wahr-entwurf.md
+          - "1 · Das Zeichen (in Arbeit)": kapitel/kap-zeichen-vertrag.md
+          - "2 · Das Lagerfeuer": kapitel/kap01-lagerfeuer-entwurf.md
+          - "3 · Die Erfindung der Wirklichkeit": kapitel/kap02-erfindung-der-wirklichkeit-entwurf.md
+          - "4 · Ameisen und Kathedralen": kapitel/kap03-ameisen-und-kathedralen-entwurf.md
+          - "5 · Die Krone aus Pappe": kapitel/kap04-krone-aus-pappe-entwurf.md
+          - "6 · Warum Lügen wahr werden": kapitel/kap05-warum-luegen-wahr-entwurf.md
       - "Teil II — Maschinen":
-          - "6 · Im Anfang war das Wort": kapitel/kap06-im-anfang-war-das-wort-entwurf.md
-          - "7 · Empathie": kapitel/kap07-empathie-entwurf.md
-          - "8 · Kommunikation kommuniziert": kapitel/kap08-kommunikation-kommuniziert-entwurf.md
-          - "9 · Die Kinder, die ihre Eltern vergessen": kapitel/kap09-kinder-die-eltern-vergessen-entwurf.md
-          - "10 · Sinn, das Betriebssystem": kapitel/kap10-sinn-das-betriebssystem-entwurf.md
+          - "7 · Im Anfang war das Wort": kapitel/kap06-im-anfang-war-das-wort-entwurf.md
+          - "8 · Empathie": kapitel/kap07-empathie-entwurf.md
+          - "9 · Kommunikation kommuniziert": kapitel/kap08-kommunikation-kommuniziert-entwurf.md
+          - "10 · Die Kinder, die ihre Eltern vergessen": kapitel/kap09-kinder-die-eltern-vergessen-entwurf.md
+          - "11 · Sinn, das Betriebssystem": kapitel/kap10-sinn-das-betriebssystem-entwurf.md
       - "Teil III — Der neue Gast":
-          - "11 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe-entwurf.md
-          - "12 · Die falsche Frage": kapitel/kap12-falsche-frage-entwurf.md
-          - "13 · Das Feuer und der Spiegel": kapitel/kap13-singularitaet-entwurf.md
-          - "14 · Evolution hat keinen Plan": kapitel/kap14-evolution-ohne-plan-entwurf.md
+          - "12 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe-entwurf.md
+          - "13 · Die falsche Frage": kapitel/kap12-falsche-frage-entwurf.md
+          - "14 · Das Feuer und der Spiegel": kapitel/kap13-singularitaet-entwurf.md
+          - "15 · Evolution hat keinen Plan": kapitel/kap14-evolution-ohne-plan-entwurf.md
       - "Schluss":
-          - "15 · Die Ameisen von morgen": kapitel/kap15-ameisen-von-morgen-entwurf.md
-          - "16 · Die Krone aufheben": kapitel/kap16-krone-aufheben-entwurf.md
+          - "16 · Die Ameisen von morgen": kapitel/kap15-ameisen-von-morgen-entwurf.md
+          - "17 · Die Krone aufheben": kapitel/kap16-krone-aufheben-entwurf.md
   - Werkstatt:
       - "Buch-Ebene":
           - "Roter Faden — das ganze Buch": buch-roter-faden.md
           - "Glossar — tragende Begriffe": glossar.md
-          - "Buchkonzept (März, überholt)": konzept.md
+          - "Buchkonzept (März · historisch)": konzept.md
           - "Konzept-Delta (Juni)": konzept-delta.md
           - "Anregungen aus Masterarbeiten": kapitel/anregungen-masterarbeiten.md
           - "Literatur": literatur.md
-      - "Kapitel":
+      - "Kapitel (Verträge & Material)":
           - "Ouvertüre — Am Feuer (Vor-Kapitel)":
-              - "Inhaltlicher Vertrag": kapitel/kap00-ouvertuere-vertrag.md
-          - "Das Zeichen (neu — künftig Kap. 1)":
-              - "Inhaltlicher Vertrag": kapitel/kap-zeichen-vertrag.md
-          - "Kapitel 1 — Das Lagerfeuer":
-              - "Inhaltlicher Vertrag (Rückgrat)": kapitel/kap01-vertrag.md
-              - "Argumentatives Skelett (älter)": kapitel/kap01-skelett.md
-              - "Tier-Grenze — Rohtext": kapitel/kap01-tiergrenze-rohtext.md
-              - "Eröffnungsszene (Arbeitsstand)": kapitel/kap01-szene-arbeitsstand.md
-              - "Alternative Fassung v2 (Prosa)": kapitel/kap01-lagerfeuer-v2.md
-              - "Exposé (März)": kapitel/kap01-lagerfeuer.md
-          - "Kapitel 2 — Die Erfindung der Wirklichkeit":
-              - "Exposé (März)": kapitel/kap02-erfindung-der-wirklichkeit.md
-          - "Kapitel 3 — Ameisen und Kathedralen":
-              - "Exposé (März)": kapitel/kap03-ameisen-und-kathedralen.md
-          - "Kapitel 4 — Die Krone aus Pappe":
-              - "Exposé (März)": kapitel/kap04-krone-aus-pappe.md
-          - "Kapitel 5 — Warum Lügen wahr werden":
-              - "Exposé (März)": kapitel/kap05-warum-luegen-wahr.md
-          - "Kapitel 6 — Im Anfang war das Wort":
-              - "Exposé (März)": kapitel/kap06-im-anfang-war-das-wort.md
-          - "Kapitel 7 — Empathie":
-              - "Exposé (März)": kapitel/kap07-empathie.md
-          - "Kapitel 8 — Kommunikation kommuniziert":
-              - "Exposé (März)": kapitel/kap08-kommunikation-kommuniziert.md
-          - "Kapitel 9 — Die Kinder, die ihre Eltern vergessen":
-              - "Exposé (März)": kapitel/kap09-kinder-die-eltern-vergessen.md
-          - "Kapitel 10 — Sinn, das Betriebssystem":
-              - "Exposé (März)": kapitel/kap10-sinn-das-betriebssystem.md
-          - "Kapitel 11 — Der dritte Affe am Lagerfeuer":
-              - "Exposé (März)": kapitel/kap11-dritter-affe.md
-              - "Rohentwurf März (Tonlagen-Vergleich)": kapitel/kap11-dritter-affe-rohentwurf-maerz.md
-          - "Kapitel 12 — Die falsche Frage":
-              - "Exposé (März)": kapitel/kap12-falsche-frage.md
-          - "Kapitel 13 — Das Feuer und der Spiegel":
-              - "Exposé (März — Singularität)": kapitel/kap13-singularitaet.md
-          - "Kapitel 14 — Evolution hat keinen Plan":
-              - "Exposé (März)": kapitel/kap14-evolution-ohne-plan.md
-          - "Kapitel 15 — Die Ameisen von morgen":
-              - "Exposé (März)": kapitel/kap15-ameisen-von-morgen.md
-          - "Kapitel 16 — Die Krone aufheben":
-              - "Exposé (März)": kapitel/kap16-krone-aufheben.md
+              - "Inhaltlicher Vertrag (aktuell)": kapitel/kap00-ouvertuere-vertrag.md
+          - "Kapitel 1 — Das Zeichen":
+              - "Inhaltlicher Vertrag (aktuell)": kapitel/kap-zeichen-vertrag.md
+          - "Kapitel 2 — Das Lagerfeuer / Der geteilte Blick":
+              - "Inhaltlicher Vertrag (aktuell)": kapitel/kap01-vertrag.md
+              - "Tier-Grenze — Rohtext (aktuell)": kapitel/kap01-tiergrenze-rohtext.md
+              - "Eröffnungsszene — Arbeitsstand (aktuell)": kapitel/kap01-szene-arbeitsstand.md
+              - "Argumentatives Skelett (historisch)": kapitel/kap01-skelett.md
+              - "Prosa-Fassung v2 (historisch · verworfen)": kapitel/kap01-lagerfeuer-v2.md
+              - "Exposé (März · historisch)": kapitel/kap01-lagerfeuer.md
+          - "Kapitel 3 — Die Erfindung der Wirklichkeit":
+              - "Exposé (März · historisch)": kapitel/kap02-erfindung-der-wirklichkeit.md
+          - "Kapitel 4 — Ameisen und Kathedralen":
+              - "Exposé (März · historisch)": kapitel/kap03-ameisen-und-kathedralen.md
+          - "Kapitel 5 — Die Krone aus Pappe":
+              - "Exposé (März · historisch)": kapitel/kap04-krone-aus-pappe.md
+          - "Kapitel 6 — Warum Lügen wahr werden":
+              - "Exposé (März · historisch)": kapitel/kap05-warum-luegen-wahr.md
+          - "Kapitel 7 — Im Anfang war das Wort":
+              - "Exposé (März · historisch)": kapitel/kap06-im-anfang-war-das-wort.md
+          - "Kapitel 8 — Empathie":
+              - "Exposé (März · historisch)": kapitel/kap07-empathie.md
+          - "Kapitel 9 — Kommunikation kommuniziert":
+              - "Exposé (März · historisch)": kapitel/kap08-kommunikation-kommuniziert.md
+          - "Kapitel 10 — Die Kinder, die ihre Eltern vergessen":
+              - "Exposé (März · historisch)": kapitel/kap09-kinder-die-eltern-vergessen.md
+          - "Kapitel 11 — Sinn, das Betriebssystem":
+              - "Exposé (März · historisch)": kapitel/kap10-sinn-das-betriebssystem.md
+          - "Kapitel 12 — Der dritte Affe am Lagerfeuer":
+              - "Exposé (März · historisch)": kapitel/kap11-dritter-affe.md
+              - "Rohentwurf März (historisch)": kapitel/kap11-dritter-affe-rohentwurf-maerz.md
+          - "Kapitel 13 — Die falsche Frage":
+              - "Exposé (März · historisch)": kapitel/kap12-falsche-frage.md
+          - "Kapitel 14 — Das Feuer und der Spiegel":
+              - "Exposé (März · Singularität · historisch)": kapitel/kap13-singularitaet.md
+          - "Kapitel 15 — Evolution hat keinen Plan":
+              - "Exposé (März · historisch)": kapitel/kap14-evolution-ohne-plan.md
+          - "Kapitel 16 — Die Ameisen von morgen":
+              - "Exposé (März · historisch)": kapitel/kap15-ameisen-von-morgen.md
+          - "Kapitel 17 — Die Krone aufheben":
+              - "Exposé (März · historisch)": kapitel/kap16-krone-aufheben.md

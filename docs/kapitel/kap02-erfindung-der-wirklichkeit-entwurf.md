@@ -1,4 +1,4 @@
-# Kapitel 2: Die Erfindung der Wirklichkeit
+# Kapitel 3: Die Erfindung der Wirklichkeit
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap02-erfindung-der-wirklichkeit.md) vom März ist
 daneben aufgehoben.*
@@ -41,7 +41,7 @@ ist der Rand der Sache, nicht ihr Kern. Denn dieselbe Operation, die das Geld tr
 fast alles, woran du dich den Tag über hältst — auch das, was sich überhaupt nicht wie eine
 Abmachung anfühlt.
 
-Es ist Dienstag, sagten wir im ersten Kapitel. Geh dem einen Moment nach: Die Woche hat
+Es ist Dienstag, sagten wir im zweiten Kapitel. Geh dem einen Moment nach: Die Woche hat
 sieben Tage, weil eine babylonische Astronomie und eine jüdische Schöpfungsgeschichte sich
 vor Jahrtausenden auf diese Zahl gelegt haben — nicht, weil die Erde, die Sonne oder dein
 Körper irgendetwas von sieben wüssten. Der Monat hat mit dem Mond zu tun, das Jahr mit der
@@ -140,7 +140,7 @@ zugeht — und indem du das Wort benutzt, bestätigst du diese Welt, gibst ihr d
 hältst sie mit. Eine Sprache ist kein Wörterbuch. Sie ist ein vollständig eingerichtetes
 Haus, in das du hineingeboren wurdest und dessen Wände du für die Grenzen der Welt hältst,
 weil du nie ausserhalb gestanden hast. Wovon dieses Haus gebaut ist und wie man drin lebt,
-ohne es für Natur zu halten — davon wird das sechste Kapitel handeln.
+ohne es für Natur zu halten — davon wird das siebte Kapitel handeln.
 
 ## VI.
 
@@ -163,7 +163,7 @@ mit dem Mitmachen. Befreiend: Was gemacht ist, kann anders gemacht werden. Eine 
 kann man nur erleiden; eine soziale Tatsache kann man, im Prinzip, verhandeln. Ob das ein
 Schwindel ist, der einem den Boden unter den Füssen wegzieht, oder eine Tür, die sich
 öffnet, hängt davon ab, ob man die Konstruiertheit als Verlust erlebt oder als Spielraum.
-Diese Frage — sie ist die eigentliche Frage dieses Buchteils — wird uns im fünften Kapitel
+Diese Frage — sie ist die eigentliche Frage dieses Buchteils — wird uns im sechsten Kapitel
 einholen, an einer Stelle, wo es nicht mehr um Geld und Wochentage geht, sondern um etwas,
 das viel näher sitzt: deine Moral.
 

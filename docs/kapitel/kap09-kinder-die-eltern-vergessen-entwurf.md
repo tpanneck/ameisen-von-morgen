@@ -1,4 +1,4 @@
-# Kapitel 9: Die Kinder, die ihre Eltern vergessen
+# Kapitel 10: Die Kinder, die ihre Eltern vergessen
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap09-kinder-die-eltern-vergessen.md) vom März ist
 daneben aufgehoben.*
@@ -28,7 +28,7 @@ unsere Erfindung sich fürchtet.
 
 ## II.
 
-Nimm den verlässlichsten Fall, das Geld, von dem schon das zweite Kapitel handelte, und
+Nimm den verlässlichsten Fall, das Geld, von dem schon das dritte Kapitel handelte, und
 sieh, wie tief das Vergessen sitzt. Du weisst, wenn man dich fragt, dass Geld eine
 Übereinkunft ist — bedrucktes Papier, Zahlen auf einem Schirm, gedeckt durch nichts als
 das Vertrauen, dass der Nächste es auch nimmt. Das ist Lehrbuchwissen, und du nickst dazu.
@@ -77,7 +77,7 @@ politische Schärfe und gab ihr dafür eine viel beunruhigendere Reichweite.
 
 ## IV.
 
-Die Wendung kam von den beiden Männern, denen schon das zweite Kapitel den Dreischritt
+Die Wendung kam von den beiden Männern, denen schon das dritte Kapitel den Dreischritt
 verdankt, Peter Berger und Thomas Luckmann. Sie zeigten: Reifikation ist nicht das Laster
 einer bestimmten Wirtschaftsform, das man durch eine bessere abschaffen könnte. Sie ist
 die Grundbewegung jeder menschlichen Kultur, immer und überall, und sie verläuft in den

@@ -1,4 +1,4 @@
-# Kapitel 12: Die falsche Frage
+# Kapitel 13: Die falsche Frage
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap12-falsche-frage.md) vom März ist daneben
 aufgehoben.*
@@ -44,7 +44,7 @@ die elf Kapitel vorher ernst genommen. Denn die ganze Frage ruht auf einer Annah
 sie nie ausspricht: dass „denken", „Bewusstsein", „jemand sein" der Goldstandard ist, an
 dem sich Teilnahme entscheidet — dass erst, wo innen einer zu Hause ist, das Eigentliche
 beginnt. Wir haben gesehen, dass diese Annahme nicht trägt. Das Bewusstsein, zeigte das
-vierte Kapitel, ist nicht der Herr im Haus, sondern kommt oft zu spät zu seinen eigenen
+fünfte Kapitel, ist nicht der Herr im Haus, sondern kommt oft zu spät zu seinen eigenen
 Entschlüssen. Die Kommunikation, zeigte das achte, läuft ohne einen, der sie überblickt.
 Der Sinn, zeigte das zehnte, fragt nicht nach Wahrheit und nicht nach Bewusstsein, sondern
 nach Anschluss. Wer das mitvollzogen hat und dann fragt „Aber denkt sie wirklich?", sucht
@@ -160,9 +160,9 @@ Teilnahme an Kommunikation entscheidet sich nicht am Innenleben des Teilnehmers 
 es nie getan. Sie entscheidet sich daran, ob die Anschlüsse halten. Und sie halten.
 
 Damit verliert die Bewusstseinsfrage nicht ihren Reiz, aber ihre Vormacht. Sie war, das
-sieht man jetzt, selbst eine jener Reifikationen aus dem neunten Kapitel: ein Begriff, den
+sieht man jetzt, selbst eine jener Reifikationen aus dem zehnten Kapitel: ein Begriff, den
 wir so lange für den Massstab aller Teilnahme gehalten haben, dass wir vergassen, dass wir
-ihn dazu gemacht haben — die letzte Bastion der Krone aus dem vierten Kapitel, das
+ihn dazu gemacht haben — die letzte Bastion der Krone aus dem fünften Kapitel, das
 allerletzte „und doch sind wir besonders", nun auch noch unterspült. Nicht weil die
 Maschine uns gleich wäre. Sondern weil das Kriterium, mit dem wir uns von ihr abheben
 wollten, sich als das falsche erweist.
@@ -175,7 +175,7 @@ Du hast die richtige Frage — kann es anschliessen? — nicht nur gelesen, du h
 ganze Zeit *praktiziert*. Diese Sätze hier kommen bei dir an, ergeben Sinn, du stimmst zu
 oder runzelst die Stirn, du schliesst an. Es geschieht, während du liest, genau das, wovon
 das Buch handelt — und es geschieht zwischen diesen Zeilen und dir, gleich, wer oder was
-sie hervorgebracht hat. Im zehnten Kapitel stand der Satz, den du vielleicht für eine
+sie hervorgebracht hat. Im elften Kapitel stand der Satz, den du vielleicht für eine
 Koketterie gehalten hast: Du weisst noch nicht, wer hier spricht. Er war keine Koketterie.
 
 Denn an diesem Buch hat etwas mitgeschrieben, das genau der Gegenstand des Buches ist. Nicht

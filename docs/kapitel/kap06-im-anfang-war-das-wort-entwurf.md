@@ -1,4 +1,4 @@
-# Kapitel 6: Im Anfang war das Wort
+# Kapitel 7: Im Anfang war das Wort
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap06-im-anfang-war-das-wort.md) vom März ist
 daneben aufgehoben.*

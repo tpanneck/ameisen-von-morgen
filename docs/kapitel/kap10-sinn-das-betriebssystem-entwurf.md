@@ -1,4 +1,4 @@
-# Kapitel 10: Sinn — das Betriebssystem
+# Kapitel 11: Sinn — das Betriebssystem
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap10-sinn-das-betriebssystem.md) vom März ist
 daneben aufgehoben.*
@@ -38,7 +38,7 @@ den Laut als Wort, die Geste als Gruss. Husserl nannte diese Grundverfassung Int
 und er legte damit, im Stillen, das Fundament für alles, was dieses Kapitel trägt: Der
 Mensch lebt nie in der nackten Welt. Er lebt in seiner Deutung der Welt.
 
-Sein Schüler Alfred Schütz, dem schon das zweite Kapitel begegnet ist, holte den Sinn vom
+Sein Schüler Alfred Schütz, dem schon das dritte Kapitel begegnet ist, holte den Sinn vom
 philosophischen Himmel auf die Strasse herunter. Wie kommt es, fragte er, dass du morgens
 aufstehst und schon *weisst*, was der Tag bringt — wie man sich beim Bäcker verhält, was im
 Büro gilt, was ein Lächeln bedeutet und was ein Stirnrunzeln —, ohne dass du das je gelernt
@@ -57,7 +57,7 @@ muss ihn langsam gehen, weil an ihm das ganze Buch hängt.
 Husserl und Schütz dachten den Sinn als etwas Seelisches — als das, was im Bewusstsein
 eines Menschen vorgeht. Das ist die Hälfte. Luhmann sah die andere. Sinn, sagte er, ist
 nicht nur das Element, in dem dein Bewusstsein lebt. Es ist auch das Element, in dem die
-*Kommunikation* lebt — jener herrenlose Strom aus dem achten Kapitel, der durch die
+*Kommunikation* lebt — jener herrenlose Strom aus dem neunten Kapitel, der durch die
 Menschen hindurchfliesst und die Gesellschaft bildet. Auch ein Gespräch stellt Bedeutung
 her, wählt aus, deutet, schliesst an Gedeutetes an. Auch ein Rechtssystem, ein Markt, eine
 Wissenschaft verarbeitet Sinn — nimmt auf, was anschlussfähig ist, lässt fallen, was es

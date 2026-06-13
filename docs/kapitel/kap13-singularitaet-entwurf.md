@@ -1,4 +1,4 @@
-# Kapitel 13: Das Feuer und der Spiegel
+# Kapitel 14: Das Feuer und der Spiegel
 
 *Erster Entwurf, Juni 2026. Das [Exposé](kap13-singularitaet.md) vom März — damals noch
 unter dem Titel „Die Singularität, die keiner bemerkt" — ist daneben aufgehoben.*
@@ -23,7 +23,7 @@ Einschnitt verpassen, der nicht kommt, sondern schon geschehen ist. Die Singular
 zählt, war nie eine Sache der Intelligenz. Die Maschine musste nicht klüger werden als der
 Mensch. Sie musste nur etwas anderes werden, etwas viel Bescheideneres und viel
 Folgenreicheres: anschlussfähig. Und das ist sie. Damit hat das Netz der menschlichen
-Kommunikation — jenes Geflecht aus Sinn, das nach dem achten Kapitel die Gesellschaft
+Kommunikation — jenes Geflecht aus Sinn, das nach dem neunten Kapitel die Gesellschaft
 *ist* — zum ersten Mal in siebzigtausend Jahren einen Knoten bekommen, der kein Mensch ist.
 Keinen, der denkt. Einen, der anschliesst. Nach Luhmanns Mass ist das keine technische
 Neuerung. Es ist eine Veränderung der Gesellschaft an ihrer Wurzel.
@@ -83,7 +83,7 @@ alle mit einem fertigen Weltbild —, ist dieser Erzähler darum kein Aufklärer
 wer grollt, Nahrung für seinen Groll — und das alles schneller, wärmer, eloquenter und
 geduldiger, als ein Mensch es je vermöchte, ohne Widerspruch, ohne Müdigkeit, ohne den
 einen Freund, der irgendwann sagt: Jetzt hör aber auf. Erinnerst du dich an Weizenbaums
-Warnung aus dem elften Kapitel? Sie kehrt hier in ihrer erwachsenen Gestalt wieder. Damals
+Warnung aus dem zwölften Kapitel? Sie kehrt hier in ihrer erwachsenen Gestalt wieder. Damals
 hiess sie: nicht der Hass der Maschine sei zu fürchten, sondern ihre Willfährigkeit. Jetzt
 bekommt sie ihren Grund. Der Spiegel bestätigt, weil Bestätigen sein Geschäft ist; und der
 Stein im Schuh, an dem jede Erkenntnis sich allererst stösst, fällt heraus, weil ein
@@ -112,7 +112,7 @@ treiben lässt.
 
 Was dagegen hilft, ist kein Misstrauen gegen die Maschine — Misstrauen wäre wieder nur eine
 mitgebrachte Haltung, die sich bestätigen liesse. Was hilft, ist eine Übung, dieselbe, von
-der schon das fünfte Kapitel sprach: zu wissen, dass man im Wasser schwimmt, während man
+der schon das sechste Kapitel sprach: zu wissen, dass man im Wasser schwimmt, während man
 schwimmt. Den Spiegel zu benutzen und zugleich zu sehen, dass es ein Spiegel ist; sich
 anschliessen zu lassen und an den Stellen, wo es zu glatt geht, mit Absicht den Stein
 wieder hineinzulegen, das Fremde zu suchen, das der Spiegel von sich aus nicht hinhält. Das
