@@ -86,6 +86,7 @@ nav:
       - "Kapitel (Verträge & Material)":
           - "Ouvertüre — Am Feuer (Vor-Kapitel)":
               - "Inhaltlicher Vertrag (aktuell)": kapitel/kap00-ouvertuere-vertrag.md
+              - "Quellen & Praxis — Nurundere (aktuell)": kapitel/kap00-ouvertuere-quellen-praxis.md
           - "Kapitel 1 — Das Zeichen":
               - "Inhaltlicher Vertrag (aktuell)": kapitel/kap01-zeichen-vertrag.md
           - "Kapitel 2 — Das Lagerfeuer / Der geteilte Blick":
