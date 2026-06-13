@@ -157,3 +157,33 @@ sozial-konstitutiven Achsen*, die der Rahmen biegt. Auch die Metapher kippt: Tap
 Toponyme der Nacherzählung; B ist selbst ein LLM. Der qualitative Befund trägt dennoch. Voller
 Befund (mit Lemma- und Metapher-Listen, rechtegebundene Quelltexte lokal): `probanz-detective`,
 `doyle-v2/befunde/ngurunderi_totemismus.md`.
+
+## 8. Warum dieser Fall: Macht im Vollzug, unter dem Deckmantel der vermarkteten Wirklichkeit
+
+*Die dritte Begründung für „warum ausgerechnet Ngurunderi" — neben der dramaturgischen (Abschnitt 4:
+Fremdheit/Schleier) und der gemessenen (Abschnitt 7: Befund). Diesmal machtanalytisch. Gilt für die
+geschlossene Wissens-/Zugangsschicht, nicht für die offene Erzählung selbst.*
+
+Normalerweise ist Macht-in-der-Konstruktion **unsichtbar**: Das Gemachte erscheint als Gegebenes
+(Verdinglichung → Kap. 10; Bourdieus *méconnaissance* / **symbolische Gewalt** — Macht wirkt, *weil*
+sie nicht als Macht erkannt wird). Der Zugangsregel-Fall macht sie **im Vollzug** sichtbar: *weil wir
+außen stehen*, sehen wir die Regel *bei der Arbeit*, beim Ausschließen, in Echtzeit (Foucault: Macht
+nicht als Besitz, sondern als Ausübung — und ausgerechnet über die Kontrolle des Wissens; dazu Simmel,
+das Geheimnis als gesellschafts-*erzeugende* Form, vgl. Abschnitt 3).
+
+Das Entscheidende ist der **Deckmantel**: Die Wirklichkeit wird nicht nur *geglaubt*, sie wird
+*verkauft* — Schönheit, Alter, Spiritualität, Authentizität (die Heritage-Vitrine, „älteste lebende
+Kultur"). Diese **Vermarktung ist die Legitimationsschicht**: Wer rümpft die Nase über etwas so Schönes
+und Uraltes? Die Ästhetik immunisiert den Vollzug. In unserer Sprache: Marketing = aktive **Pflege**
+einer erzähl-gekoppelten Wirklichkeit; Macht ist der Motor dieser Pflege (Debord, *Spektakel*; Barthes,
+Naturalisierung des Gemachten als Bild).
+
+**Linse, nicht Urteil** — und nur so wird es buchwürdig statt Spott: Der sichtbare Fall schärft das
+Auge für die *unsichtbaren* — unsere eigenen gut vermarkteten Wirklichkeiten, in denen *wir* drinstehen
+und blind sind: Meritokratie, „der Markt", die Nation, ja die Marke „Offenheit" selbst. Man lernt das
+Sehen am Fremden, um es aufs Eigene zu wenden. Die Fremdheit ist nicht das Ziel — sie ist der
+**Schleifstein** (schließt den Kreis zu Abschnitt 4).
+
+**Registerwarnung:** Muss als *Spiegel* landen (wir auch), nie als koloniales Naserümpfen — sonst
+kippt das Werkzeug in genau die Geste, die das Buch unterläuft. Und: der Befund gilt der *Macht in der
+geschlossenen Schicht*, nicht der Erzählung — die bleibt das fremde, kostbare Bild der Ouvertüre.
