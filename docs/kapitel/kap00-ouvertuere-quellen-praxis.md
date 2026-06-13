@@ -116,8 +116,44 @@ Werkstatt, aber ein offener Punkt.
 
 ---
 
-### Anschluss: der Apparat-Lauf
+## 7. Befund (gemessen): die Signatur des Rahmenden — *Beleg, dass der Rahmen nicht neutral ist*
 
-Dieselbe Passage dient als **Eingangstext für die Probanz-Messung** (Referenten-Leiter auf eine
-nicht-naturalistische Welt — Test der Kultur-Gebundenheit der Leiter). Setup und Stand:
-`probanz-detective` (doyle-v2-Pipeline), Eingang `quellen/nurundere-taplin-1879.md`.
+Wir haben **dieselbe Erzählung in zwei Fassungen** durch den Probanz-Apparat geschickt (doyle-v2,
+Referenten-Leiter): **Taplin 1879** (Missionsrahmen, gemeinfrei) und **Milerum/Tindale 1936**
+(ortsfeste Ngarrindjeri-Quelle, ©, nur lokal). Das Ergebnis belegt empirisch, was die Notiz behauptet
+— der Rahmen *re-koppelt dieselbe Welt in seine eigene Ontologie*, messbar:
+
+| Stufe | Welt-Konstitution | Taplin (Missionar) | Milerum (ortsfest) | |
+|---|---|---:|---:|---|
+| 1 | Natur | 21.6 % | 21.8 % | ~gleich (Substrat) |
+| 4 | **Ort** | **12.9 %** | **26.1 %** | **Milerum 2×** |
+| 5 | Rolle | 13.7 % | 13.3 % | ~gleich (Substrat) |
+| 6 | **Institution** | **6.5 %** | **2.4 %** | **Taplin ~3×** |
+| 8 | **Affekt** | **5.0 %** | **2.4 %** | **Taplin 2×** |
+| 9 | Skalar | 16.5 % | 15.2 % | ~gleich (Substrat) |
+
+**Der Missionsrahmen verlagert Masse *vom Land* (Stufe 4 halbiert) *in Institution, Abstraktion und
+Affekt*.** Gedeckt durch die Wörter: Taplins „Ort" ist generisch-kosmisch (*earth, heaven, sky*) statt
+benannte Küste; seine „Institution" ist *custom, ceremony, rite, command* (Nurundere als
+**Gesetzgeber**); sein „Affekt" *anger, hatred, fury* (er **moralisiert**); dazu das verräterische
+*„experiment… this time with success"* — viktorianischer Rationalismus in einer Schöpfungserzählung.
+Das **Substrat** (Natur, Leib, Verwandtschaft, Skalar) bleibt framer-invariant — es sind *gerade die
+sozial-konstitutiven Achsen*, die der Rahmen biegt. Auch die Metapher kippt: Taplins Bilder laufen
+*konkret → Norm/Affekt* (westlich, nach innen), wo Milerums Naturdinge *mythologische Identität* sind.
+
+**Was das belegt — dreifach:**
+
+- **Der Rahmen ist nicht neutral** (Beleg zu Abschnitt 4/6): Taplin ist *doppelt vermittelt*, nie „die
+  Ngarrindjeri-Stimme" — jetzt nicht behauptet, sondern *gemessen*. „Zwei wirkliche Welten" hat eine
+  Zahl bekommen.
+- **Die gemessene Campbell-Kritik** (Beleg zu Abschnitt 5): das Pressen einer fremden Welt in ein
+  eigenes Templat — hier *gemessen* statt nur benannt.
+- **Es trifft uns selbst:** Die naturalistische Leiter las den *gestifteten* Cod als brute Natur —
+  Autor *und* Apparat lagen in dieselbe Richtung daneben. Dass das Werkzeug knirschte, ist der Grund,
+  warum wir merkten, dass *wir* knirschten. (Genau die Fremdheit-als-Reiz/Schleier-Lehre aus
+  Abschnitt 4.)
+
+*Ehrlich:* kleines n (Taplin 139 / Milerum 165 Referenten); Stufe 4 ist mitverstärkt durch *moderne*
+Toponyme der Nacherzählung; B ist selbst ein LLM. Der qualitative Befund trägt dennoch. Voller
+Befund (mit Lemma- und Metapher-Listen, rechtegebundene Quelltexte lokal): `probanz-detective`,
+`doyle-v2/befunde/ngurunderi_totemismus.md`.
