@@ -28,6 +28,27 @@ Drei Wörter, drei verschiedene Ämter — nie synonym zu verwenden.
 
 ---
 
+## Vertrag & Haltung des Buches
+
+- **Vertrag** — das Versprechen, das eine Form macht und *einlösen* muss. Verschiedene Formen,
+  verschiedene Verträge: das Theater verspricht Erfahrung, der Wissenschaftler/Philosoph
+  **Erkenntnisgewinn**. Charlatanerie = im Talar des einen das Gewerbe des anderen betreiben
+  (Resonanz verkaufen, Wahrheit draufschreiben). Der Vertrag *dieses* Buches mit dem Leser:
+  Erkenntnisgewinn, antwortbar, reflexiv — und es muss einlösen, was es beansprucht. (Werkstatt-
+  Doppelbedeutung: die *inhaltlichen Verträge* — Buch- und Kapitel-Vertrag — sind die
+  Planungsdokumente, die festlegen, was jeder Teil leisten muss.)
+- **Erkenntnisgewinn** — nicht „näher an die Wahrheit", sondern eine Konstruktion, die die
+  Unterscheidungen des Lesers *verwandelt* (das Vertraute fremd macht, sehen lässt, was er nicht
+  sah) und *antwortbar* ist. Gegenteil: **Bauchladen** — verkauft das Aha der Resonanz, lässt die
+  Unterscheidungen unberührt (konsumiert, nicht verwandelt).
+- **Antwortbarkeit** — eine Konstruktion ist antwortbar, wenn man sich an ihr irren kann und etwas
+  (die Welt, die Phänomene, die Kohärenz) sie korrigieren kann. Trennlinie zwischen Erkenntnis und
+  Geschwätz: *verwandelt-und-antwortbar* gegen *bloß resonant*.
+- **Den Modus eingestehen (Reflexivität)** — eine Form, die weiß, was sie ist, und sich dazu
+  verhält: Theater, das weiß, dass es Theater ist; Philosophie, die weiß, dass sie Konstruktion
+  ist. Das Buch gesteht seinen Modus ein — streng *und* reflexiv, antwortbar *und* wissend, dass
+  es eine Karte ist.
+
 ## Begriffe im Buchtext
 
 - **Geteilte Intentionalität / gemeinsames Meinen** (Tomasello) — zwei errichten einen Bezug, der
