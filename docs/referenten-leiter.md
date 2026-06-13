@@ -21,6 +21,31 @@ als Befund in Kap. 3 (Erfindung) oder Kap. 10 (Reifikation) — „Befunde ja, V
 | 8 | Affekte / innere Zustände | impatience, despair, anxious | leiblich-innere Achse (quer) | verkörperte Affekte (James 1884; Damasio) ↔ konstruierte Emotion (Barrett 2017); kulturspezifisches Emotionslexikon (Wierzbicka) |
 | 9 | Skalare / Positionen | seldom, enormous, left, velocity | **form** (relational) | Kategorien Quantität/Relation (Aristoteles) |
 
+## Belege je Stufe (2–3, parallel zur Leiter)
+
+*Aus dem Gedächtnis zusammengetragen; Editionen/Seiten vor dem Druck prüfen. Faltet die Spalte
+„Vorläufer / Anker" der Tabelle aus.*
+
+1. **Natürlich-biologisch** — Mill, *System of Logic* (1843, „real Kinds"); Kripke, *Name und
+   Notwendigkeit* (1980, Naturarten-Termini); Putnam, „The Meaning of 'Meaning'" (1975, Twin Earth).
+2. **Leib-basiert** — Merleau-Ponty, *Phänomenologie der Wahrnehmung* (1945, der Leib);
+   Lakoff & Johnson, *Philosophy in the Flesh* (1999); Damasio, *Descartes' Irrtum* (1994).
+3. **Funktional-materielle Artefakte** — Heidegger, *Sein und Zeit* (1927, Zeug/Zuhandenheit);
+   Searle (1995, aufgesetzte Funktion); Gibson, *The Ecological Approach* (1979, Affordanz).
+4. **Funktional-räumliche Kategorien** — Lefebvre, *Die Produktion des Raums* (1974); Tuan,
+   *Space and Place* (1977); Gibson (1979, Affordanz des Raums).
+5. **Sozial definierte Rollen** — Linton, *The Study of Man* (1936, Status & Rolle); Goffman,
+   *Wir alle spielen Theater* (1959); Searle, Status-Funktionen (1995/2010).
+6. **Institution / Praxis** — Berger & Luckmann (1966, Institutionalisierung); Searle,
+   *institutional facts* (1995); Mary Douglas, *How Institutions Think* (1986).
+7. **Reifizierte soziale Abstrakta** — Marx, *Das Kapital* (1867, Warenfetisch); Lukács,
+   *Geschichte und Klassenbewusstsein* (1923, Verdinglichung); Berger & Luckmann (1966, Reifikation).
+8. **Affekte / innere Zustände** — William James, „What is an Emotion?" (1884) ↔ Barrett,
+   *How Emotions Are Made* (2017, konstruierte Emotion); Wierzbicka, *Emotions across Languages
+   and Cultures* (1999).
+9. **Skalare / Positionen** — Aristoteles, *Kategorien* (Quantität/Relation); Sapir, „Grading"
+   (1944); Stevens, „On the Theory of Scales of Measurement" (1946).
+
 **Der Bogen, den die Leiter aufspannt:** von konkret-Natur (1–3, welt-gekoppelt) über die
 sozial-konstituierte Mitte (5–7, erzähl-gekoppelt) bis zu den relationalen Skalaren (9,
 form-gekoppelt) — mit den Affekten (8) als querliegender leiblich-innerer Achse. Das ist
