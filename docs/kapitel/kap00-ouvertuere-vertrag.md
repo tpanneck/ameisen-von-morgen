@@ -9,6 +9,10 @@ Eröffnungsszene und die Autoren-Wende, die bisher Kapitel 1 belasteten (vormals
 
 ---
 
+> **Stand 13.06. — Zeichen-Umbau:** Auf die Ouvertüre folgt jetzt „Das Zeichen" (Kap. 1), dann
+> die Abgrenzung zum Tier (Kap. 2). Verweise weiter unten auf „Kapitel 1 = die Grundlagen" meinen
+> seither **Kapitel 2**.
+
 ## Warum überhaupt ein Vor-Kapitel
 
 Die Szene am Feuer hat „immer gegen den Rest geschlagen", weil wir ein **Rahmenstück** in die

@@ -84,6 +84,8 @@ nav:
       - "Kapitel":
           - "Ouvertüre — Am Feuer (Vor-Kapitel)":
               - "Inhaltlicher Vertrag": kapitel/kap00-ouvertuere-vertrag.md
+          - "Das Zeichen (neu — künftig Kap. 1)":
+              - "Inhaltlicher Vertrag": kapitel/kap-zeichen-vertrag.md
           - "Kapitel 1 — Das Lagerfeuer":
               - "Inhaltlicher Vertrag (Rückgrat)": kapitel/kap01-vertrag.md
               - "Argumentatives Skelett (älter)": kapitel/kap01-skelett.md

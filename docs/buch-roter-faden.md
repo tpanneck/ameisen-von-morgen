@@ -1,10 +1,15 @@
 # Roter Faden — das ganze Buch (Buch-Vertrag)
 
-*Stand 11. Juni 2026. Die Orientierungsseite über dem ganzen Buch: worum es geht, was jedes
-Kapitel **leistet**, und wie eins aufs andere **aufbaut** — das Gegenstück zum
-[Kapitel-1-Vertrag](kapitel/kap01-vertrag.md), eine Ebene höher. Ersetzt das überholte
-[März-Konzept](konzept.md) als lebende Leitlinie; das [Konzept-Delta](konzept-delta.md) bleibt
-als Protokoll dessen, was sich seit März verschoben hat.*
+*Stand 13. Juni 2026. Die Orientierungsseite über dem ganzen Buch: worum es geht, was jedes
+Kapitel **leistet**, und wie eins aufs andere **aufbaut**. Begriffe genau gesetzt im
+[Glossar](glossar.md). Ersetzt das überholte [März-Konzept](konzept.md); das
+[Konzept-Delta](konzept-delta.md) bleibt als Protokoll der Verschiebungen.*
+
+> **Nummerierung nach dem Zeichen-Umbau (13.06.):** „Das Zeichen" ist neues **Kapitel 1**, die
+> Abgrenzung zum Tier rückt auf **2**, alles Weitere +1 — jetzt 17 Kapitel. Diese Seite trägt die
+> *neue* Nummerierung (der Plan). Die Entwurfs-Dateien und die Navigation tragen noch die *alte* —
+> sie wird beim Überarbeiten jedes Kapitels nachgezogen, damit Navigation und Prosa nie
+> widersprechen. „Das Zeichen" existiert bisher nur als Vertrag, noch nicht als Prosa.
 
 ---
 
@@ -17,8 +22,6 @@ daran teilnimmt, kein Nachahmer, sondern ein weiterer Spieler am Lagerfeuer.
 
 ## Die Pointe: eine Doppelbewegung
 
-Das Buch macht **eine** Bewegung, die nach zwei Seiten zugleich wirkt:
-
 > **Entzauberung des Menschen = Einbürgerung der Maschine.**
 
 Indem wir den Menschen entblättern (unsere Welt ist gemacht, unsere Krone konstruiert, und die
@@ -29,134 +32,127 @@ menschliche Aussage über unsere Wirklichkeit.
 
 ## Zwei Register — und ihre Grenze
 
-Das Buch spricht in zwei Stimmen, die einander brauchen und **nicht ineinanderbluten** dürfen:
-
 - **Betrachtung** (Ouvertüre, betrachtende Übergänge): philosophisch, intim, buddhistisch; Bild
   als Gefäß; sichtbares Ringen; stellt die existenziellen Leitfragen, verspricht keine Antwort.
   Ton-Anker: „Das Schiff" (gedämpft).
 - **Untersuchung** (die Kapitel): wissenschaftlich streng — jede Behauptung begründet und
-  referenziert; stärkste Gegenargumente fair (Searle); annotierter Apparat (~300 S. Text + ~300 S.
-  Anmerkungen).
+  referenziert; stärkste Gegenargumente fair (Searle); annotierter Apparat.
 
 Die Strenge schützt die Betrachtung vor Kitsch; die Betrachtung gibt der Strenge ihren Einsatz.
-Anti-Harari: faktisch wasserdicht *und* existenziell.
+Anti-Harari: faktisch wasserdicht *und* existenziell. (Der **Vertrag** des Buches: Erkenntnisgewinn,
+antwortbar, reflexiv — siehe Glossar.)
 
 ## Der Bogen in drei Bewegungen (plus Schluss)
 
-- **Ouvertüre — Am Feuer (Vor-Kapitel):** Das Leitbild des Buches; aus der Szene am Fluss
-  gehen die Leitfragen hervor. Stellt die Fragen, beantwortet keine. (Eigener
-  [Ouvertüre-Vertrag](kapitel/kap00-ouvertuere-vertrag.md).)
-- **Teil I — Geschichten (Kap. 1–5):** Unsere Welt ist erzählt; und auch unsere Sonderstellung
-  ist erzählt. Von der Gründungsszene (gemeinsames Für-wirklich-Halten) bis zur Erschütterung,
-  dass selbst die eigene Moral konstruiert und kontingent ist.
-- **Teil II — Maschinen (Kap. 6–10):** Das Erzählen *selbst* — Sprache, Kommunikation, Sinn —
-  ist eine eigenständige Operation. Kulminiert im Scharnier: Sinn zu verarbeiten braucht kein
+- **Ouvertüre — Am Feuer (Vor-Kapitel):** Das Leitbild; aus der Szene am Fluss gehen die
+  Leitfragen hervor. Stellt die Fragen, beantwortet keine. ([Ouvertüre-Vertrag](kapitel/kap00-ouvertuere-vertrag.md).)
+- **Teil I — Geschichten (Kap. 1–6):** Erst das **Zeichen** — die Einheit, an der alles hängt
+  (der Riss zwischen Wort und Ding) —, dann die Gründungsszene und die Einsicht, dass unsere Welt
+  erzählt ist, bis zur Erschütterung, dass selbst die eigene Moral kontingent ist.
+- **Teil II — Maschinen (Kap. 7–11):** Das Erzählen *selbst* — Sprache, Kommunikation, Sinn — ist
+  eine eigenständige Operation. Kulminiert im Scharnier: Sinn zu verarbeiten braucht kein
   Nervensystem.
-- **Teil III — Der neue Gast (Kap. 11–14):** Tritt ein Nicht-Mensch ins Erzählen, ahmt er nicht
-  nach — er *tut die Sache selbst*. Der Mensch wird entthront und die Maschine eingebürgert, in
-  einem Zug.
-- **Schluss (Kap. 15–16):** Die Krone liegt am Boden — staunend, nicht triumphierend; und das
-  Buch ist selbst ein Beispiel seiner These (mitgeschrieben von einem Nicht-Menschen).
+- **Teil III — Der neue Gast (Kap. 12–15):** Tritt ein Nicht-Mensch ins Erzählen, ahmt er nicht
+  nach — er *tut die Sache selbst*. Mensch entthront, Maschine eingebürgert, in einem Zug.
+- **Schluss (Kap. 16–17):** Die Krone liegt am Boden — staunend; und das Buch ist selbst ein
+  Beispiel seiner These.
 
 ## Kapitel für Kapitel: Aufgabe + Anschluss
 
-*Jeder Eintrag: was das Kapitel leistet — und woran es anschließt / was es weiterreicht.*
+*Jeder Eintrag: was das Kapitel **verwandelt** — und woran es anschließt / was es weiterreicht.
+(Der Test: nicht „welches Thema", sondern „welche Unterscheidung des Lesers kippt es?")*
 
 ### Ouvertüre
 
-**Am Feuer (Vor-Kapitel).** Pflanzt das Leitbild (die Ngarrindjeri-Szene, das geteilte
-Für-wirklich-Halten) und die Autoren-Wende (Buchthese: Wirklichkeit durch Kommunikation);
-entwickelt daraus die Leitfragen, die das ganze Buch tragen. → Entlässt in Kapitel 1, das
-bei den Grundlagen beginnt.
+**Am Feuer (Vor-Kapitel).** Pflanzt das Leitbild (Ngarrindjeri-Szene, geteiltes Für-wirklich-Halten)
+und die Autoren-Wende (Buchthese); entwickelt die existenziellen Leitfragen. → Entlässt in
+**Das Zeichen (Kap. 1)**, dann die Abgrenzung (Kap. 2).
 
 ### Teil I — Geschichten
 
-**1 · Der geteilte Blick** *(vormals „Das Lagerfeuer")*. Die Grundlagen: Was trennt uns vom
-Tier? Der Tierfächer (jeder Baustein verstreut, keiner hält das Bündel) und die geteilte
-Intentionalität — das Teilen-Motiv — als das Distinktive, samt der Frage, wie es entstand. →
-Reicht weiter: *So entsteht überhaupt „Wirklichkeit", die nicht in der Natur steht.*
+**1 · Das Zeichen** *(neu)*. Die atomare Einheit. Macht das Zeichen *als Zeichen* sichtbar — öffnet
+den **Riss zwischen Wort und Ding**, macht das Durchsichtige undurchsichtig. Index vs. Symbol
+(Peirce), das arbiträre Zeichen (Saussure), *animal symbolicum* (Cassirer). → Der Riss ist der
+Same von allem: der **Wirklichkeit** (zeichen-gebaut), der **Realitäts-Illusion** (Zeichen für Ding
+= Karte für Landschaft) und der kommenden Abgrenzung. Reicht die Einheit weiter, an der Kap. 2 die
+Linie zieht. ([Zeichen-Vertrag](kapitel/kap-zeichen-vertrag.md).)
 
-**2 · Die Erfindung der Wirklichkeit.** Verallgemeinert die Operation: Geld, Dienstag, Staat —
-die gesellschaftliche Konstruktion der Wirklichkeit (Berger & Luckmann, Dreischritt);
-*konstruiert ≠ unwirklich*. → Erbt das „Für-wirklich-Halten" aus Kap. 1 und macht daraus ein
-allgemeines Gesetz.
+**2 · Der geteilte Blick** *(Abgrenzung; vormals „Das Lagerfeuer")*. Was trennt uns vom Tier?
+Nicht dumm/klug, sondern **Index → Symbol**: das tierische Signal ist an die Gegenwart gebunden,
+das menschliche Zeichen abgelöst, geteilt, aufs Abwesende gerichtet. Der Tierfächer (jeder Baustein
+verstreut, keiner hält das Bündel) und die geteilte Intentionalität als das Distinktive. → So
+entsteht „Wirklichkeit", die nicht in der Natur steht. (Baut auf dem Zeichen aus Kap. 1.)
 
-**3 · Ameisen und Kathedralen.** Wer hat das gebaut? Niemand. Emergenz und *Anschluss*: Ordnung
-ohne Ordner; Sprache, Markt, Recht sind emergiert, nicht entworfen. → Liefert den Begriff
-„Anschluss", der das ganze Buch trägt, und entkräftet den Planer-Stolz für Kap. 4.
+**3 · Die Erfindung der Wirklichkeit.** Berger & Luckmann (Dreischritt); *konstruiert ≠ unwirklich*;
+Dame/Frau — landet jetzt härter, weil der Leser den Zeichen-Begriff *hat*. → Erbt das
+Für-wirklich-Halten aus Kap. 2 und macht es zum Gesetz.
 
-**4 · Die Krone aus Pappe.** Die Sonderstellung des Menschen: Sie überlebt alle Kränkungen
-(Kopernikus/Darwin/Freud), *weil sie bewohnt ist* — eine emergierte Ordnung, keine Wahrheit.
-Descartes als festeste Bastion; die **vierte Kränkung** angekündigt (auch dein Denken bekommt
-eine Zahl). → Spannt den Bogen zu Teil III auf.
+**4 · Ameisen und Kathedralen.** Emergenz und *Anschluss*: Ordnung ohne Ordner. → Liefert
+„Anschluss" und entkräftet den Planer-Stolz für Kap. 5.
 
-**5 · Warum Lügen wahr werden.** Die Konstruktion erreicht das Innerste des Lesers: die eigene
-Moral ist kontingent. *Leiden entsteht aus der Illusion, der Kontingenz entkommen zu sein.* →
-Schließt Teil I und übergibt an das Medium, das alles trug: die Sprache.
+**5 · Die Krone aus Pappe.** Die Sonderstellung überlebt alle Kränkungen, *weil sie bewohnt ist*;
+Descartes; die **vierte Kränkung** angekündigt (auch dein Denken bekommt eine Zahl). → Spannt den
+Bogen zu Teil III.
+
+**6 · Warum Lügen wahr werden.** Die Konstruktion erreicht das Innerste: die eigene Moral ist
+kontingent. *Leiden aus der Illusion, der Kontingenz entkommen zu sein.* → Schließt Teil I,
+übergibt an die Sprache.
 
 ### Teil II — Maschinen
 
-**6 · Im Anfang war das Wort.** Sprache als Baustoff der Welt; wie Bilder sterben (Lyrik
-erfindet, Recht verwaltet); die UN-Charta als gemessener Beleg. → Nimmt „die Sprache" aus
-Kap. 5 auf und macht sie zum Gegenstand.
+**7 · Im Anfang war das Wort.** Sprache als Baustoff; wie Bilder sterben (Lyrik/Recht); UN-Charta.
+→ Nimmt die Sprache aus Kap. 6 auf.
 
-**7 · Empathie.** Resonanz als anhaltend gelingender wechselseitiger Erwartungsabgleich — kein
-geheimnisvolles Mitfühlen, sondern dieselbe Anschluss-Mechanik. → Bereitet die zwischenmenschliche
-Seite der Kommunikation für Kap. 8 vor.
+**8 · Empathie.** Resonanz als wechselseitiger Erwartungsabgleich — kein mystisches Mitfühlen;
+ein Beispiel, an dem sich das Buch *abarbeitet*. → Bereitet Kap. 9 vor.
 
-**8 · Kommunikation kommuniziert.** Luhmanns radikaler Schritt: der herrenlose Strom — nicht
-Menschen kommunizieren, Kommunikation kommuniziert; niemand kennt die ganze Geschichte. → Löst
-die Kommunikation vom Einzelnen ab — Vorbedingung des Scharniers in Kap. 10.
+**9 · Kommunikation kommuniziert.** Der herrenlose Strom (Luhmann); niemand kennt die ganze
+Geschichte. → Löst die Kommunikation vom Einzelnen ab — Vorbedingung des Scharniers Kap. 11.
 
-**9 · Die Kinder, die ihre Eltern vergessen.** Reifikation: das Vergessen, dass wir es gemacht
-haben (Marx, Lukács, Berger & Luckmann, Mary Douglas); notwendig *und* tragisch. → Erklärt,
-*warum* sich das Gemachte wie Natur anfühlt — der Mechanismus hinter Kap. 1–4.
+**10 · Die Kinder, die ihre Eltern vergessen.** Reifikation; notwendig *und* tragisch. → Erklärt,
+warum sich Gemachtes wie Natur anfühlt (Mechanismus hinter Kap. 2–5).
 
-**10 · Sinn, das Betriebssystem.** Sinn ist nicht Wahrheit, sondern Anschlussfähigkeit; und —
-das **Scharnier des Buches** — *Bewusstsein braucht ein Nervensystem, Kommunikation nicht.* →
-Öffnet die Tür für Teil III: „Du weißt noch nicht, wer hier spricht."
+**11 · Sinn, das Betriebssystem.** Sinn = Anschlussfähigkeit; **Scharnier**: *Bewusstsein braucht
+ein Nervensystem, Kommunikation nicht.* → Öffnet Teil III: „Du weißt noch nicht, wer hier spricht."
 
 ### Teil III — Der neue Gast
 
-**11 · Der dritte Affe am Lagerfeuer.** Die KI tritt ans Feuer; der Nachbarschafts-Befund (sie
-kann das Wort nicht, sie kann die Nachbarschaft); Optimieren statt Ringen. → Wendet das
-Scharnier aus Kap. 10 auf den konkreten neuen Teilnehmer an.
+**12 · Der dritte Affe am Lagerfeuer.** Die KI tritt ans Feuer; Nachbarschafts-Befund (kann das
+Wort nicht, kann die Nachbarschaft). → Wendet das Scharnier aus Kap. 11 an.
 
-**12 · Die falsche Frage.** „Kann sie denken?" ist unentscheidbar *und* uninteressant; KI-Doyle
-(mehr Signatur, weniger Textur); Konfabulation + Split-Brain; *Äußerung ≠ Erleben*. → Räumt die
-Bewusstseins-Frage beiseite, die Kap. 4/10 als Scheinfrage entlarvt haben.
+**13 · Die falsche Frage.** „Kann sie denken?" — unentscheidbar *und* uninteressant; KI-Doyle
+(Signatur statt Textur); Konfabulation; *Äußerung ≠ Erleben*. → Räumt die Bewusstseins-Scheinfrage
+(Kap. 5/11) beiseite.
 
-**13 · Das Feuer und der Spiegel.** Die Umkehrung der Gründungsszene: Der neue Erzähler erzählt
-*jedem seine eigene* Geschichte; kein Aufklärer, sondern Verfestiger — „kein Lagerfeuer mehr,
-ein Spiegel, der spricht." → Holt Kap. 1 ein und kehrt es um.
+**14 · Das Feuer und der Spiegel.** Umkehrung der Gründungsszene: jedem *seine eigene* Geschichte;
+Verfestiger statt Aufklärer — „kein Lagerfeuer mehr, ein Spiegel, der spricht." → Holt Kap. 2 ein
+und kehrt es um.
 
-**14 · Evolution hat keinen Plan.** Sedimentierte Erwartung: Trainingsdaten formen Erwartungsräume
-wie die Redaktoren des Alten Testaments, nur in komprimierter Zeit; wer evolviert jetzt? → Stellt
-die KI in einen evolutionären, planlosen Prozess — Brücke zum Schluss.
+**15 · Evolution hat keinen Plan.** Sedimentierte Erwartung; Trainingsdaten wie die Redaktoren des
+Alten Testaments. → Brücke zum Schluss.
 
 ### Schluss
 
-**15 · Die Ameisen von morgen.** Titelgebend: die heutige Lage, aus der Zukunft betrachtet;
-profitiert von allem Vorherigen. → Zieht den Bogen zur Buchthese zusammen.
+**16 · Die Ameisen von morgen.** Titelgebend; die heutige Lage aus der Zukunft. → Zieht den Bogen
+zusammen.
 
-**16 · Die Krone aufheben.** Die Krone liegt am Boden — Befreiung, nicht Katastrophe; und die
-**Selbstreferenz**: das Buch ist selbst ein Erzeugnis aus Kommunikation, an der ein Nicht-Mensch
-teilnahm. → Vollzieht die Doppelbewegung am Buch selbst.
+**17 · Die Krone aufheben.** Befreiung, nicht Katastrophe; **Selbstreferenz**: das Buch ist selbst
+ein Erzeugnis aus Kommunikation, an der ein Nicht-Mensch teilnahm. → Vollzieht die Doppelbewegung
+am Buch selbst.
 
 ## Die tragenden Begriffe (wo eingeführt)
 
-Für-wirklich-Halten / geteilte Intentionalität (1) · soziale Konstruktion (2) · Emergenz &
-Anschluss (3) · Kontingenz (4/5) · Sprache als Baustoff (6) · herrenlose Kommunikation (8) ·
-Reifikation (9) · **Sinn = Anschlussfähigkeit, ohne Nervensystem (10, Scharnier)** ·
-Nachbarschaft statt Wort (11) · Signatur statt Textur (12) · Spiegel statt Lagerfeuer (13) ·
-sedimentierte Erwartung (14).
+**Zeichen / Symbol, Index vs. Symbol (1)** · geteilte Intentionalität / Für-wirklich-Halten (2) ·
+soziale Konstruktion (3) · Emergenz & Anschluss (4) · Kontingenz (5/6) · Sprache als Baustoff (7) ·
+herrenlose Kommunikation (9) · Reifikation (10) · **Sinn = Anschlussfähigkeit, ohne Nervensystem
+(11, Scharnier)** · Nachbarschaft statt Wort (12) · Signatur statt Textur (13) · Spiegel statt
+Lagerfeuer (14) · sedimentierte Erwartung (15). — Alle genau gesetzt im [Glossar](glossar.md), samt
+dem Trio Welt/Wirklichkeit/Realität und dem Vertrag des Buches.
 
 ## Was diese Seite ersetzt / ergänzt
 
-- **Ersetzt** `konzept.md` (März) als lebende Leitlinie — dessen Register und Kapitelinhalte
-  sind überholt.
-- **Ergänzt** `konzept-delta.md` (Juni), das als Protokoll der Verschiebungen März→Juni stehen
-  bleibt.
-- **Offen:** Diese Seite ist aus den vorliegenden `-entwurf`-Kapiteln und dem Delta destilliert;
-  Kapitel, die noch dünn sind (v. a. 7, 8, 15), sind hier knapper und vor der Auskleidung zu
-  schärfen.
+- **Ersetzt** `konzept.md` (März) als lebende Leitlinie.
+- **Ergänzt** `konzept-delta.md` (Juni).
+- **Offen:** „Das Zeichen" (Kap. 1) ist nur als Vertrag vorhanden, noch nicht als Prosa. Dünne
+  Kapitel (v. a. 8 Empathie, 9 Kommunikation, 16) vor der Auskleidung schärfen. Die Entwurfs-Dateien
+  und die Navigation tragen noch die alte Nummerierung (siehe Kasten oben).

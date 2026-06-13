@@ -16,6 +16,10 @@ Leitdokument ab und übernimmt die Stoffsammlung aus dem [Tier-Grenze-Rohtext](k
 > 1·B unten bleiben nur als Referenz stehen (durchgestrichen markiert); die Neu-Sequenzierung des
 > Kapitels (Tierreich vor die Genese-Strecke, vgl. offener Entscheid 4) ist der nächste
 > Arbeitsschritt. Titel künftig nicht mehr „Das Lagerfeuer" — Kandidat „Der geteilte Blick".
+>
+> **Stand 13.06. — Zeichen-Umbau:** Dieses Kapitel ist jetzt **Kapitel 2**. Davor steht „Das
+> Zeichen" (Kap. 1, eigener [Vertrag](kap-zeichen-vertrag.md)). Die Abgrenzung wird dadurch
+> geschärft: Die Linie zum Tier fällt bei **Index → Symbol**, nicht bei dumm/klug.
 
 ## Methode (gilt für jeden Schritt)
 
