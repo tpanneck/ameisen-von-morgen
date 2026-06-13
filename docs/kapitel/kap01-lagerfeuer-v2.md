@@ -76,7 +76,7 @@ dessen, worum dieses ganze Buch kreisen wird, und sie hat noch keinen Namen.
 
 Man kann an einem Wort der Geschichte sehen, von welcher Art das ist, was hier geteilt wird.
 „Wer hinausfährt, sieht sie", sagt der Alte von den beiden Felsen vor dem Kap, und das stimmt
-— die Felsen stehen dort, salzüberkrustet, in den Seekarten verzeichnet, jedem zugänglich,
+— es sind die *Pages*-Inseln in der Backstairs Passage zwischen Kap und Kangaroo Island, die dort salzüberkrustet stehen, in den Seekarten verzeichnet, jedem zugänglich,
 der ein Boot hat. Was kein Boot je erreicht, ist die andere Hälfte des Satzes: dass diese
 Felsen die beiden Frauen sind. Darüber entscheidet das Meer nicht. Man kann hinausfahren und
 findet Stein; man hat damit nichts widerlegt, denn der Satz, der die Frauen in den Felsen
@@ -376,6 +376,11 @@ verzeichnet — das ist nicht Schwäche der Darstellung, sondern Wissenschaft im
   Darstellungen des Ngurunderi-Zyklus.** — Museumsfassung der Reise Ngurunderis vom Murray bis
   Kangaroo Island; Quelle für die Wegstationen (Cape Jervis, die zwei Felsen, Karta als Ort der
   Toten). *Absicherung der erzählten Geografie.*
+- **Die zwei Felsen = *The Pages* (Backstairs Passage).** Die beiden ertrunkenen Frauen wurden zu
+  den *Pages*-Inseln in der Meerenge zwischen Cape Jervis (Fleurieu-Halbinsel) und Kangaroo Island.
+  Matthew Flinders benannte sie 1802 „The Pages" (Ähnlichkeit mit Pagen am Eingang der Meerenge) —
+  *dieselben Felsen, zwei Erzählungen: Seekarte und Überlieferung.* Damit ist der
+  „wer-hinausfährt"-Beleg auffindbar.
 - *Anmerkung zur Darstellung:* Die Szene ist aus belegten Bausteinen **komponiert**, nicht
   protokolliert; bewusst vermieden wurden ortsfremde Requisiten (Didgeridoo gehört nach Arnhem
   Land), das Wort „Häuptling", die Deutung der Ältestenrunde als „Gericht" sowie eingeschränkte,
@@ -388,6 +393,11 @@ verzeichnet — das ist nicht Schwäche der Darstellung, sondern Wissenschaft im
   Lesart, wonach Küstenüberlieferungen reale nacheiszeitliche Überflutungen erinnern; hier nur
   als markierte Möglichkeit geführt, nicht als Beleg. *Gegenstimmen in der Folkloristik sind
   zu nennen.*
+- **„Calibrating Holocene human–environment interactions using ancient narratives: The example
+  of Ngurunderi in South Australia" (2024, *Journal of Island & Coastal Archaeology*).** —
+  Kalibriert die Ngurunderi-Erzählung direkt gegen den nacheiszeitlichen Meeresanstieg; jünger
+  und einschlägiger als Nunn & Reid 2016 für die „trockenen Fußes"-Stelle. *Verfasserschaft vor
+  dem Druck zu prüfen; weiterhin als Möglichkeit, nicht als Beweis zu führen.*
 
 **Gegen die „Revolutions"-Erzählung — Grundlage der Vorsicht**
 

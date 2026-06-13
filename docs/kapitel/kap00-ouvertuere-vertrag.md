@@ -54,7 +54,8 @@ Der Autor tritt nach der Szene hervor und sagt, was er vorhat:
 - **Warum dieser Text:** bewusst ein *alter*, *dokumentierter* Text — aus Australien
   (Taplin 1870er; Berndt & Berndt, Feldarbeit 1940er) [zu bestätigen]. Eigener, für sich
   spannender Befund: Die Erzählung könnte eine reale Erinnerung über ~10.000 Jahre tragen
-  (Kangaroo Island war Festland; „trockenen Fußes") [Nunn & Reid — umstritten] — selbst schon
+  (Kangaroo Island war Festland; „trockenen Fußes") [Nunn & Reid 2016; Ngurunderi-Studie 2024 —
+  umstritten] — selbst schon
   ein Fall von „durch Kommunikation lebendig gehalten".
 
 ### 3. Die Leitfragen (radikal-konstruktivistisch, in der Stimme des Autors)
@@ -125,6 +126,10 @@ die Prosa.*
    wahr; dass er eine Frau war, ist Sinn — gehalten allein dadurch, dass man es weitererzählt.
    Wo endet die Welt, und wo beginnt unser Erzählen von ihr?* — **(L3, Sinn ≠ Wahrheit, die
    Grenze — ohne ein Wort „Lingdeem")**
+   *(Konkret: die Felsen sind* The Pages *in der Backstairs Passage zwischen Cape Jervis und
+   Kangaroo Island. Option für den Zug: die Doppelnennung — Flinders gab ihnen 1802 den Namen
+   „The Pages" (Pagen am Eingang der Meerenge), die Ngarrindjeri sehen die zwei Frauen; derselbe
+   Stein, zwei Erzählungen — sogar der nüchterne Kartenname ist schon ein Bild.)*
 
 5. **Ngurunderi legt die Waffen ab** → *Am äußersten Ende der Insel legte er die Waffen ab, eine
    nach der anderen, und wusch die lange Reise von sich, ehe er aufstieg. Kannst du das Ich
@@ -200,5 +205,6 @@ Kapitel ist es, die diese Betrachtung vor Kitsch schützt.
 2. **Der Kapitel-1-Vertrag beginnt jetzt bei den Grundlagen** (geteilte Aufmerksamkeit); seine
    bisherigen Schritte 1 (Szene) und 1·B (Autoren-Wende) sind hierher ausgelagert.
 3. **Titel der Ouvertüre** offen (Ouvertüre / Einleitung: Am Feuer / Vor-Kapitel).
-4. **Quellen-Identifikationen** (Malinowski/Eliade/Lévi-Strauss; Taplin/Berndt; Nunn & Reid)
-   noch zu bestätigen.
+4. **Quellen-Identifikationen** (Malinowski/Eliade/Lévi-Strauss; Taplin/Berndt; Nunn & Reid +
+   Ngurunderi-Studie 2024; die zwei Felsen = *The Pages*, Backstairs Passage, Flinders 1802) noch
+   zu bestätigen.
