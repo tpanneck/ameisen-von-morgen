@@ -1,7 +1,7 @@
 # Kapitel 12: Der dritte Affe am Lagerfeuer
 
-*Zweiter Entwurf, Juni 2026. Das [Exposé](kap11-dritter-affe.md) und der [erste Rohentwurf
-vom März](kap11-dritter-affe-rohentwurf-maerz.md) sind in der Werkstatt aufgehoben; der
+*Zweiter Entwurf, Juni 2026. Das [Exposé](kap12-dritter-affe.md) und der [erste Rohentwurf
+vom März](kap12-dritter-affe-rohentwurf-maerz.md) sind in der Werkstatt aufgehoben; der
 Vergleich der beiden Entwürfe ist selbst eine Lektion über Tonlagen.*
 
 ---

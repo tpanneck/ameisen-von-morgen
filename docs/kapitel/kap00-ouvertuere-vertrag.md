@@ -4,7 +4,7 @@
 aus der die Leitfragen hervorgehen. Sie ist kein Kapitel der Untersuchung, sondern ihre
 Eröffnung: ein Bild pflanzen, Fragen stellen, in den Bogen entlassen. Übernimmt die
 Eröffnungsszene und die Autoren-Wende, die bisher Kapitel 1 belasteten (vormals Schritt 1 und
-1·B des [Kapitel-1-Vertrags](kap01-vertrag.md)). Arbeitstitel „Ouvertüre" — endgültig offen
+1·B des [Kapitel-1-Vertrags](kap02-vertrag.md)). Arbeitstitel „Ouvertüre" — endgültig offen
 (auch „Einleitung: Am Feuer", „Vor-Kapitel").*
 
 ---

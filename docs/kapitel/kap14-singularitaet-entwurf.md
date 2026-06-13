@@ -1,6 +1,6 @@
 # Kapitel 14: Das Feuer und der Spiegel
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap13-singularitaet.md) vom März — damals noch
+*Erster Entwurf, Juni 2026. Das [Exposé](kap14-singularitaet.md) vom März — damals noch
 unter dem Titel „Die Singularität, die keiner bemerkt" — ist daneben aufgehoben.*
 
 ---

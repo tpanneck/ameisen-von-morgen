@@ -1,6 +1,6 @@
 # Kapitel 10: Die Kinder, die ihre Eltern vergessen
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap09-kinder-die-eltern-vergessen.md) vom März ist
+*Erster Entwurf, Juni 2026. Das [Exposé](kap10-kinder-die-eltern-vergessen.md) vom März ist
 daneben aufgehoben.*
 
 ---

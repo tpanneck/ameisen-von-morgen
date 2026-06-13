@@ -1,6 +1,6 @@
 # Kapitel 3: Die Erfindung der Wirklichkeit
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap02-erfindung-der-wirklichkeit.md) vom März ist
+*Erster Entwurf, Juni 2026. Das [Exposé](kap03-erfindung-der-wirklichkeit.md) vom März ist
 daneben aufgehoben.*
 
 ---

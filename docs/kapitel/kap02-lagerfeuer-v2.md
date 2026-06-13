@@ -5,7 +5,7 @@
 *Alternative Fassung (v2), 10. Juni 2026. Sie ersetzt die erfundene Eröffnung durch eine
 dokumentierte Überlieferung der Ngarrindjeri, fächert die Tier-Grenze über mehrere Arten auf
 und führt die konkurrierenden Erklärungsansätze zusammen, ohne ihren Streit zu glätten. Die
-[Erstfassung](kap01-lagerfeuer-entwurf.md) bleibt daneben aufgehoben.*
+[Erstfassung](kap02-lagerfeuer-entwurf.md) bleibt daneben aufgehoben.*
 
 ---
 

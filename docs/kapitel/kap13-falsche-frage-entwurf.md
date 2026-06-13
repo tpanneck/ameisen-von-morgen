@@ -1,6 +1,6 @@
 # Kapitel 13: Die falsche Frage
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap12-falsche-frage.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap13-falsche-frage.md) vom März ist daneben
 aufgehoben.*
 
 ---

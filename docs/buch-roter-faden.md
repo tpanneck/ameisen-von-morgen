@@ -7,10 +7,10 @@ Kapitel **leistet**, und wie eins aufs andere **aufbaut**. Begriffe genau gesetz
 
 > **Nummerierung nach dem Zeichen-Umbau (13.06.):** „Das Zeichen" ist neues **Kapitel 1**, die
 > Abgrenzung zum Tier rückt auf **2**, alles Weitere +1 — jetzt 17 Kapitel. Die neue Nummerierung
-> ist **durchgezogen**: Kapitel-Überschriften, Quer-Verweise im Text *und* die Navigation stimmen
-> überein. Nur die *Dateinamen* (`kap01…kap16`) bleiben als stabile Kennungen/URLs auf der alten
-> Zahl — leserseitig unsichtbar. „Das Zeichen" existiert bisher nur als Vertrag, noch nicht als
-> Prosa; die März-Exposés tragen einen Historisch-Hinweis und behalten ihre alte Nummerierung.
+> ist **vollständig durchgezogen** — Kapitel-Überschriften, Quer-Verweise im Text, die Navigation
+> *und* die Dateinamen (`kap01-zeichen…kap17-krone-aufheben`). „Das Zeichen" existiert bisher nur
+> als Vertrag, noch nicht als Prosa; die März-Exposés tragen einen Historisch-Hinweis und behalten
+> in ihrem *Inhalt* die alte Nummerierung (als Archiv kenntlich).
 
 ---
 
@@ -76,7 +76,7 @@ den **Riss zwischen Wort und Ding**, macht das Durchsichtige undurchsichtig. Ind
 (Peirce), das arbiträre Zeichen (Saussure), *animal symbolicum* (Cassirer). → Der Riss ist der
 Same von allem: der **Wirklichkeit** (zeichen-gebaut), der **Realitäts-Illusion** (Zeichen für Ding
 = Karte für Landschaft) und der kommenden Abgrenzung. Reicht die Einheit weiter, an der Kap. 2 die
-Linie zieht. ([Zeichen-Vertrag](kapitel/kap-zeichen-vertrag.md).)
+Linie zieht. ([Zeichen-Vertrag](kapitel/kap01-zeichen-vertrag.md).)
 
 **2 · Der geteilte Blick** *(Abgrenzung; vormals „Das Lagerfeuer")*. Was trennt uns vom Tier?
 Nicht dumm/klug, sondern **Index → Symbol**: das tierische Signal ist an die Gegenwart gebunden,
@@ -155,5 +155,5 @@ dem Trio Welt/Wirklichkeit/Realität und dem Vertrag des Buches.
 - **Ersetzt** `konzept.md` (März) als lebende Leitlinie.
 - **Ergänzt** `konzept-delta.md` (Juni).
 - **Offen:** „Das Zeichen" (Kap. 1) ist nur als Vertrag vorhanden, noch nicht als Prosa. Dünne
-  Kapitel (v. a. 8 Empathie, 9 Kommunikation, 16) vor der Auskleidung schärfen. Nur die
-  *Dateinamen* bleiben als stabile Kennungen auf der alten Zahl (siehe Kasten oben).
+  Kapitel (v. a. 8 Empathie, 9 Kommunikation, 16) vor der Auskleidung schärfen. Die Umnummerierung
+  ist vollständig durchgezogen — inklusive Dateinamen.

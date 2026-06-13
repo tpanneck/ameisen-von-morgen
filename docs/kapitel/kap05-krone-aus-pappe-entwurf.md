@@ -1,6 +1,6 @@
 # Kapitel 5: Die Krone aus Pappe
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap04-krone-aus-pappe.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap05-krone-aus-pappe.md) vom März ist daneben
 aufgehoben.*
 
 ---

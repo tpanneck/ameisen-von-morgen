@@ -1,6 +1,6 @@
 # Kapitel 16: Die Ameisen von morgen
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap15-ameisen-von-morgen.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap16-ameisen-von-morgen.md) vom März ist daneben
 aufgehoben.*
 
 ---

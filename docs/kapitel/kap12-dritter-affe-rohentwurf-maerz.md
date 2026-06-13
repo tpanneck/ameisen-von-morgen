@@ -3,7 +3,7 @@
 !!! note "Werkstatt-Archiv"
     Dies ist der **erste Rohentwurf vom März 2026**, in der Stammtisch-Tonlage und mit
     sichtbaren Arbeitsmarkern (`[TODO]`, `[PRÜFEN]`). Er ist **überholt** — das fertige
-    Kapitel 11 steht im [zweiten Entwurf vom Juni](kap11-dritter-affe-entwurf.md). Der
+    Kapitel 11 steht im [zweiten Entwurf vom Juni](kap12-dritter-affe-entwurf.md). Der
     Rohentwurf bleibt aufgehoben, weil der Vergleich der beiden Fassungen selbst eine
     Lektion über Tonlagen ist: wie aus Digest-Häppchen getragene Prosa wird.
 

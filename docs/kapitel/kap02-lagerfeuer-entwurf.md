@@ -1,6 +1,6 @@
 # Kapitel 2: Das Lagerfeuer
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap01-lagerfeuer.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap02-lagerfeuer.md) vom März ist daneben
 aufgehoben.*
 
 ---

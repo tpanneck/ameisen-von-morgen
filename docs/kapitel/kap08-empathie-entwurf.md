@@ -1,6 +1,6 @@
 # Kapitel 8: Empathie — oder: Warum du weinst, wenn jemand im Film stirbt
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap07-empathie.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap08-empathie.md) vom März ist daneben
 aufgehoben.*
 
 ---

@@ -1,6 +1,6 @@
 # Kapitel 17: Die Krone aufheben — oder liegenlassen
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap16-krone-aufheben.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap17-krone-aufheben.md) vom März ist daneben
 aufgehoben.*
 
 ---

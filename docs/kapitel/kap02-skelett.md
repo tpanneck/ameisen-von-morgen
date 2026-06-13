@@ -3,7 +3,7 @@
 *Werkstatt-Datei, 10.06.2026. Dies ist das tragende Gerüst des Kapitels: pro Abschnitt
 **eine** Behauptung (die Botschaft, nicht der Inhalt), plus der **Typ des Übergangs** zum
 nächsten. Gegen dieses Skelett wird jede Auskleidung gemessen. Es löst das März-Exposé
-(`kap01-lagerfeuer.md`) ab, das noch die verworfenen Rahmungen trägt (70.000 Jahre,
+(`kap02-lagerfeuer.md`) ab, das noch die verworfenen Rahmungen trägt (70.000 Jahre,
 „kognitive Revolution", „der Mensch lernte lügen", Fiktion als Schlagzeile).*
 
 ---

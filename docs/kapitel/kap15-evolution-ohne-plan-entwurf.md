@@ -1,6 +1,6 @@
 # Kapitel 15: Evolution hat keinen Plan
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap14-evolution-ohne-plan.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap15-evolution-ohne-plan.md) vom März ist daneben
 aufgehoben.*
 
 ---

@@ -1,6 +1,6 @@
 # Kapitel 11: Sinn — das Betriebssystem
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap10-sinn-das-betriebssystem.md) vom März ist
+*Erster Entwurf, Juni 2026. Das [Exposé](kap11-sinn-das-betriebssystem.md) vom März ist
 daneben aufgehoben.*
 
 ---

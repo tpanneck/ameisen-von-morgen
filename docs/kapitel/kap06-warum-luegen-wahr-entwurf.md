@@ -1,6 +1,6 @@
 # Kapitel 6: Warum sich Lügen wahr anfühlen
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap05-warum-luegen-wahr.md) vom März ist daneben
+*Erster Entwurf, Juni 2026. Das [Exposé](kap06-warum-luegen-wahr.md) vom März ist daneben
 aufgehoben.*
 
 ---

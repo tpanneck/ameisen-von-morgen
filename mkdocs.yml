@@ -54,26 +54,26 @@ nav:
   - Start: index.md
   - "Das Buch (aktueller Stand)":
       - "Teil I — Geschichten":
-          - "1 · Das Zeichen (in Arbeit)": kapitel/kap-zeichen-vertrag.md
-          - "2 · Das Lagerfeuer": kapitel/kap01-lagerfeuer-entwurf.md
-          - "3 · Die Erfindung der Wirklichkeit": kapitel/kap02-erfindung-der-wirklichkeit-entwurf.md
-          - "4 · Ameisen und Kathedralen": kapitel/kap03-ameisen-und-kathedralen-entwurf.md
-          - "5 · Die Krone aus Pappe": kapitel/kap04-krone-aus-pappe-entwurf.md
-          - "6 · Warum Lügen wahr werden": kapitel/kap05-warum-luegen-wahr-entwurf.md
+          - "1 · Das Zeichen (in Arbeit)": kapitel/kap01-zeichen-vertrag.md
+          - "2 · Das Lagerfeuer": kapitel/kap02-lagerfeuer-entwurf.md
+          - "3 · Die Erfindung der Wirklichkeit": kapitel/kap03-erfindung-der-wirklichkeit-entwurf.md
+          - "4 · Ameisen und Kathedralen": kapitel/kap04-ameisen-und-kathedralen-entwurf.md
+          - "5 · Die Krone aus Pappe": kapitel/kap05-krone-aus-pappe-entwurf.md
+          - "6 · Warum Lügen wahr werden": kapitel/kap06-warum-luegen-wahr-entwurf.md
       - "Teil II — Maschinen":
-          - "7 · Im Anfang war das Wort": kapitel/kap06-im-anfang-war-das-wort-entwurf.md
-          - "8 · Empathie": kapitel/kap07-empathie-entwurf.md
-          - "9 · Kommunikation kommuniziert": kapitel/kap08-kommunikation-kommuniziert-entwurf.md
-          - "10 · Die Kinder, die ihre Eltern vergessen": kapitel/kap09-kinder-die-eltern-vergessen-entwurf.md
-          - "11 · Sinn, das Betriebssystem": kapitel/kap10-sinn-das-betriebssystem-entwurf.md
+          - "7 · Im Anfang war das Wort": kapitel/kap07-im-anfang-war-das-wort-entwurf.md
+          - "8 · Empathie": kapitel/kap08-empathie-entwurf.md
+          - "9 · Kommunikation kommuniziert": kapitel/kap09-kommunikation-kommuniziert-entwurf.md
+          - "10 · Die Kinder, die ihre Eltern vergessen": kapitel/kap10-kinder-die-eltern-vergessen-entwurf.md
+          - "11 · Sinn, das Betriebssystem": kapitel/kap11-sinn-das-betriebssystem-entwurf.md
       - "Teil III — Der neue Gast":
-          - "12 · Der dritte Affe am Lagerfeuer": kapitel/kap11-dritter-affe-entwurf.md
-          - "13 · Die falsche Frage": kapitel/kap12-falsche-frage-entwurf.md
-          - "14 · Das Feuer und der Spiegel": kapitel/kap13-singularitaet-entwurf.md
-          - "15 · Evolution hat keinen Plan": kapitel/kap14-evolution-ohne-plan-entwurf.md
+          - "12 · Der dritte Affe am Lagerfeuer": kapitel/kap12-dritter-affe-entwurf.md
+          - "13 · Die falsche Frage": kapitel/kap13-falsche-frage-entwurf.md
+          - "14 · Das Feuer und der Spiegel": kapitel/kap14-singularitaet-entwurf.md
+          - "15 · Evolution hat keinen Plan": kapitel/kap15-evolution-ohne-plan-entwurf.md
       - "Schluss":
-          - "16 · Die Ameisen von morgen": kapitel/kap15-ameisen-von-morgen-entwurf.md
-          - "17 · Die Krone aufheben": kapitel/kap16-krone-aufheben-entwurf.md
+          - "16 · Die Ameisen von morgen": kapitel/kap16-ameisen-von-morgen-entwurf.md
+          - "17 · Die Krone aufheben": kapitel/kap17-krone-aufheben-entwurf.md
   - Werkstatt:
       - "Buch-Ebene":
           - "Roter Faden — das ganze Buch": buch-roter-faden.md
@@ -86,42 +86,42 @@ nav:
           - "Ouvertüre — Am Feuer (Vor-Kapitel)":
               - "Inhaltlicher Vertrag (aktuell)": kapitel/kap00-ouvertuere-vertrag.md
           - "Kapitel 1 — Das Zeichen":
-              - "Inhaltlicher Vertrag (aktuell)": kapitel/kap-zeichen-vertrag.md
+              - "Inhaltlicher Vertrag (aktuell)": kapitel/kap01-zeichen-vertrag.md
           - "Kapitel 2 — Das Lagerfeuer / Der geteilte Blick":
-              - "Inhaltlicher Vertrag (aktuell)": kapitel/kap01-vertrag.md
-              - "Tier-Grenze — Rohtext (aktuell)": kapitel/kap01-tiergrenze-rohtext.md
-              - "Eröffnungsszene — Arbeitsstand (aktuell)": kapitel/kap01-szene-arbeitsstand.md
-              - "Argumentatives Skelett (historisch)": kapitel/kap01-skelett.md
-              - "Prosa-Fassung v2 (historisch · verworfen)": kapitel/kap01-lagerfeuer-v2.md
-              - "Exposé (März · historisch)": kapitel/kap01-lagerfeuer.md
+              - "Inhaltlicher Vertrag (aktuell)": kapitel/kap02-vertrag.md
+              - "Tier-Grenze — Rohtext (aktuell)": kapitel/kap02-tiergrenze-rohtext.md
+              - "Eröffnungsszene — Arbeitsstand (aktuell)": kapitel/kap02-szene-arbeitsstand.md
+              - "Argumentatives Skelett (historisch)": kapitel/kap02-skelett.md
+              - "Prosa-Fassung v2 (historisch · verworfen)": kapitel/kap02-lagerfeuer-v2.md
+              - "Exposé (März · historisch)": kapitel/kap02-lagerfeuer.md
           - "Kapitel 3 — Die Erfindung der Wirklichkeit":
-              - "Exposé (März · historisch)": kapitel/kap02-erfindung-der-wirklichkeit.md
+              - "Exposé (März · historisch)": kapitel/kap03-erfindung-der-wirklichkeit.md
           - "Kapitel 4 — Ameisen und Kathedralen":
-              - "Exposé (März · historisch)": kapitel/kap03-ameisen-und-kathedralen.md
+              - "Exposé (März · historisch)": kapitel/kap04-ameisen-und-kathedralen.md
           - "Kapitel 5 — Die Krone aus Pappe":
-              - "Exposé (März · historisch)": kapitel/kap04-krone-aus-pappe.md
+              - "Exposé (März · historisch)": kapitel/kap05-krone-aus-pappe.md
           - "Kapitel 6 — Warum Lügen wahr werden":
-              - "Exposé (März · historisch)": kapitel/kap05-warum-luegen-wahr.md
+              - "Exposé (März · historisch)": kapitel/kap06-warum-luegen-wahr.md
           - "Kapitel 7 — Im Anfang war das Wort":
-              - "Exposé (März · historisch)": kapitel/kap06-im-anfang-war-das-wort.md
+              - "Exposé (März · historisch)": kapitel/kap07-im-anfang-war-das-wort.md
           - "Kapitel 8 — Empathie":
-              - "Exposé (März · historisch)": kapitel/kap07-empathie.md
+              - "Exposé (März · historisch)": kapitel/kap08-empathie.md
           - "Kapitel 9 — Kommunikation kommuniziert":
-              - "Exposé (März · historisch)": kapitel/kap08-kommunikation-kommuniziert.md
+              - "Exposé (März · historisch)": kapitel/kap09-kommunikation-kommuniziert.md
           - "Kapitel 10 — Die Kinder, die ihre Eltern vergessen":
-              - "Exposé (März · historisch)": kapitel/kap09-kinder-die-eltern-vergessen.md
+              - "Exposé (März · historisch)": kapitel/kap10-kinder-die-eltern-vergessen.md
           - "Kapitel 11 — Sinn, das Betriebssystem":
-              - "Exposé (März · historisch)": kapitel/kap10-sinn-das-betriebssystem.md
+              - "Exposé (März · historisch)": kapitel/kap11-sinn-das-betriebssystem.md
           - "Kapitel 12 — Der dritte Affe am Lagerfeuer":
-              - "Exposé (März · historisch)": kapitel/kap11-dritter-affe.md
-              - "Rohentwurf März (historisch)": kapitel/kap11-dritter-affe-rohentwurf-maerz.md
+              - "Exposé (März · historisch)": kapitel/kap12-dritter-affe.md
+              - "Rohentwurf März (historisch)": kapitel/kap12-dritter-affe-rohentwurf-maerz.md
           - "Kapitel 13 — Die falsche Frage":
-              - "Exposé (März · historisch)": kapitel/kap12-falsche-frage.md
+              - "Exposé (März · historisch)": kapitel/kap13-falsche-frage.md
           - "Kapitel 14 — Das Feuer und der Spiegel":
-              - "Exposé (März · Singularität · historisch)": kapitel/kap13-singularitaet.md
+              - "Exposé (März · Singularität · historisch)": kapitel/kap14-singularitaet.md
           - "Kapitel 15 — Evolution hat keinen Plan":
-              - "Exposé (März · historisch)": kapitel/kap14-evolution-ohne-plan.md
+              - "Exposé (März · historisch)": kapitel/kap15-evolution-ohne-plan.md
           - "Kapitel 16 — Die Ameisen von morgen":
-              - "Exposé (März · historisch)": kapitel/kap15-ameisen-von-morgen.md
+              - "Exposé (März · historisch)": kapitel/kap16-ameisen-von-morgen.md
           - "Kapitel 17 — Die Krone aufheben":
-              - "Exposé (März · historisch)": kapitel/kap16-krone-aufheben.md
+              - "Exposé (März · historisch)": kapitel/kap17-krone-aufheben.md

@@ -1,6 +1,6 @@
 # Kapitel 4: Ameisen und Kathedralen
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap03-ameisen-und-kathedralen.md) vom März ist
+*Erster Entwurf, Juni 2026. Das [Exposé](kap04-ameisen-und-kathedralen.md) vom März ist
 daneben aufgehoben.*
 
 ---

@@ -5,8 +5,8 @@ wissenschaftliche Bewegung, nicht ihre Erzählung. Reihenfolge der Arbeit: erst 
 Vertrag, dann die gestalterischen Elemente (Ton, Dramatik, Tempo), mit denen wir variieren,
 um den Leser bei dieser Dichte nicht zu ermüden. Ton ist hier **bewusst** ausgeklammert.*
 
-*Er löst die frühere, noch dramaturgisch gedachte Skizze ([Skelett](kap01-skelett.md)) als
-Leitdokument ab und übernimmt die Stoffsammlung aus dem [Tier-Grenze-Rohtext](kap01-tiergrenze-rohtext.md).*
+*Er löst die frühere, noch dramaturgisch gedachte Skizze ([Skelett](kap02-skelett.md)) als
+Leitdokument ab und übernimmt die Stoffsammlung aus dem [Tier-Grenze-Rohtext](kap02-tiergrenze-rohtext.md).*
 
 ---
 
@@ -18,7 +18,7 @@ Leitdokument ab und übernimmt die Stoffsammlung aus dem [Tier-Grenze-Rohtext](k
 > Arbeitsschritt. Titel künftig nicht mehr „Das Lagerfeuer" — Kandidat „Der geteilte Blick".
 >
 > **Stand 13.06. — Zeichen-Umbau:** Dieses Kapitel ist jetzt **Kapitel 2**. Davor steht „Das
-> Zeichen" (Kap. 1, eigener [Vertrag](kap-zeichen-vertrag.md)). Die Abgrenzung wird dadurch
+> Zeichen" (Kap. 1, eigener [Vertrag](kap01-zeichen-vertrag.md)). Die Abgrenzung wird dadurch
 > geschärft: Die Linie zum Tier fällt bei **Index → Symbol**, nicht bei dumm/klug.
 
 ## Methode (gilt für jeden Schritt)

@@ -1,6 +1,6 @@
 # Kapitel 9: Kommunikation kommuniziert
 
-*Erster Entwurf, Juni 2026. Das [Exposé](kap08-kommunikation-kommuniziert.md) vom März ist
+*Erster Entwurf, Juni 2026. Das [Exposé](kap09-kommunikation-kommuniziert.md) vom März ist
 daneben aufgehoben.*
 
 ---
